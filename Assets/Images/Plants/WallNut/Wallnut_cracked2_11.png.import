@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cv6uaduox2n14"
-path="res://.godot/imported/Wallnut_cracked2_11.png-2a31b1b018a5515a5603895ec7d1be29.ctex"
+uid="uid://4ofx38xl6qqm"
+path="res://.godot/imported/Wallnut_cracked2_11.png-d7138b61ebcaf8c51a70acf6e57173a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Plants/WallNut/Wallnut_cracked2_11.png"
-dest_files=["res://.godot/imported/Wallnut_cracked2_11.png-2a31b1b018a5515a5603895ec7d1be29.ctex"]
+source_file="res://assets/Images/Plants/WallNut/Wallnut_cracked2_11.png"
+dest_files=["res://.godot/imported/Wallnut_cracked2_11.png-d7138b61ebcaf8c51a70acf6e57173a7.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtnpgt0hu6470"
-path="res://.godot/imported/ChooserBackground.png-09ef5a2499354e26b2c16605bd2f1412.ctex"
+uid="uid://c7a1wxto8x5ra"
+path="res://.godot/imported/ChooserBackground.png-fabad8d11c55915d4cc0a9652c674cff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/ChooserBackground.png"
-dest_files=["res://.godot/imported/ChooserBackground.png-09ef5a2499354e26b2c16605bd2f1412.ctex"]
+source_file="res://assets/Images/UI/ChooserBackground.png"
+dest_files=["res://.godot/imported/ChooserBackground.png-fabad8d11c55915d4cc0a9652c674cff.ctex"]
 
 [params]
 

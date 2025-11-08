@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dgdiq7dgeurio"
-path="res://.godot/imported/FlagMeterParts1.png-13fdc51fea18dba48d0798b89cfa6d2e.ctex"
+uid="uid://ty587jsxp7cq"
+path="res://.godot/imported/FlagMeterParts1.png-98460d563ae2f91503d9d3cc82062e19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/FlagMeterParts1.png"
-dest_files=["res://.godot/imported/FlagMeterParts1.png-13fdc51fea18dba48d0798b89cfa6d2e.ctex"]
+source_file="res://assets/Images/UI/FlagMeterParts1.png"
+dest_files=["res://.godot/imported/FlagMeterParts1.png-98460d563ae2f91503d9d3cc82062e19.ctex"]
 
 [params]
 

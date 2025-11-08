@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dniejht2gxqn6"
-path="res://.godot/imported/BucketheadZombie_11.png-68d48e0fbb8649a003ef024d09289aa6.ctex"
+uid="uid://bt7xiwcig6jxp"
+path="res://.godot/imported/BucketheadZombie_11.png-8a020fefd057ee898f678182ffaae24b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/BucketheadZombie/BucketheadZombie_11.png"
-dest_files=["res://.godot/imported/BucketheadZombie_11.png-68d48e0fbb8649a003ef024d09289aa6.ctex"]
+source_file="res://assets/Images/Zombies/BucketheadZombie/BucketheadZombie_11.png"
+dest_files=["res://.godot/imported/BucketheadZombie_11.png-8a020fefd057ee898f678182ffaae24b.ctex"]
 
 [params]
 

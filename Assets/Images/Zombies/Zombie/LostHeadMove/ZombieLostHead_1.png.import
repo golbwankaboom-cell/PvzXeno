@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnbsblnxugcab"
-path="res://.godot/imported/ZombieLostHead_1.png-c78c19e286c358d4f2b1b063ac515f19.ctex"
+uid="uid://dvmurwrqecbp0"
+path="res://.godot/imported/ZombieLostHead_1.png-c655eb3911d0dca7290c6a16d8121c69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/Zombie/LostHeadMove/ZombieLostHead_1.png"
-dest_files=["res://.godot/imported/ZombieLostHead_1.png-c78c19e286c358d4f2b1b063ac515f19.ctex"]
+source_file="res://assets/Images/Zombies/Zombie/LostHeadMove/ZombieLostHead_1.png"
+dest_files=["res://.godot/imported/ZombieLostHead_1.png-c655eb3911d0dca7290c6a16d8121c69.ctex"]
 
 [params]
 

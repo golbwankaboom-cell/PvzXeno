@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dkouiq8qnreh6"
-path="res://.godot/imported/ConeheadZombie_4.png-81697027d2444eb701be09576ea8af21.ctex"
+uid="uid://dbq4p0eql8a5c"
+path="res://.godot/imported/ConeheadZombie_4.png-effe31380b58b48be77bb311ea1114d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/ConeheadZombie/ConeheadZombie_4.png"
-dest_files=["res://.godot/imported/ConeheadZombie_4.png-81697027d2444eb701be09576ea8af21.ctex"]
+source_file="res://assets/Images/Zombies/ConeheadZombie/ConeheadZombie_4.png"
+dest_files=["res://.godot/imported/ConeheadZombie_4.png-effe31380b58b48be77bb311ea1114d2.ctex"]
 
 [params]
 

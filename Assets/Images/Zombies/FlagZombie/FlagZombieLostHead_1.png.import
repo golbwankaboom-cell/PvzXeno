@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://4ftma73d6c7o"
-path="res://.godot/imported/FlagZombieLostHead_1.png-d7a24231b80334475b51f2b949540ca8.ctex"
+uid="uid://bjqcanqfrxsad"
+path="res://.godot/imported/FlagZombieLostHead_1.png-4a393ab2a1015b29ae91edc9fd2e2ddd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/FlagZombie/FlagZombieLostHead_1.png"
-dest_files=["res://.godot/imported/FlagZombieLostHead_1.png-d7a24231b80334475b51f2b949540ca8.ctex"]
+source_file="res://assets/Images/Zombies/FlagZombie/FlagZombieLostHead_1.png"
+dest_files=["res://.godot/imported/FlagZombieLostHead_1.png-4a393ab2a1015b29ae91edc9fd2e2ddd.ctex"]
 
 [params]
 

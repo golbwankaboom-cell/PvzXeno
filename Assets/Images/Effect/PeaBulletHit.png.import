@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5e6olgvlkvo"
-path="res://.godot/imported/PeaBulletHit.png-9b1005e4acfd4724fb1a0f0cacb6dbda.ctex"
+uid="uid://dwk2asykv8pap"
+path="res://.godot/imported/PeaBulletHit.png-ae7e7db67a6895c933634e18265c4965.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Effect/PeaBulletHit.png"
-dest_files=["res://.godot/imported/PeaBulletHit.png-9b1005e4acfd4724fb1a0f0cacb6dbda.ctex"]
+source_file="res://assets/Images/Effect/PeaBulletHit.png"
+dest_files=["res://.godot/imported/PeaBulletHit.png-ae7e7db67a6895c933634e18265c4965.ctex"]
 
 [params]
 

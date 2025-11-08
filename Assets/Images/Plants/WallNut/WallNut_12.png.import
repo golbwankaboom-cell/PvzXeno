@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bacdkcml6ojlo"
-path="res://.godot/imported/WallNut_12.png-cfd07dd2c024d47a75df8d74ecd2a553.ctex"
+uid="uid://6nhsvr7nnc2e"
+path="res://.godot/imported/WallNut_12.png-0bf2e1b814008583a17f0a18d7594f03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Plants/WallNut/WallNut_12.png"
-dest_files=["res://.godot/imported/WallNut_12.png-cfd07dd2c024d47a75df8d74ecd2a553.ctex"]
+source_file="res://assets/Images/Plants/WallNut/WallNut_12.png"
+dest_files=["res://.godot/imported/WallNut_12.png-0bf2e1b814008583a17f0a18d7594f03.ctex"]
 
 [params]
 

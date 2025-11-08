@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://diq3e3j7mpvvu"
-path="res://.godot/imported/Peashooter_13.png-247d01bb413bd0935626560f76edae02.ctex"
+uid="uid://bbwufm7fsdyb1"
+path="res://.godot/imported/Peashooter_13.png-c263e074c5a802e935ab23f20002a601.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Plants/Peashooter/Peashooter_13.png"
-dest_files=["res://.godot/imported/Peashooter_13.png-247d01bb413bd0935626560f76edae02.ctex"]
+source_file="res://assets/Images/Plants/Peashooter/Peashooter_13.png"
+dest_files=["res://.godot/imported/Peashooter_13.png-c263e074c5a802e935ab23f20002a601.ctex"]
 
 [params]
 

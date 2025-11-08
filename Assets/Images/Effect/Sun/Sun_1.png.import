@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dx31derq4vwmd"
-path="res://.godot/imported/Sun_1.png-3dd1d0ad7d7749063fcc1896a20e30be.ctex"
+uid="uid://b5cb33ec8i2jt"
+path="res://.godot/imported/Sun_1.png-705ab4f60e1922abcd9f74396899c19f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Effect/Sun/Sun_1.png"
-dest_files=["res://.godot/imported/Sun_1.png-3dd1d0ad7d7749063fcc1896a20e30be.ctex"]
+source_file="res://assets/Images/Effect/Sun/Sun_1.png"
+dest_files=["res://.godot/imported/Sun_1.png-705ab4f60e1922abcd9f74396899c19f.ctex"]
 
 [params]
 

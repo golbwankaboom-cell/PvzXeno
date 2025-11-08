@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cn04vi7i4lwt3"
-path="res://.godot/imported/ZombieAttack_20.png-b445159c0db8e49b4f33ec3209feea1d.ctex"
+uid="uid://8376runctab8"
+path="res://.godot/imported/ZombieAttack_20.png-72843a055f1227c16f2c00e94f604878.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/Zombie/Eat/ZombieAttack_20.png"
-dest_files=["res://.godot/imported/ZombieAttack_20.png-b445159c0db8e49b4f33ec3209feea1d.ctex"]
+source_file="res://assets/Images/Zombies/Zombie/Eat/ZombieAttack_20.png"
+dest_files=["res://.godot/imported/ZombieAttack_20.png-72843a055f1227c16f2c00e94f604878.ctex"]
 
 [params]
 

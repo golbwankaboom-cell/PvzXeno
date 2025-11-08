@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0jpr323sxtch"
-path="res://.godot/imported/SunFlower_16.png-11306b23bc0a78cd72863eba99aad207.ctex"
+uid="uid://c8mbq358je2p2"
+path="res://.godot/imported/SunFlower_16.png-bd66d2331a03f449ea1ecc95124acfc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Plants/SunFlower/SunFlower_16.png"
-dest_files=["res://.godot/imported/SunFlower_16.png-11306b23bc0a78cd72863eba99aad207.ctex"]
+source_file="res://assets/Images/Plants/SunFlower/SunFlower_16.png"
+dest_files=["res://.godot/imported/SunFlower_16.png-bd66d2331a03f449ea1ecc95124acfc7.ctex"]
 
 [params]
 

@@ -1,0 +1,48 @@
+[gd_scene load_steps=5 format=3 uid="uid://dem0v2rrlor4p"]
+
+[ext_resource type="Texture2D" uid="uid://d0hpo2yp78fwc" path="res://assets/image/plant/plantshadow.png" id="1_futah"]
+[ext_resource type="Texture2D" uid="uid://osds5r8hvsmb" path="res://assets/reanim/Wallnut_body.png" id="2_futah"]
+[ext_resource type="Texture2D" uid="uid://cpbkvykx6yq07" path="res://assets/reanim/Wallnut_twitch.png" id="3_41x36"]
+[ext_resource type="Texture2D" uid="uid://co3e8k6uwm4hi" path="res://assets/reanim/Wallnut_blink1.png" id="4_31glj"]
+
+[node name="Plant1003WallNutBowling" type="Node2D"]
+
+[node name="Shadow" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+scale = Vector2(2, 2)
+texture = ExtResource("1_futah")
+
+[node name="Body" type="Node2D" parent="."]
+unique_name_in_owner = true
+scale = Vector2(2, 2)
+
+[node name="BodyCorrect" type="Node2D" parent="Body"]
+
+[node name="_ground" type="Sprite2D" parent="Body/BodyCorrect"]
+position = Vector2(-42.5, -69.5)
+centered = false
+
+[node name="Anim_idle" type="Sprite2D" parent="Body/BodyCorrect"]
+position = Vector2(-42.5, -69.5)
+centered = false
+
+[node name="Anim_face" type="Sprite2D" parent="Body/BodyCorrect"]
+position = Vector2(-38.663, -61.2476)
+rotation = -0.0454682
+scale = Vector2(0.7, 0.68937)
+texture = ExtResource("2_futah")
+centered = false
+
+[node name="Anim_blink_twitch" type="Sprite2D" parent="Body/BodyCorrect"]
+visible = false
+position = Vector2(-14.5894, -8.3159)
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("3_41x36")
+centered = false
+
+[node name="Anim_blink_twice" type="Sprite2D" parent="Body/BodyCorrect"]
+visible = false
+position = Vector2(-15.7894, -22.3159)
+scale = Vector2(0.7, 0.7)
+texture = ExtResource("4_31glj")
+centered = false

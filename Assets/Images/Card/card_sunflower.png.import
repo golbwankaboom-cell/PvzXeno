@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgkssourowgxc"
-path="res://.godot/imported/card_sunflower.png-00f91015d387fa1efcc0fc304e385bfc.ctex"
+uid="uid://cpo4xgdp8ccv3"
+path="res://.godot/imported/card_sunflower.png-4a5767fade394d0fbb3c62bfed675053.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Card/card_sunflower.png"
-dest_files=["res://.godot/imported/card_sunflower.png-00f91015d387fa1efcc0fc304e385bfc.ctex"]
+source_file="res://assets/Images/Card/card_sunflower.png"
+dest_files=["res://.godot/imported/card_sunflower.png-4a5767fade394d0fbb3c62bfed675053.ctex"]
 
 [params]
 

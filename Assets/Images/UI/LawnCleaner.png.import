@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgyjwro1p7kor"
-path="res://.godot/imported/LawnCleaner.png-535fddfcec6b585935ba12f24685ccf7.ctex"
+uid="uid://3a8s4ivi88wx"
+path="res://.godot/imported/LawnCleaner.png-26e7e729b187b9ddad160aa9a6502fb8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/LawnCleaner.png"
-dest_files=["res://.godot/imported/LawnCleaner.png-535fddfcec6b585935ba12f24685ccf7.ctex"]
+source_file="res://assets/Images/UI/LawnCleaner.png"
+dest_files=["res://.godot/imported/LawnCleaner.png-26e7e729b187b9ddad160aa9a6502fb8.ctex"]
 
 [params]
 

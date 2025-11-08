@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bvwkprrdno0nn"
-path="res://.godot/imported/FinalWave.png-f1edbedda0c448e75464b1b8fec0b382.ctex"
+uid="uid://cfljj1a3xxi8m"
+path="res://.godot/imported/FinalWave.png-8d54121b3af74c58d02af6c4a019c924.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/FinalWave.png"
-dest_files=["res://.godot/imported/FinalWave.png-f1edbedda0c448e75464b1b8fec0b382.ctex"]
+source_file="res://assets/Images/UI/FinalWave.png"
+dest_files=["res://.godot/imported/FinalWave.png-8d54121b3af74c58d02af6c4a019c924.ctex"]
 
 [params]
 

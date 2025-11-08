@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dtiy6scvps0jf"
-path="res://.godot/imported/SnowPea_2.png-50e6bc554f03bb2c581a8427dfff4fff.ctex"
+uid="uid://bsa5704lh0jcr"
+path="res://.godot/imported/SnowPea_2.png-fa729d178dfc116efdc119472a1af44a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Plants/SnowPea/SnowPea_2.png"
-dest_files=["res://.godot/imported/SnowPea_2.png-50e6bc554f03bb2c581a8427dfff4fff.ctex"]
+source_file="res://assets/Images/Plants/SnowPea/SnowPea_2.png"
+dest_files=["res://.godot/imported/SnowPea_2.png-fa729d178dfc116efdc119472a1af44a.ctex"]
 
 [params]
 

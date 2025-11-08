@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="pvz测试"
+config/name="PvzXeno"
 run/main_scene="uid://c8tc3h6m01g3g"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"

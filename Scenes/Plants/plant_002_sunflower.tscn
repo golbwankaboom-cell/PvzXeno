@@ -1,0 +1,20 @@
+[gd_scene load_steps=5 format=3 uid="uid://2sq6vim5bhui"]
+
+[ext_resource type="Script" uid="uid://bqumn8ymnrklv" path="res://Scripts/Plants/Sunflower/sunflower.gd" id="1_cu8wx"]
+[ext_resource type="Script" uid="uid://cx3gw27d82qn6" path="res://Scripts/Plants/Sunflower/sunflower_driver.gd" id="2_yxasy"]
+[ext_resource type="PackedScene" uid="uid://wte35drumapp" path="res://Scenes/Plants/plant_002_sun_flower.tscn" id="3_ouvd1"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_roby2"]
+size = Vector2(80, 100)
+
+[node name="Sunflower" type="Area2D"]
+script = ExtResource("1_cu8wx")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -30)
+shape = SubResource("RectangleShape2D_roby2")
+
+[node name="SunflowerDriver" type="Node2D" parent="."]
+script = ExtResource("2_yxasy")
+
+[node name="Plant002SunFlower" parent="." instance=ExtResource("3_ouvd1")]

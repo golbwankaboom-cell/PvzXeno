@@ -24,5 +24,5 @@ func _process(delta):
 func set_plant():
 	if mouse_in == true:
 		var plant = PlantManager.selected_plant.instantiate()
-		plant.position = $".".position
+		plant.position = $".".position+Vector2(0,20)
 		get_parent().add_child(plant)

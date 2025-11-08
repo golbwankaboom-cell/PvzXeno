@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bbqq6yepn0oq3"
-path="res://.godot/imported/Zombie2_20.png-1d2cca13768db717c7c90dc38889ad46.ctex"
+uid="uid://ky3two53v1pd"
+path="res://.godot/imported/Zombie2_20.png-f64695e273837f1e1f3d75f15eb6e1ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/Zombie/Move1/Zombie2_20.png"
-dest_files=["res://.godot/imported/Zombie2_20.png-1d2cca13768db717c7c90dc38889ad46.ctex"]
+source_file="res://assets/Images/Zombies/Zombie/Move1/Zombie2_20.png"
+dest_files=["res://.godot/imported/Zombie2_20.png-f64695e273837f1e1f3d75f15eb6e1ad.ctex"]
 
 [params]
 

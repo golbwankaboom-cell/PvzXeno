@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dh2yrtvdajbpd"
-path="res://.godot/imported/redream.png-c85860e35f211b475a8865e9d12b75ae.ctex"
+uid="uid://bojid6e48fy61"
+path="res://.godot/imported/redream.png-d59194076f364961eab3bebd32665438.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Background/redream.png"
-dest_files=["res://.godot/imported/redream.png-c85860e35f211b475a8865e9d12b75ae.ctex"]
+source_file="res://assets/Images/Background/redream.png"
+dest_files=["res://.godot/imported/redream.png-d59194076f364961eab3bebd32665438.ctex"]
 
 [params]
 

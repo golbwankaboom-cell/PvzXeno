@@ -1,0 +1,20 @@
+[gd_scene load_steps=5 format=3 uid="uid://gx4ha52088dp"]
+
+[ext_resource type="Script" uid="uid://bd0vbp60ccygb" path="res://Scripts/Plants/Peashooter/peashooter.gd" id="1_0c580"]
+[ext_resource type="Script" uid="uid://bjg6utnsugdak" path="res://Scripts/Plants/Peashooter/peashooter_driver.gd" id="2_y6o8c"]
+[ext_resource type="PackedScene" path="res://Scenes/Plants/plant_001_pea_shooter_single.tscn" id="3_uu7at"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_aq0sf"]
+size = Vector2(80, 100)
+
+[node name="Peashooter" type="Area2D" groups=["Plant"]]
+script = ExtResource("1_0c580")
+
+[node name="PeashooterDriver" type="Node2D" parent="."]
+script = ExtResource("2_y6o8c")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, -30)
+shape = SubResource("RectangleShape2D_aq0sf")
+
+[node name="Plant001PeaShooterSingle" parent="." instance=ExtResource("3_uu7at")]
