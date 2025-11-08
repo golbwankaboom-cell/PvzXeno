@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cefunordcij4y"]
+
+[ext_resource type="Texture2D" uid="uid://1x43xhbfxukr" path="res://Assets/Images/board_selector.png" id="1_n10q6"]
+
+[node name="BoardSelector" type="Node2D"]
+
+[node name="BoardSelector" type="Sprite2D" parent="."]
+texture = ExtResource("1_n10q6")

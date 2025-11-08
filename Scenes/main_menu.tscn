@@ -1,0 +1,76 @@
+[gd_scene load_steps=12 format=3 uid="uid://cbygiojlm6353"]
+
+[ext_resource type="Texture2D" uid="uid://b3bxcdbo0cciw" path="res://Assets/Images/UI/MainMenu.png" id="1_06t4h"]
+[ext_resource type="Script" uid="uid://cqpl24hrrnjcj" path="res://Scripts/main_menu.gd" id="1_n45e2"]
+[ext_resource type="Texture2D" uid="uid://b5425fbogiys7" path="res://Assets/Images/UI/SelectorScreenAdventure_32.png" id="2_7vrkn"]
+[ext_resource type="Texture2D" uid="uid://r2t0tsqx4rlo" path="res://Assets/Images/UI/SelectorScreenSurvival_32.png" id="3_fu7sn"]
+[ext_resource type="AudioStream" uid="uid://t1b4iu64edtj" path="res://Assets/Audio/Music/StartMenuBGM.mp3" id="4_ce3w2"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7vrkn"]
+atlas = ExtResource("2_7vrkn")
+region = Rect2(0, 0, 0, 146)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fu7sn"]
+atlas = ExtResource("2_7vrkn")
+region = Rect2(0, 0, 0, 146)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_jix8l"]
+atlas = ExtResource("2_7vrkn")
+region = Rect2(0, 146, 0, 0)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_glbon"]
+atlas = ExtResource("3_fu7sn")
+region = Rect2(0, 0, 0, 133)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nlkkf"]
+atlas = ExtResource("3_fu7sn")
+region = Rect2(0, 0, 0, 133)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qe12f"]
+atlas = ExtResource("3_fu7sn")
+region = Rect2(0, 133, 0, 0)
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_n45e2")
+
+[node name="BG" type="TextureRect" parent="."]
+layout_mode = 1
+offset_right = 40.0
+offset_bottom = 40.0
+scale = Vector2(0.89, 1)
+texture = ExtResource("1_06t4h")
+
+[node name="AdventureButton" type="TextureButton" parent="BG"]
+layout_mode = 0
+offset_left = 466.29214
+offset_top = 57.0
+offset_right = 797.2921
+offset_bottom = 203.0
+texture_normal = SubResource("AtlasTexture_7vrkn")
+texture_pressed = SubResource("AtlasTexture_fu7sn")
+texture_hover = SubResource("AtlasTexture_jix8l")
+
+[node name="MiniGamesButton" type="TextureButton" parent="BG"]
+layout_mode = 0
+offset_left = 465.16855
+offset_top = 163.0
+offset_right = 778.1686
+offset_bottom = 309.0
+texture_normal = SubResource("AtlasTexture_glbon")
+texture_pressed = SubResource("AtlasTexture_nlkkf")
+texture_hover = SubResource("AtlasTexture_qe12f")
+
+[node name="TextureButton2" type="TextureButton" parent="BG"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_ce3w2")
+autoplay = true

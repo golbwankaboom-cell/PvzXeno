@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://8tocwjyaue3a"]
+
+[ext_resource type="Script" uid="uid://dinjiw70kwenn" path="res://Scripts/board_generator.gd" id="1_pw70r"]
+[ext_resource type="PackedScene" uid="uid://by615v5mtl76p" path="res://Scenes/board.tscn" id="2_1vjy7"]
+
+[node name="BoardGenerator" type="Node2D"]
+script = ExtResource("1_pw70r")
+board_scene = ExtResource("2_1vjy7")

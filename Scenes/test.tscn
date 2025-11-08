@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://ceqrujbwehcf7"]
+
+[ext_resource type="PackedScene" uid="uid://gx4ha52088dp" path="res://Scenes/Plants/peashooter.tscn" id="1_8od7v"]
+[ext_resource type="PackedScene" uid="uid://bjygmoijyvs88" path="res://Scenes/Zombies/basic_zombie.tscn" id="2_qc4db"]
+
+[node name="Test" type="Node2D"]
+
+[node name="Peashooter" parent="." instance=ExtResource("1_8od7v")]
+position = Vector2(87, 244)
+
+[node name="BasicZombie" parent="." instance=ExtResource("2_qc4db")]
+position = Vector2(618, 252)

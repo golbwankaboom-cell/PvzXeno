@@ -1,0 +1,21 @@
+[gd_scene load_steps=5 format=3 uid="uid://bdri74un5p76r"]
+
+[ext_resource type="Script" uid="uid://d38ndoipow1lp" path="res://Scripts/UI/arrow.gd" id="1_44aun"]
+[ext_resource type="Texture2D" uid="uid://jc2gppf3xj05" path="res://Assets/Images/p1_arrow.png" id="1_hwr2x"]
+[ext_resource type="Texture2D" uid="uid://chs3onihmwxub" path="res://Assets/Images/bejewel_selector_shadow.png" id="2_44aun"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_la4mq"]
+size = Vector2(1, 1)
+
+[node name="Arrow" type="Area2D" groups=["Arrow"]]
+script = ExtResource("1_44aun")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_la4mq")
+
+[node name="P1Arrow" type="Sprite2D" parent="."]
+position = Vector2(0, -60)
+texture = ExtResource("1_hwr2x")
+
+[node name="BejewelSelectorShadow" type="Sprite2D" parent="."]
+texture = ExtResource("2_44aun")
