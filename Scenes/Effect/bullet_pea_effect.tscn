@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cje3sc0ydnhs6"]
+
+[ext_resource type="Script" uid="uid://ch4ghfody7bse" path="res://Scripts/Effect/bullet_pea_effect.gd" id="1_1ujdo"]
+[ext_resource type="Texture2D" uid="uid://c5e6olgvlkvo" path="res://Assets/Images/Effect/PeaBulletHit.png" id="1_dmayp"]
+
+[node name="BulletPeaEffect" type="Node2D" groups=["Effect"]]
+script = ExtResource("1_1ujdo")
+
+[node name="PeaBulletHit" type="Sprite2D" parent="."]
+texture = ExtResource("1_dmayp")

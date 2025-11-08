@@ -1,0 +1,62 @@
+[gd_scene load_steps=13 format=3 uid="uid://dllw3cdf6qiev"]
+
+[ext_resource type="Script" uid="uid://cwp1frl6qy3pj" path="res://Scripts/Effect/zombie_die_effect.gd" id="1_hwqlb"]
+[ext_resource type="Texture2D" uid="uid://dbasxan2612qn" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_1.png" id="2_j2nti"]
+[ext_resource type="Texture2D" uid="uid://cbfughkkufcqg" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_2.png" id="3_e13yg"]
+[ext_resource type="Texture2D" uid="uid://cgj356kynowmb" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_3.png" id="4_lc6e5"]
+[ext_resource type="Texture2D" uid="uid://dn0rp58y61ys" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_4.png" id="5_qkvwl"]
+[ext_resource type="Texture2D" uid="uid://df3kyogm03mkq" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_5.png" id="6_jksu5"]
+[ext_resource type="Texture2D" uid="uid://3xyqjnyveeo2" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_6.png" id="7_0fo4n"]
+[ext_resource type="Texture2D" uid="uid://btahd6maa2uvj" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_7.png" id="8_45oya"]
+[ext_resource type="Texture2D" uid="uid://cd4e1mqnuhvos" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_8.png" id="9_rurpd"]
+[ext_resource type="Texture2D" uid="uid://phn4l6w3i7vp" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_9.png" id="10_37t5d"]
+[ext_resource type="Texture2D" uid="uid://ckw2fw5dggbwc" path="res://Assets/Images/Zombies/Zombie/Die/ZombieDie_10.png" id="11_smsms"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_giyua"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_j2nti")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_e13yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_lc6e5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_qkvwl")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_jksu5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_0fo4n")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_45oya")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_rurpd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_37t5d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_smsms")
+}],
+"loop": false,
+"name": &"Die",
+"speed": 5.0
+}]
+
+[node name="ZombieDieEffect" type="Node2D" groups=["Effect"]]
+script = ExtResource("1_hwqlb")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_giyua")
+animation = &"Die"
+frame = 9
+frame_progress = 1.0
+
+[connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]

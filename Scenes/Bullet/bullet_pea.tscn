@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://dfakfi3fflsnp"]
+
+[ext_resource type="Script" uid="uid://d1blsf88eqpdu" path="res://Scripts/Bullet/bullet_pea.gd" id="1_jmlus"]
+[ext_resource type="Texture2D" uid="uid://d22agx4ep50hb" path="res://Assets/Images/Effect/PeaBullet.png" id="2_apnpq"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_g7que"]
+
+[node name="BulletPea" type="Area2D" groups=["Bullet"]]
+script = ExtResource("1_jmlus")
+
+[node name="PeaBullet" type="Sprite2D" parent="."]
+texture = ExtResource("2_apnpq")
+hframes = 2
+frame = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_g7que")
