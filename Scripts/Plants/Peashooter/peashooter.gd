@@ -1,7 +1,7 @@
 extends Area2D
 
 @export var driver : PlantDriver
-@export var ZWBT:Node2D
+@export var anim : Node2D
 @onready var attack_timer = driver.attack_timer
 
 var board_row = 1
@@ -9,7 +9,7 @@ var board_column = 1
 
 
 func _ready():
-	ZWBT=$Plant001PeaShooterSingle
+	anim =$Plant001PeaShooterSingle
 	if driver.face_foward == false:
 		pass
 		#这里反转需要另外实现
