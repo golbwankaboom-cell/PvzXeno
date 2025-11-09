@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yvo3ejjv80nt"
-path="res://.godot/imported/HypnoShroom_sleepeye.png-0d1689ee9c40dbe1ce2e662e7baad24a.ctex"
+path="res://.godot/imported/HypnoShroom_sleepeye.png-3fa16be8b3ca5652da17e0ac09a206e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/HypnoShroom_sleepeye.png"
-dest_files=["res://.godot/imported/HypnoShroom_sleepeye.png-0d1689ee9c40dbe1ce2e662e7baad24a.ctex"]
+source_file="res://Assets/reanim/HypnoShroom_sleepeye.png"
+dest_files=["res://.godot/imported/HypnoShroom_sleepeye.png-3fa16be8b3ca5652da17e0ac09a206e1.ctex"]
 
 [params]
 

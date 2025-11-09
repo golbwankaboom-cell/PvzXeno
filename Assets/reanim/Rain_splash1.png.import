@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csk7pbhvmi2p8"
-path="res://.godot/imported/Rain_splash1.png-55e6439541360f3b610047f17d2c653f.ctex"
+path="res://.godot/imported/Rain_splash1.png-3deb339c8b3b21f1e90222921504b016.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Rain_splash1.png"
-dest_files=["res://.godot/imported/Rain_splash1.png-55e6439541360f3b610047f17d2c653f.ctex"]
+source_file="res://Assets/reanim/Rain_splash1.png"
+dest_files=["res://.godot/imported/Rain_splash1.png-3deb339c8b3b21f1e90222921504b016.ctex"]
 
 [params]
 

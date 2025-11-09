@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cff3s0svy7rsa"
-path="res://.godot/imported/WinterMelon_eyebrow.png-be588fa7afc04e511810c2a9e59217af.ctex"
+path="res://.godot/imported/WinterMelon_eyebrow.png-dd439c28e6aa99c28d02144c73de4485.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/WinterMelon_eyebrow.png"
-dest_files=["res://.godot/imported/WinterMelon_eyebrow.png-be588fa7afc04e511810c2a9e59217af.ctex"]
+source_file="res://Assets/reanim/WinterMelon_eyebrow.png"
+dest_files=["res://.godot/imported/WinterMelon_eyebrow.png-dd439c28e6aa99c28d02144c73de4485.ctex"]
 
 [params]
 

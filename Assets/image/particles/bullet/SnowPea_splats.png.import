@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lndqqlaj355d"
-path="res://.godot/imported/SnowPea_splats.png-1d0b15ac3836551c396ab5ca43bfae74.ctex"
+path="res://.godot/imported/SnowPea_splats.png-ffe0f8525d24802120982b5da1e64dc3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/particles/bullet/SnowPea_splats.png"
-dest_files=["res://.godot/imported/SnowPea_splats.png-1d0b15ac3836551c396ab5ca43bfae74.ctex"]
+source_file="res://Assets/image/particles/bullet/SnowPea_splats.png"
+dest_files=["res://.godot/imported/SnowPea_splats.png-ffe0f8525d24802120982b5da1e64dc3.ctex"]
 
 [params]
 

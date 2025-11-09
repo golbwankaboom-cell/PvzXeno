@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt6l5yuvca65"
-path="res://.godot/imported/PeaShooter_headleaf_tip_top.png-fa0aab9d55dd7299641782f615ce0b4f.ctex"
+path="res://.godot/imported/PeaShooter_headleaf_tip_top.png-8172f9852590b64e24ee7aba7c9dd660.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/PeaShooter_headleaf_tip_top.png"
-dest_files=["res://.godot/imported/PeaShooter_headleaf_tip_top.png-fa0aab9d55dd7299641782f615ce0b4f.ctex"]
+source_file="res://Assets/reanim/PeaShooter_headleaf_tip_top.png"
+dest_files=["res://.godot/imported/PeaShooter_headleaf_tip_top.png-8172f9852590b64e24ee7aba7c9dd660.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw2840cylma5o"
-path="res://.godot/imported/coinbank.png-5ef4540b075534ab5ba715011e4dbdd4.ctex"
+path="res://.godot/imported/coinbank.png-31374ec2d63ccc18e769f3d78e83cd95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/coinbank.png"
-dest_files=["res://.godot/imported/coinbank.png-5ef4540b075534ab5ba715011e4dbdd4.ctex"]
+source_file="res://Assets/image/ui/coinbank.png"
+dest_files=["res://.godot/imported/coinbank.png-31374ec2d63ccc18e769f3d78e83cd95.ctex"]
 
 [params]
 

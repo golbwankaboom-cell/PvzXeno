@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yeq0wkhh7ocq"
-path="res://.godot/imported/Cattail_paw3.png-6a3e97317ebd182729a0a98673812815.ctex"
+path="res://.godot/imported/Cattail_paw3.png-cf9153e1d605d6d2366e9022c54acc78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Cattail_paw3.png"
-dest_files=["res://.godot/imported/Cattail_paw3.png-6a3e97317ebd182729a0a98673812815.ctex"]
+source_file="res://Assets/reanim/Cattail_paw3.png"
+dest_files=["res://.godot/imported/Cattail_paw3.png-cf9153e1d605d6d2366e9022c54acc78.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c54er6fxpmcc8"
-path="res://.godot/imported/pea_shadows.png-a1116aa905171949c55b15c93a396404.ctex"
+path="res://.godot/imported/pea_shadows.png-ffcf4e8c0e1e952f0b631b7061233546.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/projectile/pea_shadows.png"
-dest_files=["res://.godot/imported/pea_shadows.png-a1116aa905171949c55b15c93a396404.ctex"]
+source_file="res://Assets/image/projectile/pea_shadows.png"
+dest_files=["res://.godot/imported/pea_shadows.png-ffcf4e8c0e1e952f0b631b7061233546.ctex"]
 
 [params]
 

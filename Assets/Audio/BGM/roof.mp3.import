@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bi4ovc2m7r1kc"
-path="res://.godot/imported/roof.mp3-2cfb066a7010d59d708546e1025ed46e.mp3str"
+path="res://.godot/imported/roof.mp3-1080440d81accc8e3dc5a00ff069f4c3.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/BGM/roof.mp3"
-dest_files=["res://.godot/imported/roof.mp3-2cfb066a7010d59d708546e1025ed46e.mp3str"]
+source_file="res://Assets/Audio/BGM/roof.mp3"
+dest_files=["res://.godot/imported/roof.mp3-1080440d81accc8e3dc5a00ff069f4c3.mp3str"]
 
 [params]
 

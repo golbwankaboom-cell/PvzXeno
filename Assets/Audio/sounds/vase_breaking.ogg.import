@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bl2fgoxpbtqbh"
-path="res://.godot/imported/vase_breaking.ogg-3979f3b0eac6e9064af52bc9b62cf488.oggvorbisstr"
+path="res://.godot/imported/vase_breaking.ogg-1d3628efb185500832b8a1400213639a.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/vase_breaking.ogg"
-dest_files=["res://.godot/imported/vase_breaking.ogg-3979f3b0eac6e9064af52bc9b62cf488.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/vase_breaking.ogg"
+dest_files=["res://.godot/imported/vase_breaking.ogg-1d3628efb185500832b8a1400213639a.oggvorbisstr"]
 
 [params]
 

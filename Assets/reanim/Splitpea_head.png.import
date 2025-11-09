@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gxmu788oywxk"
-path="res://.godot/imported/Splitpea_head.png-9b523caca7ffc3463803c76e662af9ac.ctex"
+path="res://.godot/imported/Splitpea_head.png-51d418fb57bb0d716949c77a2a38f942.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Splitpea_head.png"
-dest_files=["res://.godot/imported/Splitpea_head.png-9b523caca7ffc3463803c76e662af9ac.ctex"]
+source_file="res://Assets/reanim/Splitpea_head.png"
+dest_files=["res://.godot/imported/Splitpea_head.png-51d418fb57bb0d716949c77a2a38f942.ctex"]
 
 [params]
 

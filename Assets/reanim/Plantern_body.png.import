@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kemv1vtih6bs"
-path="res://.godot/imported/Plantern_body.png-544960619b42e57d61e4402ca6f42efb.ctex"
+path="res://.godot/imported/Plantern_body.png-f56c4d88111e54545729b5ac79b710db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Plantern_body.png"
-dest_files=["res://.godot/imported/Plantern_body.png-544960619b42e57d61e4402ca6f42efb.ctex"]
+source_file="res://Assets/reanim/Plantern_body.png"
+dest_files=["res://.godot/imported/Plantern_body.png-f56c4d88111e54545729b5ac79b710db.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dirqoy4v477t8"
-path="res://.godot/imported/PoolCleaner_tubeend.png-751ca9b4ecd0f546b062caf3f200b7c1.ctex"
+path="res://.godot/imported/PoolCleaner_tubeend.png-bf87e4a0fae94e6387fc9c6bd10f4bd3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/PoolCleaner_tubeend.png"
-dest_files=["res://.godot/imported/PoolCleaner_tubeend.png-751ca9b4ecd0f546b062caf3f200b7c1.ctex"]
+source_file="res://Assets/reanim/PoolCleaner_tubeend.png"
+dest_files=["res://.godot/imported/PoolCleaner_tubeend.png-bf87e4a0fae94e6387fc9c6bd10f4bd3.ctex"]
 
 [params]
 

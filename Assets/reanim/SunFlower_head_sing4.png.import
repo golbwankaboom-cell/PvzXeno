@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xa68m5ra1pd0"
-path="res://.godot/imported/SunFlower_head_sing4.png-8aea6cd9bf5f77ab8a2ec4f025a87157.ctex"
+path="res://.godot/imported/SunFlower_head_sing4.png-d9e0850c288a78402cc521ad03e110f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SunFlower_head_sing4.png"
-dest_files=["res://.godot/imported/SunFlower_head_sing4.png-8aea6cd9bf5f77ab8a2ec4f025a87157.ctex"]
+source_file="res://Assets/reanim/SunFlower_head_sing4.png"
+dest_files=["res://.godot/imported/SunFlower_head_sing4.png-d9e0850c288a78402cc521ad03e110f0.ctex"]
 
 [params]
 

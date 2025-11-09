@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1ilvx7g7wx66"
-path="res://.godot/imported/Zombie_charred_impblink2.png-ed44fe5bd55f65b914868a2d00de8541.ctex"
+path="res://.godot/imported/Zombie_charred_impblink2.png-c1a92c7e52059c2941b8690a2ed09052.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_charred_impblink2.png"
-dest_files=["res://.godot/imported/Zombie_charred_impblink2.png-ed44fe5bd55f65b914868a2d00de8541.ctex"]
+source_file="res://Assets/reanim/Zombie_charred_impblink2.png"
+dest_files=["res://.godot/imported/Zombie_charred_impblink2.png-c1a92c7e52059c2941b8690a2ed09052.ctex"]
 
 [params]
 

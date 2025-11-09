@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d3hb8vj2xmqq3"
-path="res://.godot/imported/Zombie_yeti_jaw.png-05914085ef929fe517512c45394f531f.ctex"
+path="res://.godot/imported/Zombie_yeti_jaw.png-0838f5bbcf11399acea4cc97725bf847.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_yeti_jaw.png"
-dest_files=["res://.godot/imported/Zombie_yeti_jaw.png-05914085ef929fe517512c45394f531f.ctex"]
+source_file="res://Assets/reanim/Zombie_yeti_jaw.png"
+dest_files=["res://.godot/imported/Zombie_yeti_jaw.png-0838f5bbcf11399acea4cc97725bf847.ctex"]
 
 [params]
 

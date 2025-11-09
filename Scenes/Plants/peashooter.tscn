@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://bd0vbp60ccygb" path="res://Scripts/Plants/Peashooter/peashooter.gd" id="1_0pbaj"]
 [ext_resource type="Script" uid="uid://dbob1e8tbbfja" path="res://Scripts/Plants/plant_driver.gd" id="2_0pbaj"]
 [ext_resource type="PackedScene" uid="uid://dfakfi3fflsnp" path="res://Scenes/Bullet/bullet_pea.tscn" id="3_fns7g"]
-[ext_resource type="PackedScene" path="res://Scenes/Plants/ZWCG/plant_001_pea_shooter_single.tscn" id="4_6c5ws"]
+[ext_resource type="PackedScene" uid="uid://debbfhh4pdixj" path="res://Scenes/Plants/ZWCG/plant_001_pea_shooter_single.tscn" id="4_6c5ws"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_aq0sf"]
 size = Vector2(80, 100)

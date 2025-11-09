@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://s4quydbbcbox"
-path="res://.godot/imported/Blover_stem1.png-2a2cf616ed007fb193f01dbce0a1cedc.ctex"
+path="res://.godot/imported/Blover_stem1.png-0fecb3b42a27f769f64565b3c6cc8ba2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Blover_stem1.png"
-dest_files=["res://.godot/imported/Blover_stem1.png-2a2cf616ed007fb193f01dbce0a1cedc.ctex"]
+source_file="res://Assets/reanim/Blover_stem1.png"
+dest_files=["res://.godot/imported/Blover_stem1.png-0fecb3b42a27f769f64565b3c6cc8ba2.ctex"]
 
 [params]
 

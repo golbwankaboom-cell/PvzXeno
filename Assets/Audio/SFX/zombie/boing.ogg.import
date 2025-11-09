@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bb3u8ah5l6cug"
-path="res://.godot/imported/boing.ogg-7274091c1b2d16deb37c410665cb90a3.oggvorbisstr"
+path="res://.godot/imported/boing.ogg-52727d89c6e5942ff69341a4d7512c0a.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/boing.ogg"
-dest_files=["res://.godot/imported/boing.ogg-7274091c1b2d16deb37c410665cb90a3.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/boing.ogg"
+dest_files=["res://.godot/imported/boing.ogg-52727d89c6e5942ff69341a4d7512c0a.oggvorbisstr"]
 
 [params]
 

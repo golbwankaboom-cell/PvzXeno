@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxcbc8jk8xrij"
-path="res://.godot/imported/Tanglekelp_whitewater2.png-7a2cd614669dcba7f8bc190501103f75.ctex"
+path="res://.godot/imported/Tanglekelp_whitewater2.png-9d3932d9c2b06279374d21b61cc7e1d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Tanglekelp_whitewater2.png"
-dest_files=["res://.godot/imported/Tanglekelp_whitewater2.png-7a2cd614669dcba7f8bc190501103f75.ctex"]
+source_file="res://Assets/reanim/Tanglekelp_whitewater2.png"
+dest_files=["res://.godot/imported/Tanglekelp_whitewater2.png-9d3932d9c2b06279374d21b61cc7e1d1.ctex"]
 
 [params]
 

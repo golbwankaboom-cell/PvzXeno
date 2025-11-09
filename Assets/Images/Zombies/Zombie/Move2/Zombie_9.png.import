@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xs0snfgnvv3o"
-path="res://.godot/imported/Zombie_9.png-92be342c299f46b49a964def1b9e1af4.ctex"
+path="res://.godot/imported/Zombie_9.png-c57c046956a404611352675b8f4ec21b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/Zombies/Zombie/Move2/Zombie_9.png"
-dest_files=["res://.godot/imported/Zombie_9.png-92be342c299f46b49a964def1b9e1af4.ctex"]
+source_file="res://Assets/Images/Zombies/Zombie/Move2/Zombie_9.png"
+dest_files=["res://.godot/imported/Zombie_9.png-c57c046956a404611352675b8f4ec21b.ctex"]
 
 [params]
 

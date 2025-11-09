@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvpuw3u3s02h1"
-path="res://.godot/imported/Zombie_football_rightleg_upper.png-689ece9c7e3b8ee0e829eaf4f05c93a5.ctex"
+path="res://.godot/imported/Zombie_football_rightleg_upper.png-88b3b8642bfaa52acb41797f9b04a1c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_football_rightleg_upper.png"
-dest_files=["res://.godot/imported/Zombie_football_rightleg_upper.png-689ece9c7e3b8ee0e829eaf4f05c93a5.ctex"]
+source_file="res://Assets/reanim/Zombie_football_rightleg_upper.png"
+dest_files=["res://.godot/imported/Zombie_football_rightleg_upper.png-88b3b8642bfaa52acb41797f9b04a1c9.ctex"]
 
 [params]
 

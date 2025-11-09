@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c11rr8at00m84"
-path="res://.godot/imported/CobCannon_exhaust.png-f94ad4ab954ab1d102a518f9228bcc39.ctex"
+path="res://.godot/imported/CobCannon_exhaust.png-cd29bb225898f339597d2d06c542b1e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CobCannon_exhaust.png"
-dest_files=["res://.godot/imported/CobCannon_exhaust.png-f94ad4ab954ab1d102a518f9228bcc39.ctex"]
+source_file="res://Assets/reanim/CobCannon_exhaust.png"
+dest_files=["res://.godot/imported/CobCannon_exhaust.png-cd29bb225898f339597d2d06c542b1e8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkf4tt81vr4vi"
-path="res://.godot/imported/Zombie_cone3.png-c6debcdc9fe217b3be8708f4512bf743.ctex"
+path="res://.godot/imported/Zombie_cone3.png-b14fab9371b799a2ea3ee7b9f2f059d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_cone3.png"
-dest_files=["res://.godot/imported/Zombie_cone3.png-c6debcdc9fe217b3be8708f4512bf743.ctex"]
+source_file="res://Assets/reanim/Zombie_cone3.png"
+dest_files=["res://.godot/imported/Zombie_cone3.png-b14fab9371b799a2ea3ee7b9f2f059d6.ctex"]
 
 [params]
 

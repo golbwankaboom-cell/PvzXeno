@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rm13hk6ivq47"
-path="res://.godot/imported/Zombie_Jackson_hair.png-e98ebdbfa7f405195702c0ef96ceae43.ctex"
+path="res://.godot/imported/Zombie_Jackson_hair.png-5b2147950a7bc5fa08393933f85844f7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_Jackson_hair.png"
-dest_files=["res://.godot/imported/Zombie_Jackson_hair.png-e98ebdbfa7f405195702c0ef96ceae43.ctex"]
+source_file="res://Assets/reanim/Zombie_Jackson_hair.png"
+dest_files=["res://.godot/imported/Zombie_Jackson_hair.png-5b2147950a7bc5fa08393933f85844f7.ctex"]
 
 [params]
 

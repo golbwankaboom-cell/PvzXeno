@@ -14,7 +14,8 @@ script = ExtResource("1_44aun")
 shape = SubResource("RectangleShape2D_la4mq")
 
 [node name="P1Arrow" type="Sprite2D" parent="."]
-position = Vector2(0, -60)
+position = Vector2(0, -50)
+scale = Vector2(1.5, 1.5)
 texture = ExtResource("1_hwr2x")
 
 [node name="BejewelSelectorShadow" type="Sprite2D" parent="."]

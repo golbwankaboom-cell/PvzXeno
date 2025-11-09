@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wjvkiildm3y1"
-path="res://.godot/imported/fire5.png-ad956ef7e7e548d28a6c4df9cb60a6ed.ctex"
+path="res://.godot/imported/fire5.png-fcf96541cbc64b843b0402e7456d5443.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/fire5.png"
-dest_files=["res://.godot/imported/fire5.png-ad956ef7e7e548d28a6c4df9cb60a6ed.ctex"]
+source_file="res://Assets/reanim/fire5.png"
+dest_files=["res://.godot/imported/fire5.png-fcf96541cbc64b843b0402e7456d5443.ctex"]
 
 [params]
 

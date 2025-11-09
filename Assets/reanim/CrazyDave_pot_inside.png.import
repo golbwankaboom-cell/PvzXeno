@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1a8qtasd531r"
-path="res://.godot/imported/CrazyDave_pot_inside.png-c2e64fbee049f6e4670a7d0d4a94064b.ctex"
+path="res://.godot/imported/CrazyDave_pot_inside.png-6e1e6ff990d14fef8c04d0f74ede532a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CrazyDave_pot_inside.png"
-dest_files=["res://.godot/imported/CrazyDave_pot_inside.png-c2e64fbee049f6e4670a7d0d4a94064b.ctex"]
+source_file="res://Assets/reanim/CrazyDave_pot_inside.png"
+dest_files=["res://.godot/imported/CrazyDave_pot_inside.png-6e1e6ff990d14fef8c04d0f74ede532a.ctex"]
 
 [params]
 

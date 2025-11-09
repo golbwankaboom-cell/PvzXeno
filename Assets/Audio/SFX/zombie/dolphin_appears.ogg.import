@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://8iiaoqakx60a"
-path="res://.godot/imported/dolphin_appears.ogg-f94e0c346a865f81445058b1c4a1bfd4.oggvorbisstr"
+path="res://.godot/imported/dolphin_appears.ogg-26a2ba497caf52e928ff80aaefd8f3f8.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/dolphin_appears.ogg"
-dest_files=["res://.godot/imported/dolphin_appears.ogg-f94e0c346a865f81445058b1c4a1bfd4.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/dolphin_appears.ogg"
+dest_files=["res://.godot/imported/dolphin_appears.ogg-26a2ba497caf52e928ff80aaefd8f3f8.oggvorbisstr"]
 
 [params]
 

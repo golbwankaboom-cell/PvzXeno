@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brt3l4km5530s"
-path="res://.godot/imported/Zombie_paper_leftfoot.png-7955f57c3a0a0ac377395f394af72aee.ctex"
+path="res://.godot/imported/Zombie_paper_leftfoot.png-fc6cc34c140bf19c024b9322a766ba70.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_paper_leftfoot.png"
-dest_files=["res://.godot/imported/Zombie_paper_leftfoot.png-7955f57c3a0a0ac377395f394af72aee.ctex"]
+source_file="res://Assets/reanim/Zombie_paper_leftfoot.png"
+dest_files=["res://.godot/imported/Zombie_paper_leftfoot.png-fc6cc34c140bf19c024b9322a766ba70.ctex"]
 
 [params]
 

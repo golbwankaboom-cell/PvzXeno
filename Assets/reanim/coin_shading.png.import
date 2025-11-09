@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1we27vcfkfkh"
-path="res://.godot/imported/coin_shading.png-aa29de38676e68d60dc4277313431ffd.ctex"
+path="res://.godot/imported/coin_shading.png-b324fd6a23f693b4e536fbdf69e65492.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/coin_shading.png"
-dest_files=["res://.godot/imported/coin_shading.png-aa29de38676e68d60dc4277313431ffd.ctex"]
+source_file="res://Assets/reanim/coin_shading.png"
+dest_files=["res://.godot/imported/coin_shading.png-b324fd6a23f693b4e536fbdf69e65492.ctex"]
 
 [params]
 

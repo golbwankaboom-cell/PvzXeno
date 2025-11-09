@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://djugsq2w08uyw"
-path="res://.godot/imported/front_night.mp3-73d50535d13b6c8e19ab245003f6ac4d.mp3str"
+path="res://.godot/imported/front_night.mp3-e3c6e72eeffd7dc7519e3b11e72339db.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/BGM/front_night.mp3"
-dest_files=["res://.godot/imported/front_night.mp3-73d50535d13b6c8e19ab245003f6ac4d.mp3str"]
+source_file="res://Assets/Audio/BGM/front_night.mp3"
+dest_files=["res://.godot/imported/front_night.mp3-e3c6e72eeffd7dc7519e3b11e72339db.mp3str"]
 
 [params]
 

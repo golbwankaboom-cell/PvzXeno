@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://w5di1l74vq3m"
-path="res://.godot/imported/chocolate.png-71ccbec3d0f801a34f06aef84a0bf870.ctex"
+path="res://.godot/imported/chocolate.png-563affa64fb13f846c1aa2d9070306d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/garden/chocolate.png"
-dest_files=["res://.godot/imported/chocolate.png-71ccbec3d0f801a34f06aef84a0bf870.ctex"]
+source_file="res://Assets/image/garden/chocolate.png"
+dest_files=["res://.godot/imported/chocolate.png-563affa64fb13f846c1aa2d9070306d2.ctex"]
 
 [params]
 

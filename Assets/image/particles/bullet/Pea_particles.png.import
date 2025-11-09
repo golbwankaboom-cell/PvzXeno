@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b127q3vhqs7n8"
-path="res://.godot/imported/Pea_particles.png-adbcd6a6c28e05fb44d87629e1b0a4ed.ctex"
+path="res://.godot/imported/Pea_particles.png-d42d06e41ca51cb1acc9885e9735aff5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/particles/bullet/Pea_particles.png"
-dest_files=["res://.godot/imported/Pea_particles.png-adbcd6a6c28e05fb44d87629e1b0a4ed.ctex"]
+source_file="res://Assets/image/particles/bullet/Pea_particles.png"
+dest_files=["res://.godot/imported/Pea_particles.png-d42d06e41ca51cb1acc9885e9735aff5.ctex"]
 
 [params]
 

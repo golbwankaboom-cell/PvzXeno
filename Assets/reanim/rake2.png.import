@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://begtux3g1oemy"
-path="res://.godot/imported/rake2.png-2ce237666335fbdb8b7509a0571f2a2e.ctex"
+path="res://.godot/imported/rake2.png-ae0876a9d822bef0e662b3cc6126c8cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/rake2.png"
-dest_files=["res://.godot/imported/rake2.png-2ce237666335fbdb8b7509a0571f2a2e.ctex"]
+source_file="res://Assets/reanim/rake2.png"
+dest_files=["res://.godot/imported/rake2.png-ae0876a9d822bef0e662b3cc6126c8cf.ctex"]
 
 [params]
 

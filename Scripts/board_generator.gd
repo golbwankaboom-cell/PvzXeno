@@ -6,6 +6,8 @@ extends Node2D
 
 var n = 5
 var m = 9
+var total_width
+var total_height
 
 func _ready():
 	generate_grid(n, m)
@@ -13,8 +15,14 @@ func _ready():
 
 func generate_grid(n: int, m: int):
 	# 计算总尺寸
-	var total_width = m * (board_size.x + spacing.x) - spacing.x
-	var total_height = n * (board_size.y + spacing.y) - spacing.y
+	total_width = m * (board_size.x + spacing.x) - spacing.x
+	total_height = n * (board_size.y + spacing.y) - spacing.y
+	
+	#计算clamp范围
+	ArrowManager.min_position = Vector2(position.x-40,position.y-50)
+	ArrowManager.max_position = Vector2(position.x-40+total_width,position.y-50+total_height)
+	print(ArrowManager.min_position)
+	print(ArrowManager.max_position)
 	
 	# 计算起始位置（居中显示）
 	var start_pos = Vector2.ZERO

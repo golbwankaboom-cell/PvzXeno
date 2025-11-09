@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yv0qp1u5tk0r"
-path="res://.godot/imported/Zombie_bungi_hand2.png-e9f5c08f9c949574ba858ad0fec8f716.ctex"
+path="res://.godot/imported/Zombie_bungi_hand2.png-12dc1562072a1e61aecd5144e60ff798.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_bungi_hand2.png"
-dest_files=["res://.godot/imported/Zombie_bungi_hand2.png-e9f5c08f9c949574ba858ad0fec8f716.ctex"]
+source_file="res://Assets/reanim/Zombie_bungi_hand2.png"
+dest_files=["res://.godot/imported/Zombie_bungi_hand2.png-12dc1562072a1e61aecd5144e60ff798.ctex"]
 
 [params]
 

@@ -11,7 +11,7 @@ enum MovementState { IDLE, SLOW_MOVE, FAST_MOVE, RETURN }
 var velocity: Vector2 = Vector2.ZERO
 var current_state: MovementState = MovementState.IDLE
 
-func _physics_process(delta):
+func _process(delta):
 	var input_vector = Vector2(
 		Input.get_axis("ls_left", "ls_right"),
 		Input.get_axis("ls_up", "ls_down")
@@ -20,6 +20,10 @@ func _physics_process(delta):
 	update_state(input_vector)
 	apply_movement(input_vector, delta)
 	position += velocity * delta
+	
+	# 使用clamp限制位置在范围内
+	position.x = clamp(position.x, ArrowManager.min_position.x, ArrowManager.max_position.x)
+	position.y = clamp(position.y, ArrowManager.min_position.y, ArrowManager.max_position.y)
 
 func update_state(input_vector: Vector2):
 	var input_strength = input_vector.length()

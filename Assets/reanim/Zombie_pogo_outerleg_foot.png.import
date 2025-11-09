@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdaqfqaw05eih"
-path="res://.godot/imported/Zombie_pogo_outerleg_foot.png-f3902a16fb30a2761a893003dad86e4f.ctex"
+path="res://.godot/imported/Zombie_pogo_outerleg_foot.png-1fa644db07ed56f1a8f415d4bf30e0b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_pogo_outerleg_foot.png"
-dest_files=["res://.godot/imported/Zombie_pogo_outerleg_foot.png-f3902a16fb30a2761a893003dad86e4f.ctex"]
+source_file="res://Assets/reanim/Zombie_pogo_outerleg_foot.png"
+dest_files=["res://.godot/imported/Zombie_pogo_outerleg_foot.png-1fa644db07ed56f1a8f415d4bf30e0b2.ctex"]
 
 [params]
 

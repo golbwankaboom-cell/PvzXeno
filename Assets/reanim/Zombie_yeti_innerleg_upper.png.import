@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgn67j62rb15y"
-path="res://.godot/imported/Zombie_yeti_innerleg_upper.png-eac360d038ff9fa282dd23eb4678531d.ctex"
+path="res://.godot/imported/Zombie_yeti_innerleg_upper.png-f93191e102fc7f3ed3fa475d2d72247d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_yeti_innerleg_upper.png"
-dest_files=["res://.godot/imported/Zombie_yeti_innerleg_upper.png-eac360d038ff9fa282dd23eb4678531d.ctex"]
+source_file="res://Assets/reanim/Zombie_yeti_innerleg_upper.png"
+dest_files=["res://.godot/imported/Zombie_yeti_innerleg_upper.png-f93191e102fc7f3ed3fa475d2d72247d.ctex"]
 
 [params]
 

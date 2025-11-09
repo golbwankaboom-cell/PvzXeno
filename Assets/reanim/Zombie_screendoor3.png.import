@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r7s1hgj6smgj"
-path="res://.godot/imported/Zombie_screendoor3.png-e8f003b3fafe15f6fb953e77443c9eec.ctex"
+path="res://.godot/imported/Zombie_screendoor3.png-fcbf5b9e4ffa68214549c9a9d95b8ec3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_screendoor3.png"
-dest_files=["res://.godot/imported/Zombie_screendoor3.png-e8f003b3fafe15f6fb953e77443c9eec.ctex"]
+source_file="res://Assets/reanim/Zombie_screendoor3.png"
+dest_files=["res://.godot/imported/Zombie_screendoor3.png-fcbf5b9e4ffa68214549c9a9d95b8ec3.ctex"]
 
 [params]
 

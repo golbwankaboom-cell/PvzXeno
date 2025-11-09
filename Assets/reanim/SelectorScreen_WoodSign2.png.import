@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b76qic01nuq2t"
-path="res://.godot/imported/SelectorScreen_WoodSign2.png-a1ce52fcafb1e96a34a78752cf8af4b9.ctex"
+path="res://.godot/imported/SelectorScreen_WoodSign2.png-d71bf18bbb9720498a38eb5b30b4f78a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SelectorScreen_WoodSign2.png"
-dest_files=["res://.godot/imported/SelectorScreen_WoodSign2.png-a1ce52fcafb1e96a34a78752cf8af4b9.ctex"]
+source_file="res://Assets/reanim/SelectorScreen_WoodSign2.png"
+dest_files=["res://.godot/imported/SelectorScreen_WoodSign2.png-d71bf18bbb9720498a38eb5b30b4f78a.ctex"]
 
 [params]
 

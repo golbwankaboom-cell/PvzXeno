@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctatuiex852qb"
-path="res://.godot/imported/sukhbir4.ogg-567290feaf54fbfc03fea4d6918d1190.oggvorbisstr"
+path="res://.godot/imported/sukhbir4.ogg-6ec5dd3b15642ed4c9fa0a632c120296.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/sukhbir4.ogg"
-dest_files=["res://.godot/imported/sukhbir4.ogg-567290feaf54fbfc03fea4d6918d1190.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/sukhbir4.ogg"
+dest_files=["res://.godot/imported/sukhbir4.ogg-6ec5dd3b15642ed4c9fa0a632c120296.oggvorbisstr"]
 
 [params]
 

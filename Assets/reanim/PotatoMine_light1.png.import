@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ycnbibi4ckni"
-path="res://.godot/imported/PotatoMine_light1.png-a48bdfe277c8c2025ef49711f8ebbfe9.ctex"
+path="res://.godot/imported/PotatoMine_light1.png-719251de51361bb0f2bcd7c17053696f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/PotatoMine_light1.png"
-dest_files=["res://.godot/imported/PotatoMine_light1.png-a48bdfe277c8c2025ef49711f8ebbfe9.ctex"]
+source_file="res://Assets/reanim/PotatoMine_light1.png"
+dest_files=["res://.godot/imported/PotatoMine_light1.png-719251de51361bb0f2bcd7c17053696f.ctex"]
 
 [params]
 

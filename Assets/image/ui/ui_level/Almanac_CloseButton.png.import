@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xc3kqag3vqlq"
-path="res://.godot/imported/Almanac_CloseButton.png-4ef1d90f03f999ec44484242b1c890cb.ctex"
+path="res://.godot/imported/Almanac_CloseButton.png-c13ccdeb8be803ab989221f9d700bdcd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_level/Almanac_CloseButton.png"
-dest_files=["res://.godot/imported/Almanac_CloseButton.png-4ef1d90f03f999ec44484242b1c890cb.ctex"]
+source_file="res://Assets/image/ui/ui_level/Almanac_CloseButton.png"
+dest_files=["res://.godot/imported/Almanac_CloseButton.png-c13ccdeb8be803ab989221f9d700bdcd.ctex"]
 
 [params]
 

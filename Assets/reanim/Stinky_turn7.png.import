@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6rbg5tru4581"
-path="res://.godot/imported/Stinky_turn7.png-85f5f4fbb6089e83907d3b89f8e5c7c1.ctex"
+path="res://.godot/imported/Stinky_turn7.png-b01ae38d327101aaea45c0b9f166137b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Stinky_turn7.png"
-dest_files=["res://.godot/imported/Stinky_turn7.png-85f5f4fbb6089e83907d3b89f8e5c7c1.ctex"]
+source_file="res://Assets/reanim/Stinky_turn7.png"
+dest_files=["res://.godot/imported/Stinky_turn7.png-b01ae38d327101aaea45c0b9f166137b.ctex"]
 
 [params]
 

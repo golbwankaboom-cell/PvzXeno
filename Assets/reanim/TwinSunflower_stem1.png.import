@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcsssndvstlo6"
-path="res://.godot/imported/TwinSunflower_stem1.png-65b8040dfa5dde2be1d032ae83c4baaa.ctex"
+path="res://.godot/imported/TwinSunflower_stem1.png-f995d605b2fd6daaca64e0fd4d469819.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/TwinSunflower_stem1.png"
-dest_files=["res://.godot/imported/TwinSunflower_stem1.png-65b8040dfa5dde2be1d032ae83c4baaa.ctex"]
+source_file="res://Assets/reanim/TwinSunflower_stem1.png"
+dest_files=["res://.godot/imported/TwinSunflower_stem1.png-f995d605b2fd6daaca64e0fd4d469819.ctex"]
 
 [params]
 

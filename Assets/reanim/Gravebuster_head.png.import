@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh1qwq2plfdko"
-path="res://.godot/imported/Gravebuster_head.png-bc70dca33e42c28f64f9a9257df97ec7.ctex"
+path="res://.godot/imported/Gravebuster_head.png-979ce794261648c6c936051ae7577ce6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Gravebuster_head.png"
-dest_files=["res://.godot/imported/Gravebuster_head.png-bc70dca33e42c28f64f9a9257df97ec7.ctex"]
+source_file="res://Assets/reanim/Gravebuster_head.png"
+dest_files=["res://.godot/imported/Gravebuster_head.png-979ce794261648c6c936051ae7577ce6.ctex"]
 
 [params]
 

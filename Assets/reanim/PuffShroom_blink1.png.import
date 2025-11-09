@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chp5oagqacrw2"
-path="res://.godot/imported/PuffShroom_blink1.png-e4e882849c6025279173a17ed1b47562.ctex"
+path="res://.godot/imported/PuffShroom_blink1.png-b4c45051ede7a6e74d005b991a9b118b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/PuffShroom_blink1.png"
-dest_files=["res://.godot/imported/PuffShroom_blink1.png-e4e882849c6025279173a17ed1b47562.ctex"]
+source_file="res://Assets/reanim/PuffShroom_blink1.png"
+dest_files=["res://.godot/imported/PuffShroom_blink1.png-b4c45051ede7a6e74d005b991a9b118b.ctex"]
 
 [params]
 

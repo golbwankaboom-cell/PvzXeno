@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhjifmxlw5ykv"
-path="res://.godot/imported/CobCannon_husk3.2.png-ef01150926159e673690c7ab5bbe7f04.ctex"
+path="res://.godot/imported/CobCannon_husk3.2.png-68be93eee84194be4e91c1392666dacc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CobCannon_husk3.2.png"
-dest_files=["res://.godot/imported/CobCannon_husk3.2.png-ef01150926159e673690c7ab5bbe7f04.ctex"]
+source_file="res://Assets/reanim/CobCannon_husk3.2.png"
+dest_files=["res://.godot/imported/CobCannon_husk3.2.png-68be93eee84194be4e91c1392666dacc.ctex"]
 
 [params]
 

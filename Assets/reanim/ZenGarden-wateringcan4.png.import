@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b262dxv2ak3jy"
-path="res://.godot/imported/ZenGarden-wateringcan4.png-df2a143904dde8d20af3efd105660cbc.ctex"
+path="res://.godot/imported/ZenGarden-wateringcan4.png-167c5dcafd78c060dd5d775791d7d004.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/ZenGarden-wateringcan4.png"
-dest_files=["res://.godot/imported/ZenGarden-wateringcan4.png-df2a143904dde8d20af3efd105660cbc.ctex"]
+source_file="res://Assets/reanim/ZenGarden-wateringcan4.png"
+dest_files=["res://.godot/imported/ZenGarden-wateringcan4.png-167c5dcafd78c060dd5d775791d7d004.ctex"]
 
 [params]
 

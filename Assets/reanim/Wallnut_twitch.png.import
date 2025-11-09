@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpbkvykx6yq07"
-path="res://.godot/imported/Wallnut_twitch.png-4b56789d91c2234a15c4b96215008426.ctex"
+path="res://.godot/imported/Wallnut_twitch.png-01af8985c5dc574e811cc0db4c9b0be4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Wallnut_twitch.png"
-dest_files=["res://.godot/imported/Wallnut_twitch.png-4b56789d91c2234a15c4b96215008426.ctex"]
+source_file="res://Assets/reanim/Wallnut_twitch.png"
+dest_files=["res://.godot/imported/Wallnut_twitch.png-01af8985c5dc574e811cc0db4c9b0be4.ctex"]
 
 [params]
 

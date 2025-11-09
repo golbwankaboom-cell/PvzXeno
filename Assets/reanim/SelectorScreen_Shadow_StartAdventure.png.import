@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h0w6sybjr34f"
-path="res://.godot/imported/SelectorScreen_Shadow_StartAdventure.png-e36f857c86b96c600b0c981e30e8a7ea.ctex"
+path="res://.godot/imported/SelectorScreen_Shadow_StartAdventure.png-d8dd41b83e8fc200289e47646970a896.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SelectorScreen_Shadow_StartAdventure.png"
-dest_files=["res://.godot/imported/SelectorScreen_Shadow_StartAdventure.png-e36f857c86b96c600b0c981e30e8a7ea.ctex"]
+source_file="res://Assets/reanim/SelectorScreen_Shadow_StartAdventure.png"
+dest_files=["res://.godot/imported/SelectorScreen_Shadow_StartAdventure.png-d8dd41b83e8fc200289e47646970a896.ctex"]
 
 [params]
 

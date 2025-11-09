@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pura4acf3lue"
-path="res://.godot/imported/fullscreen.png-7ce2504e16a887a5aa808a073c7f6a36.ctex"
+path="res://.godot/imported/fullscreen.png-e4a4ec929e6ac5223e84d20861103181.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/fullscreen.png"
-dest_files=["res://.godot/imported/fullscreen.png-7ce2504e16a887a5aa808a073c7f6a36.ctex"]
+source_file="res://Assets/reanim/fullscreen.png"
+dest_files=["res://.godot/imported/fullscreen.png-e4a4ec929e6ac5223e84d20861103181.ctex"]
 
 [params]
 

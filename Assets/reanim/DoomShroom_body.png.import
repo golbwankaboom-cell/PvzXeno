@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdtfyduah2ly"
-path="res://.godot/imported/DoomShroom_body.png-8eab9f102fe74290e5872af383593c10.ctex"
+path="res://.godot/imported/DoomShroom_body.png-829d63abf0e90222973a2a282790b2d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/DoomShroom_body.png"
-dest_files=["res://.godot/imported/DoomShroom_body.png-8eab9f102fe74290e5872af383593c10.ctex"]
+source_file="res://Assets/reanim/DoomShroom_body.png"
+dest_files=["res://.godot/imported/DoomShroom_body.png-829d63abf0e90222973a2a282790b2d7.ctex"]
 
 [params]
 

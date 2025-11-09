@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ce7fkg5hv8s6l"
-path="res://.godot/imported/GoldMagnet_stem.png-39e3c886063ae0e48756d293a19286ab.ctex"
+path="res://.godot/imported/GoldMagnet_stem.png-1e06789092ff115d210c5b8fadd11c45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/GoldMagnet_stem.png"
-dest_files=["res://.godot/imported/GoldMagnet_stem.png-39e3c886063ae0e48756d293a19286ab.ctex"]
+source_file="res://Assets/reanim/GoldMagnet_stem.png"
+dest_files=["res://.godot/imported/GoldMagnet_stem.png-1e06789092ff115d210c5b8fadd11c45.ctex"]
 
 [params]
 

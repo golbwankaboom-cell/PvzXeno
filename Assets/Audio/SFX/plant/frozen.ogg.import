@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://1emodkbeeuqw"
-path="res://.godot/imported/frozen.ogg-58b500c9f97c653be4b8e91d4e328dc5.oggvorbisstr"
+path="res://.godot/imported/frozen.ogg-bfd2f625b960aeea3d8a7f25ca666c79.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/plant/frozen.ogg"
-dest_files=["res://.godot/imported/frozen.ogg-58b500c9f97c653be4b8e91d4e328dc5.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/plant/frozen.ogg"
+dest_files=["res://.godot/imported/frozen.ogg-bfd2f625b960aeea3d8a7f25ca666c79.oggvorbisstr"]
 
 [params]
 

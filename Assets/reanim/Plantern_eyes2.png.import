@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ded2glkm7c1wm"
-path="res://.godot/imported/Plantern_eyes2.png-1906d308a8558b296687c56e31115b7a.ctex"
+path="res://.godot/imported/Plantern_eyes2.png-9e53978432e7cc26e7fe10e256c65b82.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Plantern_eyes2.png"
-dest_files=["res://.godot/imported/Plantern_eyes2.png-1906d308a8558b296687c56e31115b7a.ctex"]
+source_file="res://Assets/reanim/Plantern_eyes2.png"
+dest_files=["res://.godot/imported/Plantern_eyes2.png-9e53978432e7cc26e7fe10e256c65b82.ctex"]
 
 [params]
 

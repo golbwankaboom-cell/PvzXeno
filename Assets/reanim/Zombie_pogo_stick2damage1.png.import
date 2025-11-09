@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x6xhwf56idfh"
-path="res://.godot/imported/Zombie_pogo_stick2damage1.png-0a11bcc8684dee5bc10d99d87f0cd763.ctex"
+path="res://.godot/imported/Zombie_pogo_stick2damage1.png-19039d51999ea1dbce5a8e3c97465dd3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_pogo_stick2damage1.png"
-dest_files=["res://.godot/imported/Zombie_pogo_stick2damage1.png-0a11bcc8684dee5bc10d99d87f0cd763.ctex"]
+source_file="res://Assets/reanim/Zombie_pogo_stick2damage1.png"
+dest_files=["res://.godot/imported/Zombie_pogo_stick2damage1.png-19039d51999ea1dbce5a8e3c97465dd3.ctex"]
 
 [params]
 

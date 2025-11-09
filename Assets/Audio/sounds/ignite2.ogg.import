@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bd7w8jqnk82j2"
-path="res://.godot/imported/ignite2.ogg-17ef55bb6913ddee8faa73285258401e.oggvorbisstr"
+path="res://.godot/imported/ignite2.ogg-6cca55aae23e09a60c9f0cd1607a1926.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/ignite2.ogg"
-dest_files=["res://.godot/imported/ignite2.ogg-17ef55bb6913ddee8faa73285258401e.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/ignite2.ogg"
+dest_files=["res://.godot/imported/ignite2.ogg-6cca55aae23e09a60c9f0cd1607a1926.oggvorbisstr"]
 
 [params]
 

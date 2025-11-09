@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8cdyneorsuep"
-path="res://.godot/imported/Zombie_boss_iceball_crystal3.png-9e0bef74ee4ae41a1461b25e88c21d78.ctex"
+path="res://.godot/imported/Zombie_boss_iceball_crystal3.png-047759b9fd8a0d6de748bcbddcf3ecf3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_boss_iceball_crystal3.png"
-dest_files=["res://.godot/imported/Zombie_boss_iceball_crystal3.png-9e0bef74ee4ae41a1461b25e88c21d78.ctex"]
+source_file="res://Assets/reanim/Zombie_boss_iceball_crystal3.png"
+dest_files=["res://.godot/imported/Zombie_boss_iceball_crystal3.png-047759b9fd8a0d6de748bcbddcf3ecf3.ctex"]
 
 [params]
 

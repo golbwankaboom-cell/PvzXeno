@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kqbv87deorvb"
-path="res://.godot/imported/Zombie_catapult_body_overlay2.png-5e6499cb64128df43494253faa929f5e.ctex"
+path="res://.godot/imported/Zombie_catapult_body_overlay2.png-f663fbf99a7fd59111453aac74ac9685.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_catapult_body_overlay2.png"
-dest_files=["res://.godot/imported/Zombie_catapult_body_overlay2.png-5e6499cb64128df43494253faa929f5e.ctex"]
+source_file="res://Assets/reanim/Zombie_catapult_body_overlay2.png"
+dest_files=["res://.godot/imported/Zombie_catapult_body_overlay2.png-f663fbf99a7fd59111453aac74ac9685.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do57dqiu3no52"
-path="res://.godot/imported/Zombie_Jackson_innerleg_foot.png-9c74c9c799c11f0c388c6df3ef95fe0f.ctex"
+path="res://.godot/imported/Zombie_Jackson_innerleg_foot.png-86a359666580c6620cb5b88d3426e7d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_Jackson_innerleg_foot.png"
-dest_files=["res://.godot/imported/Zombie_Jackson_innerleg_foot.png-9c74c9c799c11f0c388c6df3ef95fe0f.ctex"]
+source_file="res://Assets/reanim/Zombie_Jackson_innerleg_foot.png"
+dest_files=["res://.godot/imported/Zombie_Jackson_innerleg_foot.png-86a359666580c6620cb5b88d3426e7d0.ctex"]
 
 [params]
 

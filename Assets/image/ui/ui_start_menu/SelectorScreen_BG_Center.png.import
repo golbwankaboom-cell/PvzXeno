@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxwjoggjnramu"
-path="res://.godot/imported/SelectorScreen_BG_Center.png-8a2c270102ce280b59679a1fabe3b2c0.ctex"
+path="res://.godot/imported/SelectorScreen_BG_Center.png-76a86dd37b673c13be673b4d7020990c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_BG_Center.png"
-dest_files=["res://.godot/imported/SelectorScreen_BG_Center.png-8a2c270102ce280b59679a1fabe3b2c0.ctex"]
+source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_BG_Center.png"
+dest_files=["res://.godot/imported/SelectorScreen_BG_Center.png-76a86dd37b673c13be673b4d7020990c.ctex"]
 
 [params]
 

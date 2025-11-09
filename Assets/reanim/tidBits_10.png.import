@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc0opcnkb0ba2"
-path="res://.godot/imported/tidBits_10.png-79b2af724db1d1ef48ea2bfd4dc72388.ctex"
+path="res://.godot/imported/tidBits_10.png-3b76f2f0c1221b03c6869470de66ce05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/tidBits_10.png"
-dest_files=["res://.godot/imported/tidBits_10.png-79b2af724db1d1ef48ea2bfd4dc72388.ctex"]
+source_file="res://Assets/reanim/tidBits_10.png"
+dest_files=["res://.godot/imported/tidBits_10.png-3b76f2f0c1221b03c6869470de66ce05.ctex"]
 
 [params]
 

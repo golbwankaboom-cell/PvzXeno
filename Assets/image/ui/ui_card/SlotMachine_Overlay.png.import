@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc2e1ph20d3ih"
-path="res://.godot/imported/SlotMachine_Overlay.png-f1db33b2686033162634543282d8cc9d.ctex"
+path="res://.godot/imported/SlotMachine_Overlay.png-504e852f6dd824773590a79d38d0a199.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_card/SlotMachine_Overlay.png"
-dest_files=["res://.godot/imported/SlotMachine_Overlay.png-f1db33b2686033162634543282d8cc9d.ctex"]
+source_file="res://Assets/image/ui/ui_card/SlotMachine_Overlay.png"
+dest_files=["res://.godot/imported/SlotMachine_Overlay.png-504e852f6dd824773590a79d38d0a199.ctex"]
 
 [params]
 
