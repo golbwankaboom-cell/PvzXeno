@@ -4,7 +4,7 @@
 [ext_resource type="Script" uid="uid://cqpl24hrrnjcj" path="res://Scripts/main_menu.gd" id="1_n45e2"]
 [ext_resource type="Texture2D" uid="uid://b5425fbogiys7" path="res://Assets/Images/UI/SelectorScreenAdventure_32.png" id="2_7vrkn"]
 [ext_resource type="Texture2D" uid="uid://r2t0tsqx4rlo" path="res://Assets/Images/UI/SelectorScreenSurvival_32.png" id="3_fu7sn"]
-[ext_resource type="AudioStream" uid="uid://t1b4iu64edtj" path="res://Assets/Audio/Music/StartMenuBGM.mp3" id="4_ce3w2"]
+[ext_resource type="AudioStream" uid="uid://c1lucnxw54wo5" path="res://Assets/Audio/Music/Menu.mp3" id="5_n45e2"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_7vrkn"]
 atlas = ExtResource("2_7vrkn")
@@ -72,5 +72,5 @@ offset_right = 40.0
 offset_bottom = 40.0
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
-stream = ExtResource("4_ce3w2")
+stream = ExtResource("5_n45e2")
 autoplay = true

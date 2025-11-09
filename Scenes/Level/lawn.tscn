@@ -3,7 +3,7 @@
 [ext_resource type="Script" uid="uid://dwfih6s0xnel0" path="res://Scripts/lawn.gd" id="1_jd8i5"]
 [ext_resource type="Texture2D" uid="uid://bc67d4jeehpo6" path="res://Assets/Images/Background/background1.jpg" id="1_n7q61"]
 [ext_resource type="PackedScene" uid="uid://8tocwjyaue3a" path="res://Scenes/board_generator.tscn" id="2_7pgdm"]
-[ext_resource type="AudioStream" uid="uid://0weoobhtgox2" path="res://Assets/Audio/Music/MainGameBGM.mp3" id="3_4kbsa"]
+[ext_resource type="AudioStream" uid="uid://0weoobhtgox2" path="res://Assets/Audio/Music/Day.mp3" id="3_4kbsa"]
 
 [node name="Lawn" type="Node2D"]
 script = ExtResource("1_jd8i5")
@@ -23,3 +23,4 @@ position = Vector2(70.00001, 127)
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("3_4kbsa")
+autoplay = true
