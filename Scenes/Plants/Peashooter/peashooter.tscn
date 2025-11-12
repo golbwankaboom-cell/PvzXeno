@@ -1,4 +1,4 @@
-[gd_scene load_steps=9 format=3 uid="uid://bar1ch6p12tkx"]
+[gd_scene load_steps=10 format=3 uid="uid://bar1ch6p12tkx"]
 
 [ext_resource type="Script" uid="uid://bd0vbp60ccygb" path="res://Scripts/Plants/Peashooter/peashooter.gd" id="1_g6t5a"]
 [ext_resource type="Script" uid="uid://dbob1e8tbbfja" path="res://Scripts/Plants/plant_driver.gd" id="2_rou6s"]
@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://cbmfasdu30tu0" path="res://Scenes/Plants/Peashooter/peashooter_blade.tscn" id="4_migyk"]
 [ext_resource type="PackedScene" uid="uid://chni7xuljjt6v" path="res://Scenes/Plants/Sunflower/sunflower_blade.tscn" id="5_6bigo"]
 [ext_resource type="PackedScene" uid="uid://cmehk0owod8xe" path="res://Scenes/Plants/Wallnut/wallnut_blade.tscn" id="6_3joqk"]
+[ext_resource type="PackedScene" uid="uid://cag2f5d37fnk5" path="res://Scenes/Plants/SplitPea/split_pea_blade.tscn" id="7_rou6s"]
 [ext_resource type="PackedScene" uid="uid://debbfhh4pdixj" path="res://Scenes/Plants/ZWCG/plant_001_pea_shooter_single.tscn" id="7_vjhea"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_aq0sf"]
@@ -30,6 +31,8 @@ attack_damage = 20
 [node name="WallnutBlade2" parent="PeashooterDriver" instance=ExtResource("6_3joqk")]
 
 [node name="WallnutBlade3" parent="PeashooterDriver" instance=ExtResource("6_3joqk")]
+
+[node name="SplitPeaBlade" parent="PeashooterDriver" instance=ExtResource("7_rou6s")]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_aq0sf")

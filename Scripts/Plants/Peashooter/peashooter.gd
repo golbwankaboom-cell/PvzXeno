@@ -5,11 +5,14 @@ extends Area2D
 @onready var attack_timer = driver.attack_timer
 @onready var health = driver.health
 @onready var bullet_velocity = driver.bullet_velocity
+@onready var blade_amount = driver.blade_amount
 
 var board_row = 1
 var board_column = 1
 
 var current_velocity
+
+var current_blade_amount = 0
 var rdmnum
 
 signal attack_signal
@@ -56,7 +59,7 @@ func attack():
 	add_child(bullet)
 	
 	bullet_velocity_reset()
-	print(current_velocity)
+	#print(current_velocity)
 
 func die():
 	deadrattle()

@@ -72,10 +72,10 @@ func set_plant():
 		current_plant = plant
 		
 		plant_planted.emit(plant, Vector2(board_row, board_column))
-		print(Vector2(board_row, board_column))
+		#print(Vector2(board_row, board_column))
 		
 		
-		print(current_plant)
+		#print(current_plant)
 
 
 func _on_area_entered(area):
