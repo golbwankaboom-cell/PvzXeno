@@ -19,8 +19,8 @@ func generate_grid(n: int, m: int):
 	total_height = n * (board_size.y + spacing.y) - spacing.y
 	
 	#计算clamp范围
-	ArrowManager.min_position = Vector2(position.x-40,position.y-50)
-	ArrowManager.max_position = Vector2(position.x-40+total_width,position.y-50+total_height)
+	ArrowManager.min_position = Vector2(position.x-40+5,position.y-50+5)
+	ArrowManager.max_position = Vector2(position.x-40-5+total_width,position.y-50-5+total_height)
 	print(ArrowManager.min_position)
 	print(ArrowManager.max_position)
 	

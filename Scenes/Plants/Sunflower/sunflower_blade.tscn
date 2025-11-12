@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://chni7xuljjt6v"]
+
+[ext_resource type="Script" uid="uid://cpb8ru4he577g" path="res://Scripts/Plants/Sunflower/sunflower_blade.gd" id="1_81oc1"]
+[ext_resource type="Texture2D" uid="uid://do6qrkibrcy1q" path="res://Assets/Images/Blade/SunflowerBlade.png" id="2_2n2s0"]
+
+[node name="SunflowerBlade" type="Node2D"]
+script = ExtResource("1_81oc1")
+
+[node name="SunflowerBlade" type="Sprite2D" parent="."]
+texture = ExtResource("2_2n2s0")

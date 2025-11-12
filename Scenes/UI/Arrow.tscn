@@ -1,8 +1,10 @@
-[gd_scene load_steps=5 format=3 uid="uid://bdri74un5p76r"]
+[gd_scene load_steps=7 format=3 uid="uid://bdri74un5p76r"]
 
 [ext_resource type="Script" uid="uid://d38ndoipow1lp" path="res://Scripts/UI/arrow.gd" id="1_44aun"]
 [ext_resource type="Texture2D" uid="uid://jc2gppf3xj05" path="res://Assets/Images/p1_arrow.png" id="1_hwr2x"]
 [ext_resource type="Texture2D" uid="uid://chs3onihmwxub" path="res://Assets/Images/bejewel_selector_shadow.png" id="2_44aun"]
+[ext_resource type="Script" uid="uid://dwpov8gneyjcf" path="res://Scripts/UI/p_1_arrow.gd" id="3_la4mq"]
+[ext_resource type="Script" uid="uid://dvbtdug2iqiwo" path="res://Scripts/UI/bejewel_selector_shadow.gd" id="5_10v3d"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_la4mq"]
 size = Vector2(1, 1)
@@ -17,6 +19,8 @@ shape = SubResource("RectangleShape2D_la4mq")
 position = Vector2(0, -50)
 scale = Vector2(1.5, 1.5)
 texture = ExtResource("1_hwr2x")
+script = ExtResource("3_la4mq")
 
 [node name="BejewelSelectorShadow" type="Sprite2D" parent="."]
 texture = ExtResource("2_44aun")
+script = ExtResource("5_10v3d")

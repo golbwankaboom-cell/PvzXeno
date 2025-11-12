@@ -4,9 +4,10 @@ enum MovementState { IDLE, SLOW_MOVE, FAST_MOVE, RETURN }
 
 @export var slow_speed: float = 300.0
 @export var fast_speed: float = 600.0
-@export var return_speed: float = 300.0
+@export var return_speed: float = 100.0
 @export var dead_zone: float = 0.2
 @export var fast_threshold: float = 0.9
+@export var return_distance: float = 20
 
 var velocity: Vector2 = Vector2.ZERO
 var current_state: MovementState = MovementState.IDLE

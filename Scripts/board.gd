@@ -42,10 +42,10 @@ func arrow_exited():
 	
 func _process(delta):
 	if arrow_in == true and Input.is_action_just_pressed("mouse_left"):
-		set_plant()
+		try_set_plant()
 		
 	if arrow_in == true and Input.is_action_just_pressed("controller_a"):
-		set_plant()
+		try_set_plant()
 # 种植植物的函数
 # 功能：当箭头在当前区域内且该位置未种植植物时，实例化选中的植物并完成种植流程
 # 流程说明：
@@ -56,8 +56,13 @@ func _process(delta):
 # 5. 更新状态：标记当前位置已种植植物（has_plant设为true），保存当前种植的植物实例（current_plant）
 # 6. 发送信号：发射plant_planted信号，携带植物实例和其所在行列的向量信息（供其他逻辑响应）
 # 7. 调试输出：打印植物所在行列的向量及当前种植的植物实例（用于开发调试）
-func set_plant():
+func try_set_plant():
 	if arrow_in == true and not has_plant:
+		set_plant()
+	else :
+		set_plant_failed()
+		
+func set_plant():
 		var plant = PlantManager.selected_plant.instantiate()
 		plant.position = position
 		plant.board_row = board_row
@@ -84,3 +89,6 @@ func _on_area_exited(area):
 	if area.is_in_group("Arrow"):
 		if ArrowManager.control_type == "controller":
 			arrow_exited()
+			
+func set_plant_failed():
+	pass
