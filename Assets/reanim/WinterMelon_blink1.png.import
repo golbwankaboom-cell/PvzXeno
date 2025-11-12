@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5orh8ivtbhi7"
-path="res://.godot/imported/WinterMelon_blink1.png-db7c6747b6448150663ba7127a425642.ctex"
+path="res://.godot/imported/WinterMelon_blink1.png-91fb296eec3eeb820fb017bdf2bb95ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/WinterMelon_blink1.png"
-dest_files=["res://.godot/imported/WinterMelon_blink1.png-db7c6747b6448150663ba7127a425642.ctex"]
+source_file="res://Assets/reanim/WinterMelon_blink1.png"
+dest_files=["res://.godot/imported/WinterMelon_blink1.png-91fb296eec3eeb820fb017bdf2bb95ce.ctex"]
 
 [params]
 

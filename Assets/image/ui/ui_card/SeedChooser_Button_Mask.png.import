@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://ccmgmr2kpk10u"
-path="res://.godot/imported/SeedChooser_Button_Mask.png-b252c6a4ced6c4c92374619093f93429.res"
+path="res://.godot/imported/SeedChooser_Button_Mask.png-af87c1f9ce9d8aca819e287962a8698b.res"
 
 [deps]
 
-source_file="res://assets/image/ui/ui_card/SeedChooser_Button_Mask.png"
-dest_files=["res://.godot/imported/SeedChooser_Button_Mask.png-b252c6a4ced6c4c92374619093f93429.res"]
+source_file="res://Assets/image/ui/ui_card/SeedChooser_Button_Mask.png"
+dest_files=["res://.godot/imported/SeedChooser_Button_Mask.png-af87c1f9ce9d8aca819e287962a8698b.res"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtpm8eixn4g6e"
-path="res://.godot/imported/Zombie_snorkle_innerleg_foot.png-63262dd30fd068ac2eb8836f8c5f5ee1.ctex"
+path="res://.godot/imported/Zombie_snorkle_innerleg_foot.png-779e7fb9f401b635da5d462ad9a12156.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_snorkle_innerleg_foot.png"
-dest_files=["res://.godot/imported/Zombie_snorkle_innerleg_foot.png-63262dd30fd068ac2eb8836f8c5f5ee1.ctex"]
+source_file="res://Assets/reanim/Zombie_snorkle_innerleg_foot.png"
+dest_files=["res://.godot/imported/Zombie_snorkle_innerleg_foot.png-779e7fb9f401b635da5d462ad9a12156.ctex"]
 
 [params]
 

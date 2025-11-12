@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dt5t2pnhjrp40"
-path="res://.godot/imported/mini_game.mp3-a74ac23ea6787782c15db553364663f9.mp3str"
+path="res://.godot/imported/mini_game.mp3-d64112185d5cb25a30743a4900a88fe5.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/BGM/mini_game.mp3"
-dest_files=["res://.godot/imported/mini_game.mp3-a74ac23ea6787782c15db553364663f9.mp3str"]
+source_file="res://Assets/Audio/BGM/mini_game.mp3"
+dest_files=["res://.godot/imported/mini_game.mp3-d64112185d5cb25a30743a4900a88fe5.mp3str"]
 
 [params]
 

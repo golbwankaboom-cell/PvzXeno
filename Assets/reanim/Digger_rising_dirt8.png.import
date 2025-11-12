@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://50sr547unxe4"
-path="res://.godot/imported/Digger_rising_dirt8.png-efb8aea7bd23bcb2bfb9769a99b44bab.ctex"
+path="res://.godot/imported/Digger_rising_dirt8.png-aca45d04e6a6903bf3c3c8887317cbf8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Digger_rising_dirt8.png"
-dest_files=["res://.godot/imported/Digger_rising_dirt8.png-efb8aea7bd23bcb2bfb9769a99b44bab.ctex"]
+source_file="res://Assets/reanim/Digger_rising_dirt8.png"
+dest_files=["res://.godot/imported/Digger_rising_dirt8.png-aca45d04e6a6903bf3c3c8887317cbf8.ctex"]
 
 [params]
 

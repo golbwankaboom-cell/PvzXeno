@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5425fbogiys7"
-path="res://.godot/imported/SelectorScreenAdventure_32.png-4a689ffbbc5ade9644b2921666759a6c.ctex"
+path="res://.godot/imported/SelectorScreenAdventure_32.png-1c59ab719daad117bb0a0b86fe053e07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UI/SelectorScreenAdventure_32.png"
-dest_files=["res://.godot/imported/SelectorScreenAdventure_32.png-4a689ffbbc5ade9644b2921666759a6c.ctex"]
+source_file="res://Assets/Images/UI/SelectorScreenAdventure_32.png"
+dest_files=["res://.godot/imported/SelectorScreenAdventure_32.png-1c59ab719daad117bb0a0b86fe053e07.ctex"]
 
 [params]
 

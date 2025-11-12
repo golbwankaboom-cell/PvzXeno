@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dojwdeqcriceu"
-path="res://.godot/imported/SeedChooser_Button2_Glow.png-e6372829cb05c2b9b655c8130f89b956.ctex"
+path="res://.godot/imported/SeedChooser_Button2_Glow.png-4551d4a666de3a1b10ed46083b2f5839.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_card/all_card/SeedChooser_Button2_Glow.png"
-dest_files=["res://.godot/imported/SeedChooser_Button2_Glow.png-e6372829cb05c2b9b655c8130f89b956.ctex"]
+source_file="res://Assets/image/ui/ui_card/all_card/SeedChooser_Button2_Glow.png"
+dest_files=["res://.godot/imported/SeedChooser_Button2_Glow.png-4551d4a666de3a1b10ed46083b2f5839.ctex"]
 
 [params]
 

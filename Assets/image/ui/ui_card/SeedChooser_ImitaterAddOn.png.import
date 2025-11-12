@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csank6typjsgr"
-path="res://.godot/imported/SeedChooser_ImitaterAddOn.png-a68fdff1ed4f61a996f1a3046ae2ccca.ctex"
+path="res://.godot/imported/SeedChooser_ImitaterAddOn.png-8a1e0390ca94fba92bd3570beb0da4c5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_card/SeedChooser_ImitaterAddOn.png"
-dest_files=["res://.godot/imported/SeedChooser_ImitaterAddOn.png-a68fdff1ed4f61a996f1a3046ae2ccca.ctex"]
+source_file="res://Assets/image/ui/ui_card/SeedChooser_ImitaterAddOn.png"
+dest_files=["res://.godot/imported/SeedChooser_ImitaterAddOn.png-8a1e0390ca94fba92bd3570beb0da4c5.ctex"]
 
 [params]
 

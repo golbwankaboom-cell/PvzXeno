@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://l24ybbirkosc"
-path="res://.godot/imported/Imitater_blink2.png-f99e2a6c2973e6de130548b7ad688052.ctex"
+path="res://.godot/imported/Imitater_blink2.png-dcd192f48df4c02438f9b1138b61320d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Imitater_blink2.png"
-dest_files=["res://.godot/imported/Imitater_blink2.png-f99e2a6c2973e6de130548b7ad688052.ctex"]
+source_file="res://Assets/reanim/Imitater_blink2.png"
+dest_files=["res://.godot/imported/Imitater_blink2.png-dcd192f48df4c02438f9b1138b61320d.ctex"]
 
 [params]
 

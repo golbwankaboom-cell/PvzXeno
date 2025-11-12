@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dspnky2khnwlo"
-path="res://.godot/imported/Zombie_catapult_crankarm.png-83f5edabcd7a12dda0471945714aeaa1.ctex"
+path="res://.godot/imported/Zombie_catapult_crankarm.png-3fde6c5e1d30a1ec5e894062741f5b28.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_catapult_crankarm.png"
-dest_files=["res://.godot/imported/Zombie_catapult_crankarm.png-83f5edabcd7a12dda0471945714aeaa1.ctex"]
+source_file="res://Assets/reanim/Zombie_catapult_crankarm.png"
+dest_files=["res://.godot/imported/Zombie_catapult_crankarm.png-3fde6c5e1d30a1ec5e894062741f5b28.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j427peyuyp0f"
-path="res://.godot/imported/Cattail_eyebrow1.png-9f5cd88ec4074c26ee3523432dece236.ctex"
+path="res://.godot/imported/Cattail_eyebrow1.png-e33d98f0265fee74c88e51ee90f254d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Cattail_eyebrow1.png"
-dest_files=["res://.godot/imported/Cattail_eyebrow1.png-9f5cd88ec4074c26ee3523432dece236.ctex"]
+source_file="res://Assets/reanim/Cattail_eyebrow1.png"
+dest_files=["res://.godot/imported/Cattail_eyebrow1.png-e33d98f0265fee74c88e51ee90f254d9.ctex"]
 
 [params]
 

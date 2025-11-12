@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmcteumnc718j"
-path="res://.godot/imported/hair_15.png-1dd852bf2a0c6e42fce3341283b868b1.ctex"
+path="res://.godot/imported/hair_15.png-190d1e29963dc5df83c590d0beddc6fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/hair_15.png"
-dest_files=["res://.godot/imported/hair_15.png-1dd852bf2a0c6e42fce3341283b868b1.ctex"]
+source_file="res://Assets/reanim/hair_15.png"
+dest_files=["res://.godot/imported/hair_15.png-190d1e29963dc5df83c590d0beddc6fe.ctex"]
 
 [params]
 

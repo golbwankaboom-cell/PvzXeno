@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1oceo242en8"
-path="res://.godot/imported/Zombie_polevaulter_outerleg_toe.png-4d20056c8001a890a06b6907da96008e.ctex"
+path="res://.godot/imported/Zombie_polevaulter_outerleg_toe.png-c6afd644e9aa0319f3c0e8d273376ac8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_polevaulter_outerleg_toe.png"
-dest_files=["res://.godot/imported/Zombie_polevaulter_outerleg_toe.png-4d20056c8001a890a06b6907da96008e.ctex"]
+source_file="res://Assets/reanim/Zombie_polevaulter_outerleg_toe.png"
+dest_files=["res://.godot/imported/Zombie_polevaulter_outerleg_toe.png-c6afd644e9aa0319f3c0e8d273376ac8.ctex"]
 
 [params]
 

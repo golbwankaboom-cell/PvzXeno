@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cag2f5d37fnk5"]
+
+[ext_resource type="Script" uid="uid://fj0qlgl72m7g" path="res://Scripts/Plants/SplitPea/split_pea_blade.gd" id="1_vomu3"]
+[ext_resource type="Texture2D" uid="uid://dh04xwsq0kueb" path="res://Assets/Images/Blade/SplitPeaBlade.png" id="2_2whpp"]
+
+[node name="SplitPeaBlade" type="Node2D"]
+script = ExtResource("1_vomu3")
+
+[node name="SplitPeaBlade" type="Sprite2D" parent="."]
+texture = ExtResource("2_2whpp")

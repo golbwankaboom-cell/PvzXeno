@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://q7tneronpadb"
-path="res://.godot/imported/失败.ogg-2e976a4931473650e034bc1a54c19e43.oggvorbisstr"
+path="res://.godot/imported/失败.ogg-9a8ae0a62eba0457c01c935f5ddf29fe.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/Sound/失败.ogg"
-dest_files=["res://.godot/imported/失败.ogg-2e976a4931473650e034bc1a54c19e43.oggvorbisstr"]
+source_file="res://Assets/Audio/Sound/失败.ogg"
+dest_files=["res://.godot/imported/失败.ogg-9a8ae0a62eba0457c01c935f5ddf29fe.oggvorbisstr"]
 
 [params]
 

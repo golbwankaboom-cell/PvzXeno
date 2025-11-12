@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ewujfngualde"
-path="res://.godot/imported/zzz.png-be076178fd0534d7e48fab4d7bfa28be.ctex"
+path="res://.godot/imported/zzz.png-bb4c837b9ecf37b35cbcde8c97af266f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/plant/zzz.png"
-dest_files=["res://.godot/imported/zzz.png-be076178fd0534d7e48fab4d7bfa28be.ctex"]
+source_file="res://Assets/image/plant/zzz.png"
+dest_files=["res://.godot/imported/zzz.png-bb4c837b9ecf37b35cbcde8c97af266f.ctex"]
 
 [params]
 

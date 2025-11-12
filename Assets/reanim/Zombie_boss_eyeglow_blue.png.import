@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4fvtioqnj6xa"
-path="res://.godot/imported/Zombie_boss_eyeglow_blue.png-d839c30e7c923311f2c88d9b69770237.ctex"
+path="res://.godot/imported/Zombie_boss_eyeglow_blue.png-4f7133f76199bbf14256bc1fa539191c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_boss_eyeglow_blue.png"
-dest_files=["res://.godot/imported/Zombie_boss_eyeglow_blue.png-d839c30e7c923311f2c88d9b69770237.ctex"]
+source_file="res://Assets/reanim/Zombie_boss_eyeglow_blue.png"
+dest_files=["res://.godot/imported/Zombie_boss_eyeglow_blue.png-4f7133f76199bbf14256bc1fa539191c.ctex"]
 
 [params]
 

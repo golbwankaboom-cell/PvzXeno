@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://dmojvwlyh8417"
-path="res://.godot/imported/SelectorScreen_Almanac_Mask.png-a3bd2952db0b8391a94d9efe678a10a7.res"
+path="res://.godot/imported/SelectorScreen_Almanac_Mask.png-9b21fef3f9b885145635a6b6422c3ccc.res"
 
 [deps]
 
-source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_Almanac_Mask.png"
-dest_files=["res://.godot/imported/SelectorScreen_Almanac_Mask.png-a3bd2952db0b8391a94d9efe678a10a7.res"]
+source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_Almanac_Mask.png"
+dest_files=["res://.godot/imported/SelectorScreen_Almanac_Mask.png-9b21fef3f9b885145635a6b6422c3ccc.res"]
 
 [params]
 

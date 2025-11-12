@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://60ak7qetvapr"
-path="res://.godot/imported/Credits_wearetheundead.jpg-20435264dda72a8857137c5e210c8bc3.ctex"
+path="res://.godot/imported/Credits_wearetheundead.jpg-41ab10c4bca7f472cf63ed79eb14dc79.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Credits_wearetheundead.jpg"
-dest_files=["res://.godot/imported/Credits_wearetheundead.jpg-20435264dda72a8857137c5e210c8bc3.ctex"]
+source_file="res://Assets/reanim/Credits_wearetheundead.jpg"
+dest_files=["res://.godot/imported/Credits_wearetheundead.jpg-41ab10c4bca7f472cf63ed79eb14dc79.ctex"]
 
 [params]
 

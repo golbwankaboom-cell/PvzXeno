@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyijgltc56xfa"
-path="res://.godot/imported/Zombie_jackbox_outerleg_upper.png-d5bc4ba1737c32dc3ff7ab86cb04fe16.ctex"
+path="res://.godot/imported/Zombie_jackbox_outerleg_upper.png-2d673d8d3435e2bbd013aea4ef69575c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_jackbox_outerleg_upper.png"
-dest_files=["res://.godot/imported/Zombie_jackbox_outerleg_upper.png-d5bc4ba1737c32dc3ff7ab86cb04fe16.ctex"]
+source_file="res://Assets/reanim/Zombie_jackbox_outerleg_upper.png"
+dest_files=["res://.godot/imported/Zombie_jackbox_outerleg_upper.png-2d673d8d3435e2bbd013aea4ef69575c.ctex"]
 
 [params]
 

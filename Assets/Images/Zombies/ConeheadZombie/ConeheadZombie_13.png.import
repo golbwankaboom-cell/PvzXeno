@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2v5u6fyqmhdm"
-path="res://.godot/imported/ConeheadZombie_13.png-b0798ca0cb4fa50c75dda17188935f6d.ctex"
+path="res://.godot/imported/ConeheadZombie_13.png-bafe170d8ba6ee1b9e5a47c2d08b6412.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/Zombies/ConeheadZombie/ConeheadZombie_13.png"
-dest_files=["res://.godot/imported/ConeheadZombie_13.png-b0798ca0cb4fa50c75dda17188935f6d.ctex"]
+source_file="res://Assets/Images/Zombies/ConeheadZombie/ConeheadZombie_13.png"
+dest_files=["res://.godot/imported/ConeheadZombie_13.png-bafe170d8ba6ee1b9e5a47c2d08b6412.ctex"]
 
 [params]
 

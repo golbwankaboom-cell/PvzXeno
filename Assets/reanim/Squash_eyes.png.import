@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bgijsa0y0ayos"
-path="res://.godot/imported/Squash_eyes.png-866e80326cd43ed031cd835bdd6ea098.ctex"
+path="res://.godot/imported/Squash_eyes.png-582792a95a7cea9eadf03fa7e1905550.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Squash_eyes.png"
-dest_files=["res://.godot/imported/Squash_eyes.png-866e80326cd43ed031cd835bdd6ea098.ctex"]
+source_file="res://Assets/reanim/Squash_eyes.png"
+dest_files=["res://.godot/imported/Squash_eyes.png-582792a95a7cea9eadf03fa7e1905550.ctex"]
 
 [params]
 

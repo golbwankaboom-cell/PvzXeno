@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0b2nxclwkjxn"
-path="res://.godot/imported/CobCannon_cob.png-1bb03dfc8031c2ccec395caef47ef976.ctex"
+path="res://.godot/imported/CobCannon_cob.png-be1b88b7e8e4d29bea151590837dd584.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CobCannon_cob.png"
-dest_files=["res://.godot/imported/CobCannon_cob.png-1bb03dfc8031c2ccec395caef47ef976.ctex"]
+source_file="res://Assets/reanim/CobCannon_cob.png"
+dest_files=["res://.godot/imported/CobCannon_cob.png-be1b88b7e8e4d29bea151590837dd584.ctex"]
 
 [params]
 

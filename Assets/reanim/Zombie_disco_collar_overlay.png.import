@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bma1vo5egmgqh"
-path="res://.godot/imported/Zombie_disco_collar_overlay.png-ce7347e0b7cbaa66cc5b092f3a2fd471.ctex"
+path="res://.godot/imported/Zombie_disco_collar_overlay.png-ac6deedc47cf05315a2a039e978fcae4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_disco_collar_overlay.png"
-dest_files=["res://.godot/imported/Zombie_disco_collar_overlay.png-ce7347e0b7cbaa66cc5b092f3a2fd471.ctex"]
+source_file="res://Assets/reanim/Zombie_disco_collar_overlay.png"
+dest_files=["res://.godot/imported/Zombie_disco_collar_overlay.png-ac6deedc47cf05315a2a039e978fcae4.ctex"]
 
 [params]
 

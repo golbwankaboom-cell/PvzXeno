@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://54rpfashjbpk"
-path="res://.godot/imported/plantspeechbubble.png-d198de18d1c4d3173eebf9c4c44e23b6.ctex"
+path="res://.godot/imported/plantspeechbubble.png-ed5fcfb5f1a848ca48e6f01f9684ee1e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/garden/plantspeechbubble.png"
-dest_files=["res://.godot/imported/plantspeechbubble.png-d198de18d1c4d3173eebf9c4c44e23b6.ctex"]
+source_file="res://Assets/image/garden/plantspeechbubble.png"
+dest_files=["res://.godot/imported/plantspeechbubble.png-ed5fcfb5f1a848ca48e6f01f9684ee1e.ctex"]
 
 [params]
 

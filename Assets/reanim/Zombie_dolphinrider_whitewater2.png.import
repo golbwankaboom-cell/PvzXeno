@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c668afr7c0iii"
-path="res://.godot/imported/Zombie_dolphinrider_whitewater2.png-0c8dc62b4d0c1e002023601089a03443.ctex"
+path="res://.godot/imported/Zombie_dolphinrider_whitewater2.png-3a0a15f4bc2e173eecedd3f51965d5c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_dolphinrider_whitewater2.png"
-dest_files=["res://.godot/imported/Zombie_dolphinrider_whitewater2.png-0c8dc62b4d0c1e002023601089a03443.ctex"]
+source_file="res://Assets/reanim/Zombie_dolphinrider_whitewater2.png"
+dest_files=["res://.godot/imported/Zombie_dolphinrider_whitewater2.png-3a0a15f4bc2e173eecedd3f51965d5c1.ctex"]
 
 [params]
 

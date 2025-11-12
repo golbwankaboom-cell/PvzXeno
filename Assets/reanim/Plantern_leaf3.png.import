@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q1hsgl3fug6s"
-path="res://.godot/imported/Plantern_leaf3.png-e7fa61d5cf8b986a9f0939d9392280fc.ctex"
+path="res://.godot/imported/Plantern_leaf3.png-1df9d32fa1018151d67ca7feefa54ff3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Plantern_leaf3.png"
-dest_files=["res://.godot/imported/Plantern_leaf3.png-e7fa61d5cf8b986a9f0939d9392280fc.ctex"]
+source_file="res://Assets/reanim/Plantern_leaf3.png"
+dest_files=["res://.godot/imported/Plantern_leaf3.png-1df9d32fa1018151d67ca7feefa54ff3.ctex"]
 
 [params]
 

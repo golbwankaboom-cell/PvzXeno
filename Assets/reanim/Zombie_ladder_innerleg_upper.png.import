@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyiygssae4ub7"
-path="res://.godot/imported/Zombie_ladder_innerleg_upper.png-4b3fefd2345e9ffc88f722910cc69c13.ctex"
+path="res://.godot/imported/Zombie_ladder_innerleg_upper.png-918aee9717342c1445382eb1aef2da6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_ladder_innerleg_upper.png"
-dest_files=["res://.godot/imported/Zombie_ladder_innerleg_upper.png-4b3fefd2345e9ffc88f722910cc69c13.ctex"]
+source_file="res://Assets/reanim/Zombie_ladder_innerleg_upper.png"
+dest_files=["res://.godot/imported/Zombie_ladder_innerleg_upper.png-918aee9717342c1445382eb1aef2da6c.ctex"]
 
 [params]
 

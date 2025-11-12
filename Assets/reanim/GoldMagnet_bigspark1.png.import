@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hf7jw8cnqt0x"
-path="res://.godot/imported/GoldMagnet_bigspark1.png-63f0af67c19ea4838037f404774d64f7.ctex"
+path="res://.godot/imported/GoldMagnet_bigspark1.png-985e03c74475975d4a8981f4ef7282ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/GoldMagnet_bigspark1.png"
-dest_files=["res://.godot/imported/GoldMagnet_bigspark1.png-63f0af67c19ea4838037f404774d64f7.ctex"]
+source_file="res://Assets/reanim/GoldMagnet_bigspark1.png"
+dest_files=["res://.godot/imported/GoldMagnet_bigspark1.png-985e03c74475975d4a8981f4ef7282ff.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6robscgti75e"
-path="res://.godot/imported/CherryBomb_leaf2tip.png-67954cb7b206ceab4c0e65ab7fce1930.ctex"
+path="res://.godot/imported/CherryBomb_leaf2tip.png-ee6e67af3f7a8fed31661657d98afe5a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CherryBomb_leaf2tip.png"
-dest_files=["res://.godot/imported/CherryBomb_leaf2tip.png-67954cb7b206ceab4c0e65ab7fce1930.ctex"]
+source_file="res://Assets/reanim/CherryBomb_leaf2tip.png"
+dest_files=["res://.godot/imported/CherryBomb_leaf2tip.png-ee6e67af3f7a8fed31661657d98afe5a.ctex"]
 
 [params]
 

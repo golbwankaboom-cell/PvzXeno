@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b0wmlwmb54ses"
-path="res://.godot/imported/newspaper_rarrgh2.ogg-5014589ba62023e58136519077180bc7.oggvorbisstr"
+path="res://.godot/imported/newspaper_rarrgh2.ogg-a1c737aa04667967a03b03b214dadd68.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/newspaper_rarrgh2.ogg"
-dest_files=["res://.godot/imported/newspaper_rarrgh2.ogg-5014589ba62023e58136519077180bc7.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/newspaper_rarrgh2.ogg"
+dest_files=["res://.godot/imported/newspaper_rarrgh2.ogg-a1c737aa04667967a03b03b214dadd68.oggvorbisstr"]
 
 [params]
 

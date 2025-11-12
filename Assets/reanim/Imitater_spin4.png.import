@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bugpe4jg7v23l"
-path="res://.godot/imported/Imitater_spin4.png-55921d5f4271c385d699b92805e05102.ctex"
+path="res://.godot/imported/Imitater_spin4.png-81163b815de16caa9300f89ec644e932.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Imitater_spin4.png"
-dest_files=["res://.godot/imported/Imitater_spin4.png-55921d5f4271c385d699b92805e05102.ctex"]
+source_file="res://Assets/reanim/Imitater_spin4.png"
+dest_files=["res://.godot/imported/Imitater_spin4.png-81163b815de16caa9300f89ec644e932.ctex"]
 
 [params]
 

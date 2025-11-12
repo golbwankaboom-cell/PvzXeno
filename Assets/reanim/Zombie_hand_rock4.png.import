@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt5ofapru1fy2"
-path="res://.godot/imported/Zombie_hand_rock4.png-eeabf21fdf1b3ae9c35acada7b655c3f.ctex"
+path="res://.godot/imported/Zombie_hand_rock4.png-d5a1b2f345cd13e934fd9773c367d0b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_hand_rock4.png"
-dest_files=["res://.godot/imported/Zombie_hand_rock4.png-eeabf21fdf1b3ae9c35acada7b655c3f.ctex"]
+source_file="res://Assets/reanim/Zombie_hand_rock4.png"
+dest_files=["res://.godot/imported/Zombie_hand_rock4.png-d5a1b2f345cd13e934fd9773c367d0b8.ctex"]
 
 [params]
 

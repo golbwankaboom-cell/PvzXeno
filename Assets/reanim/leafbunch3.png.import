@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdkwbq3au5ebf"
-path="res://.godot/imported/leafbunch3.png-8bda51927368138c4b98c0e688ed2d1f.ctex"
+path="res://.godot/imported/leafbunch3.png-19281c7b2b77da6b046df3fabfe63795.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/leafbunch3.png"
-dest_files=["res://.godot/imported/leafbunch3.png-8bda51927368138c4b98c0e688ed2d1f.ctex"]
+source_file="res://Assets/reanim/leafbunch3.png"
+dest_files=["res://.godot/imported/leafbunch3.png-19281c7b2b77da6b046df3fabfe63795.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do6qrkibrcy1q"
-path="res://.godot/imported/BladeIcon_Sunflower.png-e02c6e40469112682b242a7eb780c13c.ctex"
+path="res://.godot/imported/BladeIcon_Sunflower.png-2324620100e74f008b640b38ca24df75.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/BladeIcon_Sunflower.png"
-dest_files=["res://.godot/imported/BladeIcon_Sunflower.png-e02c6e40469112682b242a7eb780c13c.ctex"]
+source_file="res://Assets/Images/BladeIcon_Sunflower.png"
+dest_files=["res://.godot/imported/BladeIcon_Sunflower.png-2324620100e74f008b640b38ca24df75.ctex"]
 
 [params]
 

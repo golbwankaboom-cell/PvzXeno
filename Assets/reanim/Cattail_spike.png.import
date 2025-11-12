@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgj32utlkf8f0"
-path="res://.godot/imported/Cattail_spike.png-1f1296cbe39ec4357e5078fe63ebbb61.ctex"
+path="res://.godot/imported/Cattail_spike.png-a40777c8b6cab74f187afad97a8b4cfe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Cattail_spike.png"
-dest_files=["res://.godot/imported/Cattail_spike.png-1f1296cbe39ec4357e5078fe63ebbb61.ctex"]
+source_file="res://Assets/reanim/Cattail_spike.png"
+dest_files=["res://.godot/imported/Cattail_spike.png-a40777c8b6cab74f187afad97a8b4cfe.ctex"]
 
 [params]
 

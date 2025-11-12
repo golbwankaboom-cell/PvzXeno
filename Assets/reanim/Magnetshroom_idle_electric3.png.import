@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j4xw4erjse5o"
-path="res://.godot/imported/Magnetshroom_idle_electric3.png-fa5e0b9afe8990e940d223944d360259.ctex"
+path="res://.godot/imported/Magnetshroom_idle_electric3.png-c9f6a77f8e62bec024fe0d515e04437c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Magnetshroom_idle_electric3.png"
-dest_files=["res://.godot/imported/Magnetshroom_idle_electric3.png-fa5e0b9afe8990e940d223944d360259.ctex"]
+source_file="res://Assets/reanim/Magnetshroom_idle_electric3.png"
+dest_files=["res://.godot/imported/Magnetshroom_idle_electric3.png-c9f6a77f8e62bec024fe0d515e04437c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4jxkdtxgx0kv"
-path="res://.godot/imported/Zombie_charred_diggerbody7.png-d02bb97dea34a01c7023d26925bbe0b9.ctex"
+path="res://.godot/imported/Zombie_charred_diggerbody7.png-ecf6d0d522e320f6043c43f92f95b167.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_charred_diggerbody7.png"
-dest_files=["res://.godot/imported/Zombie_charred_diggerbody7.png-d02bb97dea34a01c7023d26925bbe0b9.ctex"]
+source_file="res://Assets/reanim/Zombie_charred_diggerbody7.png"
+dest_files=["res://.godot/imported/Zombie_charred_diggerbody7.png-ecf6d0d522e320f6043c43f92f95b167.ctex"]
 
 [params]
 

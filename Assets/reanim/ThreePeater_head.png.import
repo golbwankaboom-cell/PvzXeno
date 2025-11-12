@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xcqhwarudb01"
-path="res://.godot/imported/ThreePeater_head.png-45e9cd1cb0751a0e2cc1ba29a9281b1e.ctex"
+path="res://.godot/imported/ThreePeater_head.png-bbe36ae6bb416e97f9a877a79c5dcb10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/ThreePeater_head.png"
-dest_files=["res://.godot/imported/ThreePeater_head.png-45e9cd1cb0751a0e2cc1ba29a9281b1e.ctex"]
+source_file="res://Assets/reanim/ThreePeater_head.png"
+dest_files=["res://.godot/imported/ThreePeater_head.png-bbe36ae6bb416e97f9a877a79c5dcb10.ctex"]
 
 [params]
 

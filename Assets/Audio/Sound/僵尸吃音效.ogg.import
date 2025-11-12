@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b2k60gblcfy23"
-path="res://.godot/imported/僵尸吃音效.ogg-3a02adbd7aa7c8f585a2f56edb417b17.oggvorbisstr"
+path="res://.godot/imported/僵尸吃音效.ogg-299b800d00581ab031f64e346da0e5f4.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/Sound/僵尸吃音效.ogg"
-dest_files=["res://.godot/imported/僵尸吃音效.ogg-3a02adbd7aa7c8f585a2f56edb417b17.oggvorbisstr"]
+source_file="res://Assets/Audio/Sound/僵尸吃音效.ogg"
+dest_files=["res://.godot/imported/僵尸吃音效.ogg-299b800d00581ab031f64e346da0e5f4.oggvorbisstr"]
 
 [params]
 

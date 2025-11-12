@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ckqikd28tyefd"
-path="res://.godot/imported/polevault.ogg-c9fd25372e9ad901831ba620775e1285.oggvorbisstr"
+path="res://.godot/imported/polevault.ogg-0e6cc3aa2d076d54dfadfdd6041bd788.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/polevault.ogg"
-dest_files=["res://.godot/imported/polevault.ogg-c9fd25372e9ad901831ba620775e1285.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/polevault.ogg"
+dest_files=["res://.godot/imported/polevault.ogg-0e6cc3aa2d076d54dfadfdd6041bd788.oggvorbisstr"]
 
 [params]
 

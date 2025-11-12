@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgpnvemftf3h1"
-path="res://.godot/imported/Pumpkin_damage2.png-8cd18f001bdc17d6437ee8aade686703.ctex"
+path="res://.godot/imported/Pumpkin_damage2.png-331e69c4020258e627559f037b3894d7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Pumpkin_damage2.png"
-dest_files=["res://.godot/imported/Pumpkin_damage2.png-8cd18f001bdc17d6437ee8aade686703.ctex"]
+source_file="res://Assets/reanim/Pumpkin_damage2.png"
+dest_files=["res://.godot/imported/Pumpkin_damage2.png-331e69c4020258e627559f037b3894d7.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h5yqjc7mrtnq"
-path="res://.godot/imported/Starfruit_body.png-ddd97c6845bb4f599bd54bf41f0c2805.ctex"
+path="res://.godot/imported/Starfruit_body.png-064f0c3fb76c95061ac773caa5158a54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Starfruit_body.png"
-dest_files=["res://.godot/imported/Starfruit_body.png-ddd97c6845bb4f599bd54bf41f0c2805.ctex"]
+source_file="res://Assets/reanim/Starfruit_body.png"
+dest_files=["res://.godot/imported/Starfruit_body.png-064f0c3fb76c95061ac773caa5158a54.ctex"]
 
 [params]
 

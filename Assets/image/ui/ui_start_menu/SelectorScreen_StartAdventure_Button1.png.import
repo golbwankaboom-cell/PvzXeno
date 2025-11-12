@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bweanewc7021q"
-path="res://.godot/imported/SelectorScreen_StartAdventure_Button1.png-ae99af3b382c401bdc48a45d253cc12d.ctex"
+path="res://.godot/imported/SelectorScreen_StartAdventure_Button1.png-a94145d93c4e626d7b1cca1b9512927f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_StartAdventure_Button1.png"
-dest_files=["res://.godot/imported/SelectorScreen_StartAdventure_Button1.png-ae99af3b382c401bdc48a45d253cc12d.ctex"]
+source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_StartAdventure_Button1.png"
+dest_files=["res://.godot/imported/SelectorScreen_StartAdventure_Button1.png-a94145d93c4e626d7b1cca1b9512927f.ctex"]
 
 [params]
 

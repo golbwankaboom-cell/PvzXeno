@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnracm7r1oeef"
-path="res://.godot/imported/Chomper_spike.png-de5267c2c8badf99e71e63710f2c9c2c.ctex"
+path="res://.godot/imported/Chomper_spike.png-5f7b603d0b00be86a07396de267c9b9c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Chomper_spike.png"
-dest_files=["res://.godot/imported/Chomper_spike.png-de5267c2c8badf99e71e63710f2c9c2c.ctex"]
+source_file="res://Assets/reanim/Chomper_spike.png"
+dest_files=["res://.godot/imported/Chomper_spike.png-5f7b603d0b00be86a07396de267c9b9c.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cb08x5e81eymc"
-path="res://.godot/imported/snow_pea_sparkles.ogg-1657df0569b854afb9b32473a47682fa.oggvorbisstr"
+path="res://.godot/imported/snow_pea_sparkles.ogg-6630ada932cbe21b8bba5b2f35af33bf.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/snow_pea_sparkles.ogg"
-dest_files=["res://.godot/imported/snow_pea_sparkles.ogg-1657df0569b854afb9b32473a47682fa.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/snow_pea_sparkles.ogg"
+dest_files=["res://.godot/imported/snow_pea_sparkles.ogg-6630ada932cbe21b8bba5b2f35af33bf.oggvorbisstr"]
 
 [params]
 

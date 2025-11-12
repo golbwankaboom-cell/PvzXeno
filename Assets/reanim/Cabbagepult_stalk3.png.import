@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfh0ujqq7ciin"
-path="res://.godot/imported/Cabbagepult_stalk3.png-9916216714bc7741705001777e141d64.ctex"
+path="res://.godot/imported/Cabbagepult_stalk3.png-d3520916a29f13e0cc2bbf6169447c86.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Cabbagepult_stalk3.png"
-dest_files=["res://.godot/imported/Cabbagepult_stalk3.png-9916216714bc7741705001777e141d64.ctex"]
+source_file="res://Assets/reanim/Cabbagepult_stalk3.png"
+dest_files=["res://.godot/imported/Cabbagepult_stalk3.png-d3520916a29f13e0cc2bbf6169447c86.ctex"]
 
 [params]
 

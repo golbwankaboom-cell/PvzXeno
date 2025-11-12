@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://byrfcc1yqasl5"
-path="res://.godot/imported/Zombie_boss_fireball_groundparticles.png-874fb0fabb437f991bd8c37931cc1770.ctex"
+path="res://.godot/imported/Zombie_boss_fireball_groundparticles.png-0eeeceedfe3873f92e9aabd9c9462df8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/particles/Zombie_boss_fireball_groundparticles.png"
-dest_files=["res://.godot/imported/Zombie_boss_fireball_groundparticles.png-874fb0fabb437f991bd8c37931cc1770.ctex"]
+source_file="res://Assets/image/particles/Zombie_boss_fireball_groundparticles.png"
+dest_files=["res://.godot/imported/Zombie_boss_fireball_groundparticles.png-0eeeceedfe3873f92e9aabd9c9462df8.ctex"]
 
 [params]
 

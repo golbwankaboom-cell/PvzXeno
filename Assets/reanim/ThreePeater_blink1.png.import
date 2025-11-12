@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b20h77g62nvj3"
-path="res://.godot/imported/ThreePeater_blink1.png-38a418f05bb0326ec056e479fe57d7a3.ctex"
+path="res://.godot/imported/ThreePeater_blink1.png-4fb4b8619f9dbcd29d07c88e6cd61904.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/ThreePeater_blink1.png"
-dest_files=["res://.godot/imported/ThreePeater_blink1.png-38a418f05bb0326ec056e479fe57d7a3.ctex"]
+source_file="res://Assets/reanim/ThreePeater_blink1.png"
+dest_files=["res://.godot/imported/ThreePeater_blink1.png-4fb4b8619f9dbcd29d07c88e6cd61904.ctex"]
 
 [params]
 

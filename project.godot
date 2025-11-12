@@ -22,6 +22,7 @@ PlantManager="*res://Scripts/Global/PlantManager.gd"
 ZombieManager="*res://Scripts/Global/ZombieManager.gd"
 SetPlantManager="*res://Scripts/Global/SetPlantManager.gd"
 ArrowManager="*res://Scripts/Global/ArrowManager.gd"
+SoundManager="*res://Scripts/Global/SoundManager.gd"
 
 [display]
 

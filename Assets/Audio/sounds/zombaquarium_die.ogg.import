@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ybyc8xuinyqj"
-path="res://.godot/imported/zombaquarium_die.ogg-eb60e4ebbb5c6e67a22a8c23b8a98ad3.oggvorbisstr"
+path="res://.godot/imported/zombaquarium_die.ogg-3bf0e56e075b8477d5ce4c41ddfc5b77.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/zombaquarium_die.ogg"
-dest_files=["res://.godot/imported/zombaquarium_die.ogg-eb60e4ebbb5c6e67a22a8c23b8a98ad3.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/zombaquarium_die.ogg"
+dest_files=["res://.godot/imported/zombaquarium_die.ogg-3bf0e56e075b8477d5ce4c41ddfc5b77.oggvorbisstr"]
 
 [params]
 

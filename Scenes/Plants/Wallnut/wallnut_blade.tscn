@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cmehk0owod8xe"]
+
+[ext_resource type="Script" uid="uid://c2x7ajh058oyw" path="res://Scripts/Plants/Wallnut/wallnut_blade.gd" id="1_haqec"]
+[ext_resource type="Texture2D" uid="uid://d2gt74fhfr7kv" path="res://Assets/Images/Blade/WallnutBlade.png" id="1_ojqwt"]
+
+[node name="WallnutBlade" type="Node2D"]
+script = ExtResource("1_haqec")
+
+[node name="WallnutBlade" type="Sprite2D" parent="."]
+texture = ExtResource("1_ojqwt")

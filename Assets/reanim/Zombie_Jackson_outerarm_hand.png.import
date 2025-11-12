@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://co6n3rmsy6vcv"
-path="res://.godot/imported/Zombie_Jackson_outerarm_hand.png-fdba6e8989f9a836040e2dae6b83a3c2.ctex"
+path="res://.godot/imported/Zombie_Jackson_outerarm_hand.png-2d67993a1b59e5776e39e916cf05f617.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_Jackson_outerarm_hand.png"
-dest_files=["res://.godot/imported/Zombie_Jackson_outerarm_hand.png-fdba6e8989f9a836040e2dae6b83a3c2.ctex"]
+source_file="res://Assets/reanim/Zombie_Jackson_outerarm_hand.png"
+dest_files=["res://.godot/imported/Zombie_Jackson_outerarm_hand.png-2d67993a1b59e5776e39e916cf05f617.ctex"]
 
 [params]
 

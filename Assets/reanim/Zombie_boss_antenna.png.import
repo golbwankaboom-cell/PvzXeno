@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5owucpyftf8c"
-path="res://.godot/imported/Zombie_boss_antenna.png-816896df83d4be4052532f4d69152d3f.ctex"
+path="res://.godot/imported/Zombie_boss_antenna.png-58623b19195377f3bf6b552394806382.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_boss_antenna.png"
-dest_files=["res://.godot/imported/Zombie_boss_antenna.png-816896df83d4be4052532f4d69152d3f.ctex"]
+source_file="res://Assets/reanim/Zombie_boss_antenna.png"
+dest_files=["res://.godot/imported/Zombie_boss_antenna.png-58623b19195377f3bf6b552394806382.ctex"]
 
 [params]
 

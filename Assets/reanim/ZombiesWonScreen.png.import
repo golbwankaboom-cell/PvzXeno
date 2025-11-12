@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dt6mpj3e3pgc8"
-path="res://.godot/imported/ZombiesWonScreen.png-6812115721534f66ba6fcff7a1342fb2.ctex"
+path="res://.godot/imported/ZombiesWonScreen.png-b2153fd2b2024d02e415e044dfb89fa1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/ZombiesWonScreen.png"
-dest_files=["res://.godot/imported/ZombiesWonScreen.png-6812115721534f66ba6fcff7a1342fb2.ctex"]
+source_file="res://Assets/reanim/ZombiesWonScreen.png"
+dest_files=["res://.godot/imported/ZombiesWonScreen.png-b2153fd2b2024d02e415e044dfb89fa1.ctex"]
 
 [params]
 

@@ -22,6 +22,7 @@ class_name PlantDriver
 @export var bullet_velocity  : Vector2 = Vector2.ZERO #子弹初始动量（豌豆射手发射子弹的时候其实还会给动量）
 @export var bullet_operating_speed : float = 1.0      #子弹运行速度
 @export var bullet_durable   : int = 1                #子弹可穿透次数
+@export var blade_amount     : int = 4
 # @export var face_foward      : bool = true            #面朝前方（布尔值）
 # @export var health           : float = 300.0          #最大生命值
 # @export var take_damage_rate : float = 1.0            #受伤倍率
