@@ -4,6 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://dh04xwsq0kueb" path="res://Assets/Images/Blade/SplitPeaBlade.png" id="2_2whpp"]
 
 [node name="SplitPeaBlade" type="Node2D"]
+scale = Vector2(0.4, 0.4)
 script = ExtResource("1_vomu3")
 
 [node name="SplitPeaBlade" type="Sprite2D" parent="."]

@@ -10,4 +10,6 @@ func _enter_tree():
 func _ready():
 	grandparent.current_blade_amount += 1
 	blade_id += grandparent.current_blade_amount
-	print(blade_id)
+	#print(blade_id)
+	
+	position = Vector2(-40,-60 + 20 * blade_id )

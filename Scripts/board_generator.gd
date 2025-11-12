@@ -21,8 +21,8 @@ func generate_grid(n: int, m: int):
 	#计算clamp范围
 	ArrowManager.min_position = Vector2(position.x-40+5,position.y-50+5)
 	ArrowManager.max_position = Vector2(position.x-40-5+total_width,position.y-50-5+total_height)
-	print(ArrowManager.min_position)
-	print(ArrowManager.max_position)
+	#print(ArrowManager.min_position)
+	#print(ArrowManager.max_position)
 	
 	# 计算起始位置（居中显示）
 	var start_pos = Vector2.ZERO
