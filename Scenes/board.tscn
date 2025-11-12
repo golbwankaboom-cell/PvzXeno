@@ -1,26 +1,33 @@
-[gd_scene load_steps=5 format=3 uid="uid://by615v5mtl76p"]
+[gd_scene load_steps=4 format=3 uid="uid://by615v5mtl76p"]
 
 [ext_resource type="Script" uid="uid://cyrp6gf78osq0" path="res://Scripts/board.gd" id="1_psm7c"]
-[ext_resource type="Texture2D" uid="uid://3lyl4ovchjfh" path="res://Assets/Images/board_green.png" id="2_8l818"]
+[ext_resource type="Texture2D" uid="uid://3lyl4ovchjfh" path="res://assets/Images/board_green.png" id="2_8l818"]
 [ext_resource type="PackedScene" uid="uid://cefunordcij4y" path="res://Scenes/board_selector.tscn" id="3_8l818"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_psm7c"]
-size = Vector2(75, 95)
-
-[node name="Board" type="Area2D"]
+[node name="Board" type="Control"]
+custom_minimum_size = Vector2(70, 100)
+layout_mode = 3
+anchors_preset = 0
+offset_right = 70.0
+offset_bottom = 100.0
 script = ExtResource("1_psm7c")
 
 [node name="BoardGreen" type="Sprite2D" parent="."]
 visible = false
 texture = ExtResource("2_8l818")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("RectangleShape2D_psm7c")
-
 [node name="BoardSelector" parent="." instance=ExtResource("3_8l818")]
+visible = false
 scale = Vector2(0.75, 0.75)
 
-[connection signal="area_entered" from="." to="." method="_on_area_entered"]
-[connection signal="area_exited" from="." to="." method="_on_area_exited"]
-[connection signal="mouse_entered" from="." to="." method="_on_mouse_entered"]
-[connection signal="mouse_exited" from="." to="." method="_on_mouse_exited"]
+[node name="interaction_area_node" type="Control" parent="."]
+layout_mode = 1
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -35.0
+offset_top = -50.0
+offset_right = -35.0
+offset_bottom = -50.0
+
+[connection signal="gui_input" from="." to="." method="plant_command"]
+[connection signal="gui_input" from="interaction_area_node" to="." method="plant_command"]

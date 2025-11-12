@@ -3,6 +3,8 @@ extends Node2D
 @export var board_scene : PackedScene    #关联场景
 @export var board_size : Vector2 = Vector2(80, 100)  # 每个格子的尺寸
 @export var spacing : Vector2 = Vector2(0, 0)    # 格子间距
+## 地块数组
+var plot_array=[]
 
 var n = 5
 var m = 9
@@ -11,9 +13,12 @@ var total_height
 
 func _ready():
 	generate_grid(n, m)
-	
+	ArrowManager.plot_parent_node=self
+	plot_array[0].arrow_entered()
 
-func generate_grid(n: int, m: int):
+func generate_grid(_n: int, _m: int):
+	n=_n#排Y我觉得相同变量还是保持一致好
+	m=_m#行X
 	# 计算总尺寸
 	total_width = m * (board_size.x + spacing.x) - spacing.x
 	total_height = n * (board_size.y + spacing.y) - spacing.y
@@ -36,7 +41,7 @@ func generate_grid(n: int, m: int):
 			board.board_row += row
 			board.board_column += column
 			add_child(board)
-			
+			plot_array+=[board]
 			# 计算位置
 			board.position = start_pos + Vector2(
 				column * (board_size.x + spacing.x),

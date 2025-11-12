@@ -1,4 +1,6 @@
-extends Area2D
+extends Control
+##interaction_area_node#交互区：鼠标判定区域
+
 
 #var mouse_in = false
 #var control_type = "mouse"
@@ -14,36 +16,31 @@ var current_plant = null
 signal plant_planted(plant_instance, board_position)
 
 func _ready():
+	ArrowManager.cursor_moved.connect(arrow_exited)
 	$BoardSelector.visible = false
-	
-
-
-
-func _on_mouse_entered():
-	if ArrowManager.control_type == "mouse":
-		arrow_entered()
-
 func arrow_entered():
-	arrow_in = true
-	$BoardSelector.visible = true
-	ArrowManager.current_board_position = global_position
-
-
-
-func _on_mouse_exited():
-	if ArrowManager.control_type == "mouse":
-		arrow_exited()
-	
-func arrow_exited():
-	
+	ArrowManager.emit_signal("cursor_moved",self)
+func arrow_exited(node):#解除
+	if not node==self:
 		arrow_in = false
 		$BoardSelector.visible = false
-	
-	
-func _process(delta):
-	if arrow_in == true and Input.is_action_just_pressed("mouse_left"):
-		try_set_plant()
-		
+	else :
+		arrow_in = true
+		$BoardSelector.visible = true
+		var self_world_position = global_position# 获取当前节点的世界坐标
+		ArrowManager.current_board_position = global_position
+		if ArrowManager and ArrowManager.cursor_pointer:# 将cursor_pointer节点移动到当前节点的世界坐标
+			ArrowManager.cursor_pointer.global_position = self_world_position
+## 种植命令：执行植物种植操作的方法
+func plant_command(event):
+	# 判断是否是鼠标左键按下事件
+	if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT and event.pressed:
+		arrow_entered()#选择当前格子
+		try_set_plant()#种植判断
+
+func _process(_delta):
+	#if arrow_in == true and Input.is_action_just_pressed("mouse_left"):
+		#try_set_plant()
 	if arrow_in == true and Input.is_action_just_pressed("controller_a"):
 		try_set_plant()
 # 种植植物的函数
@@ -56,7 +53,7 @@ func _process(delta):
 # 5. 更新状态：标记当前位置已种植植物（has_plant设为true），保存当前种植的植物实例（current_plant）
 # 6. 发送信号：发射plant_planted信号，携带植物实例和其所在行列的向量信息（供其他逻辑响应）
 # 7. 调试输出：打印植物所在行列的向量及当前种植的植物实例（用于开发调试）
-func try_set_plant():
+func try_set_plant():#种植条件检查
 	if arrow_in == true and not has_plant:
 		set_plant()
 	else :
@@ -77,18 +74,6 @@ func set_plant():
 		
 		#print(current_plant)
 
-
-func _on_area_entered(area):
-	if area.is_in_group("Arrow"):
-		if ArrowManager.control_type == "controller":
-			arrow_entered()
-
-
-
-func _on_area_exited(area):
-	if area.is_in_group("Arrow"):
-		if ArrowManager.control_type == "controller":
-			arrow_exited()
 			
 func set_plant_failed():
 	pass

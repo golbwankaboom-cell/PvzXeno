@@ -1,9 +1,11 @@
-[gd_scene load_steps=5 format=3 uid="uid://c8tc3h6m01g3g"]
+[gd_scene load_steps=7 format=3 uid="uid://c8tc3h6m01g3g"]
 
 [ext_resource type="Script" uid="uid://dwfih6s0xnel0" path="res://Scripts/lawn.gd" id="1_jd8i5"]
-[ext_resource type="Texture2D" uid="uid://bc67d4jeehpo6" path="res://Assets/Images/Background/background1.jpg" id="1_n7q61"]
+[ext_resource type="Texture2D" uid="uid://bc67d4jeehpo6" path="res://assets/Images/Background/background1.jpg" id="1_n7q61"]
 [ext_resource type="PackedScene" uid="uid://8tocwjyaue3a" path="res://Scenes/board_generator.tscn" id="2_7pgdm"]
-[ext_resource type="AudioStream" uid="uid://0weoobhtgox2" path="res://Assets/Audio/Music/Day.mp3" id="3_4kbsa"]
+[ext_resource type="AudioStream" uid="uid://0weoobhtgox2" path="res://assets/Audio/Music/Day.mp3" id="3_4kbsa"]
+[ext_resource type="Theme" uid="uid://b0m60dnoxt1dn" path="res://Scenes/UI/Theme/PVZ.tres" id="5_rk03x"]
+[ext_resource type="Script" uid="uid://bfopemm5vnfpg" path="res://Scripts/UI/plant_prepare_slot.gd" id="5_tptr5"]
 
 [node name="Lawn" type="Node2D"]
 script = ExtResource("1_jd8i5")
@@ -23,4 +25,26 @@ position = Vector2(70.00001, 127)
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("3_4kbsa")
-autoplay = true
+
+[node name="plant_prepare_slot" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("5_tptr5")
+
+[node name="Panel" type="Panel" parent="plant_prepare_slot"]
+layout_mode = 0
+offset_right = 89.0
+offset_bottom = 90.0
+theme = ExtResource("5_rk03x")
+
+[node name="card" type="HBoxContainer" parent="plant_prepare_slot/Panel"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 4
+anchor_top = 0.5
+anchor_bottom = 0.5
+offset_left = 75.0
+offset_top = -37.5
+offset_right = 75.0
+offset_bottom = 37.5
+grow_vertical = 2
