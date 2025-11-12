@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bhdpbhbu4fsm5"
-path="res://.godot/imported/grassstep.ogg-6cfd948547d9e7b0e839d99808b54725.oggvorbisstr"
+path="res://.godot/imported/grassstep.ogg-47c4eca798932a95593f8950c82a198c.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/sounds/grassstep.ogg"
-dest_files=["res://.godot/imported/grassstep.ogg-6cfd948547d9e7b0e839d99808b54725.oggvorbisstr"]
+source_file="res://assets/Audio/sounds/grassstep.ogg"
+dest_files=["res://.godot/imported/grassstep.ogg-47c4eca798932a95593f8950c82a198c.oggvorbisstr"]
 
 [params]
 

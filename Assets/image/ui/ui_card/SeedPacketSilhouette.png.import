@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw6btivnki0kt"
-path="res://.godot/imported/SeedPacketSilhouette.png-74c32bdfa34c0f5256713d39a6f59e80.ctex"
+path="res://.godot/imported/SeedPacketSilhouette.png-51497bb0ea963b6465c1c95f8b65bb9d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_card/SeedPacketSilhouette.png"
-dest_files=["res://.godot/imported/SeedPacketSilhouette.png-74c32bdfa34c0f5256713d39a6f59e80.ctex"]
+source_file="res://assets/image/ui/ui_card/SeedPacketSilhouette.png"
+dest_files=["res://.godot/imported/SeedPacketSilhouette.png-51497bb0ea963b6465c1c95f8b65bb9d.ctex"]
 
 [params]
 

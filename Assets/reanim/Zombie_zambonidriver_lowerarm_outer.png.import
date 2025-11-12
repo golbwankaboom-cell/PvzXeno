@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0ekgmf10pp67"
-path="res://.godot/imported/Zombie_zambonidriver_lowerarm_outer.png-ac1c055b85ba682a810b565a5144189d.ctex"
+path="res://.godot/imported/Zombie_zambonidriver_lowerarm_outer.png-90f72f6bed0acef7895ab2f509c3ab46.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_zambonidriver_lowerarm_outer.png"
-dest_files=["res://.godot/imported/Zombie_zambonidriver_lowerarm_outer.png-ac1c055b85ba682a810b565a5144189d.ctex"]
+source_file="res://assets/reanim/Zombie_zambonidriver_lowerarm_outer.png"
+dest_files=["res://.godot/imported/Zombie_zambonidriver_lowerarm_outer.png-90f72f6bed0acef7895ab2f509c3ab46.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dncken6bdfo40"
-path="res://.godot/imported/crazydaveextralong2.ogg-825b71d56b1b2647ba9cbc38f9158834.oggvorbisstr"
+path="res://.godot/imported/crazydaveextralong2.ogg-b5e837b05350a5ee3e04899d0534726f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/carzy/crazydaveextralong2.ogg"
-dest_files=["res://.godot/imported/crazydaveextralong2.ogg-825b71d56b1b2647ba9cbc38f9158834.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/carzy/crazydaveextralong2.ogg"
+dest_files=["res://.godot/imported/crazydaveextralong2.ogg-b5e837b05350a5ee3e04899d0534726f.oggvorbisstr"]
 
 [params]
 

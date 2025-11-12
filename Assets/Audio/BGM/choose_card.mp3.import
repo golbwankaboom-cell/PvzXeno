@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://duvijencyf7mi"
-path="res://.godot/imported/choose_card.mp3-537b5d2256239b951d0b49c91acaf922.mp3str"
+path="res://.godot/imported/choose_card.mp3-f4a711b9082e91f24ad35cd553426f4d.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/BGM/choose_card.mp3"
-dest_files=["res://.godot/imported/choose_card.mp3-537b5d2256239b951d0b49c91acaf922.mp3str"]
+source_file="res://assets/Audio/BGM/choose_card.mp3"
+dest_files=["res://.godot/imported/choose_card.mp3-f4a711b9082e91f24ad35cd553426f4d.mp3str"]
 
 [params]
 

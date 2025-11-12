@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4k1jb6v8fhbq"
-path="res://.godot/imported/accessories_12.png-35deea3a7c315e7f9ffcd5bca04492dc.ctex"
+path="res://.godot/imported/accessories_12.png-233258b05a4f95ec5f56dbe204bb4b2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/accessories_12.png"
-dest_files=["res://.godot/imported/accessories_12.png-35deea3a7c315e7f9ffcd5bca04492dc.ctex"]
+source_file="res://assets/reanim/accessories_12.png"
+dest_files=["res://.godot/imported/accessories_12.png-233258b05a4f95ec5f56dbe204bb4b2b.ctex"]
 
 [params]
 

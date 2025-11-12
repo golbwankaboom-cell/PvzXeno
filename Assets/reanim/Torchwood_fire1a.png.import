@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c3chyllw8wp1c"
-path="res://.godot/imported/Torchwood_fire1a.png-a7025fbc490dd66de1cc5517ccd21368.ctex"
+path="res://.godot/imported/Torchwood_fire1a.png-3829da485f06438a65bb6bb0bcd5d245.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Torchwood_fire1a.png"
-dest_files=["res://.godot/imported/Torchwood_fire1a.png-a7025fbc490dd66de1cc5517ccd21368.ctex"]
+source_file="res://assets/reanim/Torchwood_fire1a.png"
+dest_files=["res://.godot/imported/Torchwood_fire1a.png-3829da485f06438a65bb6bb0bcd5d245.ctex"]
 
 [params]
 

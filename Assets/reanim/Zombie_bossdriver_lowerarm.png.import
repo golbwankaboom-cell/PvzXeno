@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxcoxwwr4wead"
-path="res://.godot/imported/Zombie_bossdriver_lowerarm.png-b410a5a7670785ea1640129050c7760e.ctex"
+path="res://.godot/imported/Zombie_bossdriver_lowerarm.png-61e0c1866a801664709777c5160136a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_bossdriver_lowerarm.png"
-dest_files=["res://.godot/imported/Zombie_bossdriver_lowerarm.png-b410a5a7670785ea1640129050c7760e.ctex"]
+source_file="res://assets/reanim/Zombie_bossdriver_lowerarm.png"
+dest_files=["res://.godot/imported/Zombie_bossdriver_lowerarm.png-61e0c1866a801664709777c5160136a9.ctex"]
 
 [params]
 

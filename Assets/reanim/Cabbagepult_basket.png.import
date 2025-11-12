@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7uqfdos6ocy7"
-path="res://.godot/imported/Cabbagepult_basket.png-7054429af1589f851a7a91d546a8203c.ctex"
+path="res://.godot/imported/Cabbagepult_basket.png-4d96842c615d0f23df6edbddfaf24225.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Cabbagepult_basket.png"
-dest_files=["res://.godot/imported/Cabbagepult_basket.png-7054429af1589f851a7a91d546a8203c.ctex"]
+source_file="res://assets/reanim/Cabbagepult_basket.png"
+dest_files=["res://.godot/imported/Cabbagepult_basket.png-4d96842c615d0f23df6edbddfaf24225.ctex"]
 
 [params]
 

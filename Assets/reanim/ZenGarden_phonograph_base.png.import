@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dc4rrt4tokouc"
-path="res://.godot/imported/ZenGarden_phonograph_base.png-0c5603f1233123465781136e6f41fb6d.ctex"
+path="res://.godot/imported/ZenGarden_phonograph_base.png-193e6f7ee3654f06305668c9b2dee7db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/ZenGarden_phonograph_base.png"
-dest_files=["res://.godot/imported/ZenGarden_phonograph_base.png-0c5603f1233123465781136e6f41fb6d.ctex"]
+source_file="res://assets/reanim/ZenGarden_phonograph_base.png"
+dest_files=["res://.godot/imported/ZenGarden_phonograph_base.png-193e6f7ee3654f06305668c9b2dee7db.ctex"]
 
 [params]
 

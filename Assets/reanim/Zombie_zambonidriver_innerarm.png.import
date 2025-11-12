@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dydfft3qb7b0o"
-path="res://.godot/imported/Zombie_zambonidriver_innerarm.png-fe89601f1969714fb67ea9a58a8f5b5a.ctex"
+path="res://.godot/imported/Zombie_zambonidriver_innerarm.png-3ae0f36365b4609def463cd09fb87f80.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_zambonidriver_innerarm.png"
-dest_files=["res://.godot/imported/Zombie_zambonidriver_innerarm.png-fe89601f1969714fb67ea9a58a8f5b5a.ctex"]
+source_file="res://assets/reanim/Zombie_zambonidriver_innerarm.png"
+dest_files=["res://.godot/imported/Zombie_zambonidriver_innerarm.png-3ae0f36365b4609def463cd09fb87f80.ctex"]
 
 [params]
 

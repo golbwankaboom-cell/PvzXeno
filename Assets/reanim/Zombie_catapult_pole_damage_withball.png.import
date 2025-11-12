@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bef57dfsnq7ha"
-path="res://.godot/imported/Zombie_catapult_pole_damage_withball.png-76dea8012e20785b5c439d8246b9cdde.ctex"
+path="res://.godot/imported/Zombie_catapult_pole_damage_withball.png-c94ebd13a907d100ab77ae2f9324bce1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_catapult_pole_damage_withball.png"
-dest_files=["res://.godot/imported/Zombie_catapult_pole_damage_withball.png-76dea8012e20785b5c439d8246b9cdde.ctex"]
+source_file="res://assets/reanim/Zombie_catapult_pole_damage_withball.png"
+dest_files=["res://.godot/imported/Zombie_catapult_pole_damage_withball.png-c94ebd13a907d100ab77ae2f9324bce1.ctex"]
 
 [params]
 

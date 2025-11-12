@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://egilmmiqljad"
-path="res://.godot/imported/Zombie_digger_jaw.png-3a953ef7a76bd710047be8c248e0e1cb.ctex"
+path="res://.godot/imported/Zombie_digger_jaw.png-7bafac71e87dbdf551dd67af78ae1c53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_digger_jaw.png"
-dest_files=["res://.godot/imported/Zombie_digger_jaw.png-3a953ef7a76bd710047be8c248e0e1cb.ctex"]
+source_file="res://assets/reanim/Zombie_digger_jaw.png"
+dest_files=["res://.godot/imported/Zombie_digger_jaw.png-7bafac71e87dbdf551dd67af78ae1c53.ctex"]
 
 [params]
 

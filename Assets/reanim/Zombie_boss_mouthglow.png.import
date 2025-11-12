@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpi1pc7gdc7e3"
-path="res://.godot/imported/Zombie_boss_mouthglow.png-22f32b7cd2d8226372cd88b506392e79.ctex"
+path="res://.godot/imported/Zombie_boss_mouthglow.png-209fff7fe0abdbe4a07761232762b43b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_boss_mouthglow.png"
-dest_files=["res://.godot/imported/Zombie_boss_mouthglow.png-22f32b7cd2d8226372cd88b506392e79.ctex"]
+source_file="res://assets/reanim/Zombie_boss_mouthglow.png"
+dest_files=["res://.godot/imported/Zombie_boss_mouthglow.png-209fff7fe0abdbe4a07761232762b43b.ctex"]
 
 [params]
 

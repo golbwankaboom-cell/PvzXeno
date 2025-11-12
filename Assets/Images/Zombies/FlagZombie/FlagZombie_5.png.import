@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bab8iji8alb04"
-path="res://.godot/imported/FlagZombie_5.png-d4ae7c48c65ddd84d93d714674aaeb8b.ctex"
+path="res://.godot/imported/FlagZombie_5.png-b1a64d06253d3adf7e239b1ae8f907b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/FlagZombie/FlagZombie_5.png"
-dest_files=["res://.godot/imported/FlagZombie_5.png-d4ae7c48c65ddd84d93d714674aaeb8b.ctex"]
+source_file="res://assets/Images/Zombies/FlagZombie/FlagZombie_5.png"
+dest_files=["res://.godot/imported/FlagZombie_5.png-b1a64d06253d3adf7e239b1ae8f907b0.ctex"]
 
 [params]
 

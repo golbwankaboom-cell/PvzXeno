@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://sllgw1btijy7"
-path="res://.godot/imported/bonk.ogg-fbfc91349f88e15187d96ac47b140619.oggvorbisstr"
+path="res://.godot/imported/bonk.ogg-8cefbad9022a3248c428a9c8b09a798e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/item/bonk.ogg"
-dest_files=["res://.godot/imported/bonk.ogg-fbfc91349f88e15187d96ac47b140619.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/item/bonk.ogg"
+dest_files=["res://.godot/imported/bonk.ogg-8cefbad9022a3248c428a9c8b09a798e.oggvorbisstr"]
 
 [params]
 

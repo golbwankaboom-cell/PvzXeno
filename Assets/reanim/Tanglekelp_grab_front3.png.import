@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doj7h55uca5gf"
-path="res://.godot/imported/Tanglekelp_grab_front3.png-9cc787c3bcedd7411020eeb53bfdb8f0.ctex"
+path="res://.godot/imported/Tanglekelp_grab_front3.png-463978c56124902e1fbd9fea88587628.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Tanglekelp_grab_front3.png"
-dest_files=["res://.godot/imported/Tanglekelp_grab_front3.png-9cc787c3bcedd7411020eeb53bfdb8f0.ctex"]
+source_file="res://assets/reanim/Tanglekelp_grab_front3.png"
+dest_files=["res://.godot/imported/Tanglekelp_grab_front3.png-463978c56124902e1fbd9fea88587628.ctex"]
 
 [params]
 

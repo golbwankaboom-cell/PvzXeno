@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvrpy0542328h"
-path="res://.godot/imported/Zombie_gargantuar_telephonepole.png-8e90b58beb3215da388ae2cb2161c549.ctex"
+path="res://.godot/imported/Zombie_gargantuar_telephonepole.png-875bec43080cc578c1373cfe51df9a07.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_gargantuar_telephonepole.png"
-dest_files=["res://.godot/imported/Zombie_gargantuar_telephonepole.png-8e90b58beb3215da388ae2cb2161c549.ctex"]
+source_file="res://assets/reanim/Zombie_gargantuar_telephonepole.png"
+dest_files=["res://.godot/imported/Zombie_gargantuar_telephonepole.png-875bec43080cc578c1373cfe51df9a07.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cevu2nadxinnt"
-path="res://.godot/imported/Zombie_pogo_hair.png-71f0b6373adb272b5f23bfca45f1e9f9.ctex"
+path="res://.godot/imported/Zombie_pogo_hair.png-384ed59c0033b2132a37937206cc6d03.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_pogo_hair.png"
-dest_files=["res://.godot/imported/Zombie_pogo_hair.png-71f0b6373adb272b5f23bfca45f1e9f9.ctex"]
+source_file="res://assets/reanim/Zombie_pogo_hair.png"
+dest_files=["res://.godot/imported/Zombie_pogo_hair.png-384ed59c0033b2132a37937206cc6d03.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://div01ucfsfftw"
-path="res://.godot/imported/CrazyDave_mouth2.png-a763d0203996d04d8830b00a1b42f871.ctex"
+path="res://.godot/imported/CrazyDave_mouth2.png-8800a60969c1c33b29feb2cec0fb43b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CrazyDave_mouth2.png"
-dest_files=["res://.godot/imported/CrazyDave_mouth2.png-a763d0203996d04d8830b00a1b42f871.ctex"]
+source_file="res://assets/reanim/CrazyDave_mouth2.png"
+dest_files=["res://.godot/imported/CrazyDave_mouth2.png-8800a60969c1c33b29feb2cec0fb43b6.ctex"]
 
 [params]
 

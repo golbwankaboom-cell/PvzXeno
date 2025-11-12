@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw5pn01hh1dfv"
-path="res://.godot/imported/Melonpult_eyebrow.png-bf0a76c3168a296d7c6bf3c5dc1a57e9.ctex"
+path="res://.godot/imported/Melonpult_eyebrow.png-f4888113ad57a6aefc9c4fb52d4ee11c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Melonpult_eyebrow.png"
-dest_files=["res://.godot/imported/Melonpult_eyebrow.png-bf0a76c3168a296d7c6bf3c5dc1a57e9.ctex"]
+source_file="res://assets/reanim/Melonpult_eyebrow.png"
+dest_files=["res://.godot/imported/Melonpult_eyebrow.png-f4888113ad57a6aefc9c4fb52d4ee11c.ctex"]
 
 [params]
 

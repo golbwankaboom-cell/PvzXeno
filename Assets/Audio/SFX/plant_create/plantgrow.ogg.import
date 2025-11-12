@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://ctsw36y6dh7jc"
-path="res://.godot/imported/plantgrow.ogg-ae5ba6475668c09ad132eeef94d0da9e.oggvorbisstr"
+path="res://.godot/imported/plantgrow.ogg-4c732cf36f273015a9ed3fbead87e30e.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/plant_create/plantgrow.ogg"
-dest_files=["res://.godot/imported/plantgrow.ogg-ae5ba6475668c09ad132eeef94d0da9e.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/plant_create/plantgrow.ogg"
+dest_files=["res://.godot/imported/plantgrow.ogg-4c732cf36f273015a9ed3fbead87e30e.oggvorbisstr"]
 
 [params]
 

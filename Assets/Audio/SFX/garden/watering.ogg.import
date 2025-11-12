@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b7ll4o1flhdoa"
-path="res://.godot/imported/watering.ogg-dce27d6453a4832f6495c3f27615215d.oggvorbisstr"
+path="res://.godot/imported/watering.ogg-bbbb42c773778dc806b4ed68f98b3776.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/garden/watering.ogg"
-dest_files=["res://.godot/imported/watering.ogg-dce27d6453a4832f6495c3f27615215d.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/garden/watering.ogg"
+dest_files=["res://.godot/imported/watering.ogg-bbbb42c773778dc806b4ed68f98b3776.oggvorbisstr"]
 
 [params]
 

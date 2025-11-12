@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://celyio15bvpja"
-path="res://.godot/imported/splash_1.png-71806e9d98f1df5c5b9bfbb660947faa.ctex"
+path="res://.godot/imported/splash_1.png-dd5fdbc8d69ebd801506b74c0cad8512.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/splash_1.png"
-dest_files=["res://.godot/imported/splash_1.png-71806e9d98f1df5c5b9bfbb660947faa.ctex"]
+source_file="res://assets/reanim/splash_1.png"
+dest_files=["res://.godot/imported/splash_1.png-dd5fdbc8d69ebd801506b74c0cad8512.ctex"]
 
 [params]
 

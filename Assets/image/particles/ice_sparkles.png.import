@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bctfkdcgd1tpt"
-path="res://.godot/imported/ice_sparkles.png-4c1eeff585b25da5adb6fdde5915f0de.ctex"
+path="res://.godot/imported/ice_sparkles.png-94e3c724c7bc106de8817d65da1fd8f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/particles/ice_sparkles.png"
-dest_files=["res://.godot/imported/ice_sparkles.png-4c1eeff585b25da5adb6fdde5915f0de.ctex"]
+source_file="res://assets/image/particles/ice_sparkles.png"
+dest_files=["res://.godot/imported/ice_sparkles.png-94e3c724c7bc106de8817d65da1fd8f8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d1x4xadjlb30u"
-path="res://.godot/imported/Tanglekelp_body_zengarden.png-601920943e91839841c7187fa664c587.ctex"
+path="res://.godot/imported/Tanglekelp_body_zengarden.png-f1aef21293ab99af6be2ea5ce7b4d9b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Tanglekelp_body_zengarden.png"
-dest_files=["res://.godot/imported/Tanglekelp_body_zengarden.png-601920943e91839841c7187fa664c587.ctex"]
+source_file="res://assets/reanim/Tanglekelp_body_zengarden.png"
+dest_files=["res://.godot/imported/Tanglekelp_body_zengarden.png-f1aef21293ab99af6be2ea5ce7b4d9b0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgtm0tp4ote37"
-path="res://.godot/imported/Cabbagepult_basketvine4.png-19d2c7d51af615f16b696f9d9acd0240.ctex"
+path="res://.godot/imported/Cabbagepult_basketvine4.png-bfb9a43260ecd093baea537a6ade7cb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Cabbagepult_basketvine4.png"
-dest_files=["res://.godot/imported/Cabbagepult_basketvine4.png-19d2c7d51af615f16b696f9d9acd0240.ctex"]
+source_file="res://assets/reanim/Cabbagepult_basketvine4.png"
+dest_files=["res://.godot/imported/Cabbagepult_basketvine4.png-bfb9a43260ecd093baea537a6ade7cb7.ctex"]
 
 [params]
 

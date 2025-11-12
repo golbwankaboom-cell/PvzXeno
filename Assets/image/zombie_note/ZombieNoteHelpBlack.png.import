@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dthk64qy6nkr4"
-path="res://.godot/imported/ZombieNoteHelpBlack.png-68eb48e854a7bec10d990babc718fd8c.ctex"
+path="res://.godot/imported/ZombieNoteHelpBlack.png-0c23a1735d50bfdc8c6ebdfdb97602ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/zombie_note/ZombieNoteHelpBlack.png"
-dest_files=["res://.godot/imported/ZombieNoteHelpBlack.png-68eb48e854a7bec10d990babc718fd8c.ctex"]
+source_file="res://assets/image/zombie_note/ZombieNoteHelpBlack.png"
+dest_files=["res://.godot/imported/ZombieNoteHelpBlack.png-0c23a1735d50bfdc8c6ebdfdb97602ab.ctex"]
 
 [params]
 

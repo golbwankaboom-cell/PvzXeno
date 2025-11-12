@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://diyoj22drctsu"
-path="res://.godot/imported/Cornpult_eyebrow.png-d9ec103f31ed2bcd9befd8623f94ba32.ctex"
+path="res://.godot/imported/Cornpult_eyebrow.png-519d97dd7af3482be1bbdc1c51a1894a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Cornpult_eyebrow.png"
-dest_files=["res://.godot/imported/Cornpult_eyebrow.png-d9ec103f31ed2bcd9befd8623f94ba32.ctex"]
+source_file="res://assets/reanim/Cornpult_eyebrow.png"
+dest_files=["res://.godot/imported/Cornpult_eyebrow.png-519d97dd7af3482be1bbdc1c51a1894a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxu4ouy1ch24q"
-path="res://.godot/imported/facialHair_15.png-9445b86f8e4f88ad9c81702289226650.ctex"
+path="res://.godot/imported/facialHair_15.png-b74e083aa9db95a6df0f9bc5a2d02398.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/facialHair_15.png"
-dest_files=["res://.godot/imported/facialHair_15.png-9445b86f8e4f88ad9c81702289226650.ctex"]
+source_file="res://assets/reanim/facialHair_15.png"
+dest_files=["res://.godot/imported/facialHair_15.png-b74e083aa9db95a6df0f9bc5a2d02398.ctex"]
 
 [params]
 

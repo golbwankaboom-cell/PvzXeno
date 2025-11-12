@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cq5l2kl2w6e7c"
-path="res://.godot/imported/Credits_WhiteLine.png-cdfd54ce22d510ee581e62af73fc022a.ctex"
+path="res://.godot/imported/Credits_WhiteLine.png-5e10ccbd5c6063e8b6c3197bd0a07b59.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Credits_WhiteLine.png"
-dest_files=["res://.godot/imported/Credits_WhiteLine.png-cdfd54ce22d510ee581e62af73fc022a.ctex"]
+source_file="res://assets/reanim/Credits_WhiteLine.png"
+dest_files=["res://.godot/imported/Credits_WhiteLine.png-5e10ccbd5c6063e8b6c3197bd0a07b59.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yer4iyuldeu6"
-path="res://.godot/imported/Portal_Square_glow.png-2de3def1f20f7257c990d5e895a040e6.ctex"
+path="res://.godot/imported/Portal_Square_glow.png-6592a293018d4d41c1ba12838b299db2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Portal_Square_glow.png"
-dest_files=["res://.godot/imported/Portal_Square_glow.png-2de3def1f20f7257c990d5e895a040e6.ctex"]
+source_file="res://assets/reanim/Portal_Square_glow.png"
+dest_files=["res://.godot/imported/Portal_Square_glow.png-6592a293018d4d41c1ba12838b299db2.ctex"]
 
 [params]
 

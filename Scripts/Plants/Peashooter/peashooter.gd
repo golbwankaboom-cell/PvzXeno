@@ -1,7 +1,7 @@
 extends Area2D
 
 @export var driver : PlantDriver
-@export var anim : Node2D
+@export var anim : AnimationPlayer
 @onready var attack_timer = driver.attack_timer
 @onready var health = driver.health
 @onready var bullet_velocity = driver.bullet_velocity
@@ -19,12 +19,10 @@ signal attack_signal
 
 
 func _ready():
-	anim =$Plant001PeaShooterSingle
-	ZWBT=$Plant001PeaShooterSingle
-	var anim = $Plant001PeaShooterSingle/AnimationPlayer
+	anim = $Plant001PeaShooterSingle/AnimationPlayer
 	anim.speed_scale = driver.operating_speed
 	if driver.face_foward == false:
-		ZWBT.scale.x = -abs(scale.x)
+		pass
 		#这里反转需要另外实现
 		#另外我设置自动播放,代码控制动画文件
 

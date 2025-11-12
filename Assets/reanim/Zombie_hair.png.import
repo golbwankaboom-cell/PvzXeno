@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btcmk221m1aan"
-path="res://.godot/imported/Zombie_hair.png-d2094b9e11e2ae5f1d2246ccc000fe79.ctex"
+path="res://.godot/imported/Zombie_hair.png-b6a8b0759853d3c60ccee1f4c2a7e8b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_hair.png"
-dest_files=["res://.godot/imported/Zombie_hair.png-d2094b9e11e2ae5f1d2246ccc000fe79.ctex"]
+source_file="res://assets/reanim/Zombie_hair.png"
+dest_files=["res://.godot/imported/Zombie_hair.png-b6a8b0759853d3c60ccee1f4c2a7e8b8.ctex"]
 
 [params]
 

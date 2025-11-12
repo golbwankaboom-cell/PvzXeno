@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d03tvfhmu8amm"
-path="res://.godot/imported/hats_01_line.png-c76eeef289b31a25d8cfe046c6d8ba83.ctex"
+path="res://.godot/imported/hats_01_line.png-7619a8671af99596dd94c5ffe266a6a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/hats_01_line.png"
-dest_files=["res://.godot/imported/hats_01_line.png-c76eeef289b31a25d8cfe046c6d8ba83.ctex"]
+source_file="res://assets/reanim/hats_01_line.png"
+dest_files=["res://.godot/imported/hats_01_line.png-7619a8671af99596dd94c5ffe266a6a1.ctex"]
 
 [params]
 

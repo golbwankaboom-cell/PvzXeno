@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfirly70a7iwi"
-path="res://.godot/imported/Zombie_catapult_manhole_overlay.png-682d105078e3009611b91e5384998c38.ctex"
+path="res://.godot/imported/Zombie_catapult_manhole_overlay.png-d03ac0c3096a60f73ab681254f33a7c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_catapult_manhole_overlay.png"
-dest_files=["res://.godot/imported/Zombie_catapult_manhole_overlay.png-682d105078e3009611b91e5384998c38.ctex"]
+source_file="res://assets/reanim/Zombie_catapult_manhole_overlay.png"
+dest_files=["res://.godot/imported/Zombie_catapult_manhole_overlay.png-d03ac0c3096a60f73ab681254f33a7c3.ctex"]
 
 [params]
 

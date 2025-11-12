@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckdxqudnp6wep"
-path="res://.godot/imported/Store_SoldOutLabel.png-59fd44f598181f18dabb2d53b49d017f.ctex"
+path="res://.godot/imported/Store_SoldOutLabel.png-846df039a1d4560324c7a8f559d782ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Store_SoldOutLabel.png"
-dest_files=["res://.godot/imported/Store_SoldOutLabel.png-59fd44f598181f18dabb2d53b49d017f.ctex"]
+source_file="res://assets/reanim/Store_SoldOutLabel.png"
+dest_files=["res://.godot/imported/Store_SoldOutLabel.png-846df039a1d4560324c7a8f559d782ed.ctex"]
 
 [params]
 

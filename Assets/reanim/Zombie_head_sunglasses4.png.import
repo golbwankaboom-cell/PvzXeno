@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cl5iscscrm0to"
-path="res://.godot/imported/Zombie_head_sunglasses4.png-9a49f481394a30f4e816cefdcbf4f13d.ctex"
+path="res://.godot/imported/Zombie_head_sunglasses4.png-93321c896d17ce97c8cdc211d29c5f1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_head_sunglasses4.png"
-dest_files=["res://.godot/imported/Zombie_head_sunglasses4.png-9a49f481394a30f4e816cefdcbf4f13d.ctex"]
+source_file="res://assets/reanim/Zombie_head_sunglasses4.png"
+dest_files=["res://.godot/imported/Zombie_head_sunglasses4.png-93321c896d17ce97c8cdc211d29c5f1d.ctex"]
 
 [params]
 

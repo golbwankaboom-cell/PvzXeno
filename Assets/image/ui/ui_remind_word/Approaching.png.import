@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4jwi8yjt7hmd"
-path="res://.godot/imported/Approaching.png-0aed7e7500afeb305f1a9c9de9998820.ctex"
+path="res://.godot/imported/Approaching.png-d6cdc9a2fa94fa7dc46022f477729e6b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_remind_word/Approaching.png"
-dest_files=["res://.godot/imported/Approaching.png-0aed7e7500afeb305f1a9c9de9998820.ctex"]
+source_file="res://assets/image/ui/ui_remind_word/Approaching.png"
+dest_files=["res://.godot/imported/Approaching.png-d6cdc9a2fa94fa7dc46022f477729e6b.ctex"]
 
 [params]
 

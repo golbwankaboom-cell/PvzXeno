@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://id2q5y7rusns"
-path="res://.godot/imported/Zombie_bossdriver_jaw2.png-7665514323d12eb387b13dffcdcfb689.ctex"
+path="res://.godot/imported/Zombie_bossdriver_jaw2.png-273b8c776d0175b8d5c3212722286bd0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_bossdriver_jaw2.png"
-dest_files=["res://.godot/imported/Zombie_bossdriver_jaw2.png-7665514323d12eb387b13dffcdcfb689.ctex"]
+source_file="res://assets/reanim/Zombie_bossdriver_jaw2.png"
+dest_files=["res://.godot/imported/Zombie_bossdriver_jaw2.png-273b8c776d0175b8d5c3212722286bd0.ctex"]
 
 [params]
 

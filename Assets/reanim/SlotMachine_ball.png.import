@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://peoqwlpktahn"
-path="res://.godot/imported/SlotMachine_ball.png-d0c200b30b1790bb3542ba225852cfd6.ctex"
+path="res://.godot/imported/SlotMachine_ball.png-06eb329d8baba13723c9bc0ac88b4579.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SlotMachine_ball.png"
-dest_files=["res://.godot/imported/SlotMachine_ball.png-d0c200b30b1790bb3542ba225852cfd6.ctex"]
+source_file="res://assets/reanim/SlotMachine_ball.png"
+dest_files=["res://.godot/imported/SlotMachine_ball.png-06eb329d8baba13723c9bc0ac88b4579.ctex"]
 
 [params]
 

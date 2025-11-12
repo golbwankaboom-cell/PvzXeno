@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://41vynen3wu1a"
-path="res://.godot/imported/Zombie_backup_upperbody.png-45029ea52019263e85358290915ea11b.ctex"
+path="res://.godot/imported/Zombie_backup_upperbody.png-876f91511741c89379b77cb887ed2f74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_backup_upperbody.png"
-dest_files=["res://.godot/imported/Zombie_backup_upperbody.png-45029ea52019263e85358290915ea11b.ctex"]
+source_file="res://assets/reanim/Zombie_backup_upperbody.png"
+dest_files=["res://.godot/imported/Zombie_backup_upperbody.png-876f91511741c89379b77cb887ed2f74.ctex"]
 
 [params]
 

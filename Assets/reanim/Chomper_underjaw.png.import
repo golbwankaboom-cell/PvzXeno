@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://eel4e8ca5e42"
-path="res://.godot/imported/Chomper_underjaw.png-219a4b81023feae54e0392b69bcc2de8.ctex"
+path="res://.godot/imported/Chomper_underjaw.png-f5fcaae4ba60f9a36c2bfe93a041129b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Chomper_underjaw.png"
-dest_files=["res://.godot/imported/Chomper_underjaw.png-219a4b81023feae54e0392b69bcc2de8.ctex"]
+source_file="res://assets/reanim/Chomper_underjaw.png"
+dest_files=["res://.godot/imported/Chomper_underjaw.png-f5fcaae4ba60f9a36c2bfe93a041129b.ctex"]
 
 [params]
 

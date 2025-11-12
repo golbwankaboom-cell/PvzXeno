@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6cycrbwx8nml"
-path="res://.godot/imported/SelectorScreen_Flower1.png-c8ff6db6d6b3bf548cf948800fce8cb1.ctex"
+path="res://.godot/imported/SelectorScreen_Flower1.png-978146876ea9482bf9738f8276e6d16e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SelectorScreen_Flower1.png"
-dest_files=["res://.godot/imported/SelectorScreen_Flower1.png-c8ff6db6d6b3bf548cf948800fce8cb1.ctex"]
+source_file="res://assets/reanim/SelectorScreen_Flower1.png"
+dest_files=["res://.godot/imported/SelectorScreen_Flower1.png-978146876ea9482bf9738f8276e6d16e.ctex"]
 
 [params]
 

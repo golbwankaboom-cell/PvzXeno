@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpshyv0uk7x3b"
-path="res://.godot/imported/Zombie_disco_medalion.png-2442b490c102aa3b25dbfd2c04e1ddf5.ctex"
+path="res://.godot/imported/Zombie_disco_medalion.png-adabdcae66174ba9f86dc20cdc4b1e10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_disco_medalion.png"
-dest_files=["res://.godot/imported/Zombie_disco_medalion.png-2442b490c102aa3b25dbfd2c04e1ddf5.ctex"]
+source_file="res://assets/reanim/Zombie_disco_medalion.png"
+dest_files=["res://.godot/imported/Zombie_disco_medalion.png-adabdcae66174ba9f86dc20cdc4b1e10.ctex"]
 
 [params]
 

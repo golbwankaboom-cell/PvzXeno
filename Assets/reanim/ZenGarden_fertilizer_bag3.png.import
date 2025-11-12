@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6mvclh13sqg8"
-path="res://.godot/imported/ZenGarden_fertilizer_bag3.png-f83b2398b7c0e791b45ed26a2c80c7c4.ctex"
+path="res://.godot/imported/ZenGarden_fertilizer_bag3.png-8a7c17cf17252b9feab4f6e7806bdca3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/ZenGarden_fertilizer_bag3.png"
-dest_files=["res://.godot/imported/ZenGarden_fertilizer_bag3.png-f83b2398b7c0e791b45ed26a2c80c7c4.ctex"]
+source_file="res://assets/reanim/ZenGarden_fertilizer_bag3.png"
+dest_files=["res://.godot/imported/ZenGarden_fertilizer_bag3.png-8a7c17cf17252b9feab4f6e7806bdca3.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2ucoicu15d4u"
-path="res://.godot/imported/Zombie_bungi_head_scared.png-d43eeaa8be4d0b39dba04374c2dde546.ctex"
+path="res://.godot/imported/Zombie_bungi_head_scared.png-da0668527add0edff281632d0d8eacfc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_bungi_head_scared.png"
-dest_files=["res://.godot/imported/Zombie_bungi_head_scared.png-d43eeaa8be4d0b39dba04374c2dde546.ctex"]
+source_file="res://assets/reanim/Zombie_bungi_head_scared.png"
+dest_files=["res://.godot/imported/Zombie_bungi_head_scared.png-da0668527add0edff281632d0d8eacfc.ctex"]
 
 [params]
 

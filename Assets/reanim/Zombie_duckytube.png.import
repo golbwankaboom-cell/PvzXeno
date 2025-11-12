@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfg74gsba28it"
-path="res://.godot/imported/Zombie_duckytube.png-b3041de013d5ef6fb2d348826f223361.ctex"
+path="res://.godot/imported/Zombie_duckytube.png-33d2943161c5ae101db2e36a1ff088d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_duckytube.png"
-dest_files=["res://.godot/imported/Zombie_duckytube.png-b3041de013d5ef6fb2d348826f223361.ctex"]
+source_file="res://assets/reanim/Zombie_duckytube.png"
+dest_files=["res://.godot/imported/Zombie_duckytube.png-33d2943161c5ae101db2e36a1ff088d4.ctex"]
 
 [params]
 

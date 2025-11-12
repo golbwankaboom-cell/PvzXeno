@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://bhg7gejfpw036"
-path="res://.godot/imported/btn_dialog_back_2_mask.png-27c90716c13d3ef4ff9c2dd7e91d7eda.res"
+path="res://.godot/imported/btn_dialog_back_2_mask.png-571197adea32cd82d6980084f45ac3a5.res"
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_main_game_menu/btn_dialog_back_2_mask.png"
-dest_files=["res://.godot/imported/btn_dialog_back_2_mask.png-27c90716c13d3ef4ff9c2dd7e91d7eda.res"]
+source_file="res://assets/image/ui/ui_main_game_menu/btn_dialog_back_2_mask.png"
+dest_files=["res://.godot/imported/btn_dialog_back_2_mask.png-571197adea32cd82d6980084f45ac3a5.res"]
 
 [params]
 

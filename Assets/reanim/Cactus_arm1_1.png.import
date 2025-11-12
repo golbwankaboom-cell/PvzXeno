@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://081jwea20nvr"
-path="res://.godot/imported/Cactus_arm1_1.png-9e3641a119ea2a50fa9d2a964a9a9312.ctex"
+path="res://.godot/imported/Cactus_arm1_1.png-69d216ee18fff1c49536534bb98ca4d5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Cactus_arm1_1.png"
-dest_files=["res://.godot/imported/Cactus_arm1_1.png-9e3641a119ea2a50fa9d2a964a9a9312.ctex"]
+source_file="res://assets/reanim/Cactus_arm1_1.png"
+dest_files=["res://.godot/imported/Cactus_arm1_1.png-69d216ee18fff1c49536534bb98ca4d5.ctex"]
 
 [params]
 

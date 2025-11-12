@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpfxi2fibujkl"
-path="res://.godot/imported/ZombieAttack_21.png-1499ce1659e66b28042ab9fa48dbb757.ctex"
+path="res://.godot/imported/ZombieAttack_21.png-b88181d4f377b44f9ad18e2c12aab6b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Zombies/Zombie/Eat/ZombieAttack_21.png"
-dest_files=["res://.godot/imported/ZombieAttack_21.png-1499ce1659e66b28042ab9fa48dbb757.ctex"]
+source_file="res://assets/Images/Zombies/Zombie/Eat/ZombieAttack_21.png"
+dest_files=["res://.godot/imported/ZombieAttack_21.png-b88181d4f377b44f9ad18e2c12aab6b9.ctex"]
 
 [params]
 

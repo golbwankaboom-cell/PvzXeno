@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2h6wuvxt68vx"
-path="res://.godot/imported/PeaShooter_blink2.png-fa1bba0970ba9d106757e7a848a9c8cc.ctex"
+path="res://.godot/imported/PeaShooter_blink2.png-df21ed370e2893abb630a9adc6510715.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/PeaShooter_blink2.png"
-dest_files=["res://.godot/imported/PeaShooter_blink2.png-fa1bba0970ba9d106757e7a848a9c8cc.ctex"]
+source_file="res://assets/reanim/PeaShooter_blink2.png"
+dest_files=["res://.godot/imported/PeaShooter_blink2.png-df21ed370e2893abb630a9adc6510715.ctex"]
 
 [params]
 

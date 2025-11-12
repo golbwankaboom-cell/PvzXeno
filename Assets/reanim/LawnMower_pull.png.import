@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr2k1cffro6kn"
-path="res://.godot/imported/LawnMower_pull.png-a9359b015694d0ca1d46290a79895e04.ctex"
+path="res://.godot/imported/LawnMower_pull.png-8aaac770b165651c080c44fe3c46821e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/LawnMower_pull.png"
-dest_files=["res://.godot/imported/LawnMower_pull.png-a9359b015694d0ca1d46290a79895e04.ctex"]
+source_file="res://assets/reanim/LawnMower_pull.png"
+dest_files=["res://.godot/imported/LawnMower_pull.png-8aaac770b165651c080c44fe3c46821e.ctex"]
 
 [params]
 

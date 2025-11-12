@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8if4dememdce"
-path="res://.godot/imported/SelectorScreen_key_shadow.png-9eea454f28bd48b1da60b6c691ad1449.ctex"
+path="res://.godot/imported/SelectorScreen_key_shadow.png-46d650046adfa93813b51846152bb661.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_key_shadow.png"
-dest_files=["res://.godot/imported/SelectorScreen_key_shadow.png-9eea454f28bd48b1da60b6c691ad1449.ctex"]
+source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_key_shadow.png"
+dest_files=["res://.godot/imported/SelectorScreen_key_shadow.png-46d650046adfa93813b51846152bb661.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kjfefun0j5s"
-path="res://.godot/imported/Credits_Flower_petal2.png-c851d6cf90dd887d27ebe9a515a58e34.ctex"
+path="res://.godot/imported/Credits_Flower_petal2.png-37c0a8bbe4d9a49b7c0017fa2f03d905.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Credits_Flower_petal2.png"
-dest_files=["res://.godot/imported/Credits_Flower_petal2.png-c851d6cf90dd887d27ebe9a515a58e34.ctex"]
+source_file="res://assets/reanim/Credits_Flower_petal2.png"
+dest_files=["res://.godot/imported/Credits_Flower_petal2.png-37c0a8bbe4d9a49b7c0017fa2f03d905.ctex"]
 
 [params]
 

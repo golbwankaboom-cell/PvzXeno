@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgs7xvqi01162"
-path="res://.godot/imported/Zombie_digger_hardhat.png-dee3b46ab5c008f47dde2ab1015d5588.ctex"
+path="res://.godot/imported/Zombie_digger_hardhat.png-662de9081ab099c7d32809f7ba6d0b96.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_digger_hardhat.png"
-dest_files=["res://.godot/imported/Zombie_digger_hardhat.png-dee3b46ab5c008f47dde2ab1015d5588.ctex"]
+source_file="res://assets/reanim/Zombie_digger_hardhat.png"
+dest_files=["res://.godot/imported/Zombie_digger_hardhat.png-662de9081ab099c7d32809f7ba6d0b96.ctex"]
 
 [params]
 

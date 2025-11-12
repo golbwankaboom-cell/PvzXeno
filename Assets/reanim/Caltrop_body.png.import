@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djsyco71dq21c"
-path="res://.godot/imported/Caltrop_body.png-b9f006e2ea78ac1a4eb5bb406bddd311.ctex"
+path="res://.godot/imported/Caltrop_body.png-de373fbf220e19b526f01e75bbd935bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Caltrop_body.png"
-dest_files=["res://.godot/imported/Caltrop_body.png-b9f006e2ea78ac1a4eb5bb406bddd311.ctex"]
+source_file="res://assets/reanim/Caltrop_body.png"
+dest_files=["res://.godot/imported/Caltrop_body.png-de373fbf220e19b526f01e75bbd935bd.ctex"]
 
 [params]
 
