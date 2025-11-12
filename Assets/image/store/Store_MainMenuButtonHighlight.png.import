@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxm7vdvvw2u8x"
-path="res://.godot/imported/Store_MainMenuButtonHighlight.png-021dcb2be97dfaee9e537d256c9c1c71.ctex"
+path="res://.godot/imported/Store_MainMenuButtonHighlight.png-e5f1119c298d0c53d2fcffd2d7bee717.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/store/Store_MainMenuButtonHighlight.png"
-dest_files=["res://.godot/imported/Store_MainMenuButtonHighlight.png-021dcb2be97dfaee9e537d256c9c1c71.ctex"]
+source_file="res://assets/image/store/Store_MainMenuButtonHighlight.png"
+dest_files=["res://.godot/imported/Store_MainMenuButtonHighlight.png-e5f1119c298d0c53d2fcffd2d7bee717.ctex"]
 
 [params]
 

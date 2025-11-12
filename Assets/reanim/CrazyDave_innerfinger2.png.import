@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddd5fxvmdxy0i"
-path="res://.godot/imported/CrazyDave_innerfinger2.png-b8d5086532543315b3f460b242cb8b83.ctex"
+path="res://.godot/imported/CrazyDave_innerfinger2.png-cd9cda774b8779fd865319f97dab8e00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CrazyDave_innerfinger2.png"
-dest_files=["res://.godot/imported/CrazyDave_innerfinger2.png-b8d5086532543315b3f460b242cb8b83.ctex"]
+source_file="res://assets/reanim/CrazyDave_innerfinger2.png"
+dest_files=["res://.godot/imported/CrazyDave_innerfinger2.png-cd9cda774b8779fd865319f97dab8e00.ctex"]
 
 [params]
 

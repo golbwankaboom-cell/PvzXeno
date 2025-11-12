@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dmmcjbsd028oj"
-path="res://.godot/imported/LilyPad_blink1.png-3d387663f062abd483cad15ce0f944ff.ctex"
+path="res://.godot/imported/LilyPad_blink1.png-56333a4064c0f015a5fa3208527d977d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/LilyPad_blink1.png"
-dest_files=["res://.godot/imported/LilyPad_blink1.png-3d387663f062abd483cad15ce0f944ff.ctex"]
+source_file="res://assets/reanim/LilyPad_blink1.png"
+dest_files=["res://.godot/imported/LilyPad_blink1.png-56333a4064c0f015a5fa3208527d977d.ctex"]
 
 [params]
 

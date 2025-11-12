@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csf3mfk2nww55"
-path="res://.godot/imported/Zombie_polevaulter_pole.png-0c3d91d95cff553ee05079d6746a9fc1.ctex"
+path="res://.godot/imported/Zombie_polevaulter_pole.png-2dacfa9c59037cd435b129885773217a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_polevaulter_pole.png"
-dest_files=["res://.godot/imported/Zombie_polevaulter_pole.png-0c3d91d95cff553ee05079d6746a9fc1.ctex"]
+source_file="res://assets/reanim/Zombie_polevaulter_pole.png"
+dest_files=["res://.godot/imported/Zombie_polevaulter_pole.png-2dacfa9c59037cd435b129885773217a.ctex"]
 
 [params]
 

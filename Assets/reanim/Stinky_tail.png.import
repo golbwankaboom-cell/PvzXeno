@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0cged7sb4o0f"
-path="res://.godot/imported/Stinky_tail.png-cc1952d082ee16b23dd90a1bd8f1ab99.ctex"
+path="res://.godot/imported/Stinky_tail.png-f629fc1e47787b1282ab654eb9badb08.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Stinky_tail.png"
-dest_files=["res://.godot/imported/Stinky_tail.png-cc1952d082ee16b23dd90a1bd8f1ab99.ctex"]
+source_file="res://assets/reanim/Stinky_tail.png"
+dest_files=["res://.godot/imported/Stinky_tail.png-f629fc1e47787b1282ab654eb9badb08.ctex"]
 
 [params]
 

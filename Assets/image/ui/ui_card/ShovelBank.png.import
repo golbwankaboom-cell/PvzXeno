@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://47ixd5hsddft"
-path="res://.godot/imported/ShovelBank.png-f630ca2f8cabebe1cd595535500d3212.ctex"
+path="res://.godot/imported/ShovelBank.png-0515c9647c20ec163b94700050802c3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_card/ShovelBank.png"
-dest_files=["res://.godot/imported/ShovelBank.png-f630ca2f8cabebe1cd595535500d3212.ctex"]
+source_file="res://assets/image/ui/ui_card/ShovelBank.png"
+dest_files=["res://.godot/imported/ShovelBank.png-0515c9647c20ec163b94700050802c3d.ctex"]
 
 [params]
 

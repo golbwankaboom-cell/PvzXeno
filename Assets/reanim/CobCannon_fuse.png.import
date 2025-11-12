@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhpv2m52i8tnu"
-path="res://.godot/imported/CobCannon_fuse.png-3bc54628d8dfadafccffa0df3c12cd72.ctex"
+path="res://.godot/imported/CobCannon_fuse.png-6e450bdf0ab59aa34014321a3f297063.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CobCannon_fuse.png"
-dest_files=["res://.godot/imported/CobCannon_fuse.png-3bc54628d8dfadafccffa0df3c12cd72.ctex"]
+source_file="res://assets/reanim/CobCannon_fuse.png"
+dest_files=["res://.godot/imported/CobCannon_fuse.png-6e450bdf0ab59aa34014321a3f297063.ctex"]
 
 [params]
 

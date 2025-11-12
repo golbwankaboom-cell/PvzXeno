@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dpl6ub1xgmqfv"
-path="res://.godot/imported/basketball.ogg-6f30c9a1f665c39b6731b5b4d82a7685.oggvorbisstr"
+path="res://.godot/imported/basketball.ogg-81b70771105a80f685bb82cb0243c69a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/sounds/basketball.ogg"
-dest_files=["res://.godot/imported/basketball.ogg-6f30c9a1f665c39b6731b5b4d82a7685.oggvorbisstr"]
+source_file="res://assets/Audio/sounds/basketball.ogg"
+dest_files=["res://.godot/imported/basketball.ogg-81b70771105a80f685bb82cb0243c69a.oggvorbisstr"]
 
 [params]
 

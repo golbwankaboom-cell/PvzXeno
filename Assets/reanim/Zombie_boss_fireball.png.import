@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6uvl01ua6y6e"
-path="res://.godot/imported/Zombie_boss_fireball.png-8a83aef44d44fbf68afbb98e818c3013.ctex"
+path="res://.godot/imported/Zombie_boss_fireball.png-f9e2d187def3cb7fff9965a248ca8565.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_boss_fireball.png"
-dest_files=["res://.godot/imported/Zombie_boss_fireball.png-8a83aef44d44fbf68afbb98e818c3013.ctex"]
+source_file="res://assets/reanim/Zombie_boss_fireball.png"
+dest_files=["res://.godot/imported/Zombie_boss_fireball.png-f9e2d187def3cb7fff9965a248ca8565.ctex"]
 
 [params]
 

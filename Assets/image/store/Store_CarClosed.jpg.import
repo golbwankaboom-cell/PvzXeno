@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djbyxh1qslgbt"
-path="res://.godot/imported/Store_CarClosed.jpg-46ce4530713e980bf3d20fb5b5cc4077.ctex"
+path="res://.godot/imported/Store_CarClosed.jpg-f2ea525be06766cac8ef76cf2a661e3f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/store/Store_CarClosed.jpg"
-dest_files=["res://.godot/imported/Store_CarClosed.jpg-46ce4530713e980bf3d20fb5b5cc4077.ctex"]
+source_file="res://assets/image/store/Store_CarClosed.jpg"
+dest_files=["res://.godot/imported/Store_CarClosed.jpg-f2ea525be06766cac8ef76cf2a661e3f.ctex"]
 
 [params]
 

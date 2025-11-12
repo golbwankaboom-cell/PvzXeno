@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cffcnhonrci32"
-path="res://.godot/imported/reverse_explosion.ogg-30fa5ab0117e2f3669221754475c4dc1.oggvorbisstr"
+path="res://.godot/imported/reverse_explosion.ogg-aa57a30bb02d554206c98b1ff3ac1b8f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/sounds/reverse_explosion.ogg"
-dest_files=["res://.godot/imported/reverse_explosion.ogg-30fa5ab0117e2f3669221754475c4dc1.oggvorbisstr"]
+source_file="res://assets/Audio/sounds/reverse_explosion.ogg"
+dest_files=["res://.godot/imported/reverse_explosion.ogg-aa57a30bb02d554206c98b1ff3ac1b8f.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g5tu8r7nm4vb"
-path="res://.godot/imported/Gravebuster_eyebrows.png-29022ba0ea91612b7f92c3e22e1e2ae9.ctex"
+path="res://.godot/imported/Gravebuster_eyebrows.png-fb55a9b13dec8917c51d6ec3d164ce71.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Gravebuster_eyebrows.png"
-dest_files=["res://.godot/imported/Gravebuster_eyebrows.png-29022ba0ea91612b7f92c3e22e1e2ae9.ctex"]
+source_file="res://assets/reanim/Gravebuster_eyebrows.png"
+dest_files=["res://.godot/imported/Gravebuster_eyebrows.png-fb55a9b13dec8917c51d6ec3d164ce71.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oj7moq1a8prk"
-path="res://.godot/imported/Marigold_blink1.png-4b85866c0ced679aab7487f8a2edc2ee.ctex"
+path="res://.godot/imported/Marigold_blink1.png-3df39145238dd9e4c7b3c6c06d2c512c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Marigold_blink1.png"
-dest_files=["res://.godot/imported/Marigold_blink1.png-4b85866c0ced679aab7487f8a2edc2ee.ctex"]
+source_file="res://assets/reanim/Marigold_blink1.png"
+dest_files=["res://.godot/imported/Marigold_blink1.png-3df39145238dd9e4c7b3c6c06d2c512c.ctex"]
 
 [params]
 

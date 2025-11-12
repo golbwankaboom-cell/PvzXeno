@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jdot83qhdj2e"
-path="res://.godot/imported/Zombie_digger_innerleg_foot.png-0a888db5233493cf4122d23f3a0e7288.ctex"
+path="res://.godot/imported/Zombie_digger_innerleg_foot.png-8c6d53b96adb67aed0cc938748867971.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_digger_innerleg_foot.png"
-dest_files=["res://.godot/imported/Zombie_digger_innerleg_foot.png-0a888db5233493cf4122d23f3a0e7288.ctex"]
+source_file="res://assets/reanim/Zombie_digger_innerleg_foot.png"
+dest_files=["res://.godot/imported/Zombie_digger_innerleg_foot.png-8c6d53b96adb67aed0cc938748867971.ctex"]
 
 [params]
 

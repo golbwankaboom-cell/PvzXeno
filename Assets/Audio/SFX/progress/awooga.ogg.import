@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c6wij2ctf7nhd"
-path="res://.godot/imported/awooga.ogg-5322f17d02ccc6f7f3cf8c621bb0fc64.oggvorbisstr"
+path="res://.godot/imported/awooga.ogg-70016c88c529f5433adeed3569f4bdb6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/progress/awooga.ogg"
-dest_files=["res://.godot/imported/awooga.ogg-5322f17d02ccc6f7f3cf8c621bb0fc64.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/progress/awooga.ogg"
+dest_files=["res://.godot/imported/awooga.ogg-70016c88c529f5433adeed3569f4bdb6.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://b4qpudotkqgmb"
-path="res://.godot/imported/Zen_NextGarden_Mask.png-124c4af218d30f78833f197172d44228.res"
+path="res://.godot/imported/Zen_NextGarden_Mask.png-2cfec83361eb903053309c5623af830f.res"
 
 [deps]
 
-source_file="res://Assets/image/garden/Zen_NextGarden_Mask.png"
-dest_files=["res://.godot/imported/Zen_NextGarden_Mask.png-124c4af218d30f78833f197172d44228.res"]
+source_file="res://assets/image/garden/Zen_NextGarden_Mask.png"
+dest_files=["res://.godot/imported/Zen_NextGarden_Mask.png-2cfec83361eb903053309c5623af830f.res"]
 
 [params]
 

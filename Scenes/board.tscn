@@ -22,6 +22,7 @@ scale = Vector2(0.75, 0.75)
 
 [node name="interaction_area_node" type="Control" parent="."]
 layout_mode = 1
+anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 offset_left = -35.0

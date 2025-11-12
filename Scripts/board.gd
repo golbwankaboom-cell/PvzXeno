@@ -61,6 +61,7 @@ func try_set_plant():#种植条件检查
 		
 func set_plant():
 		var plant_name = SetPlantManager.selected_plant
+		#print("种植",plant_name)
 		var plant = PlantManager.plant_scene[plant_name].instantiate()
 		plant.position = position
 		plant.board_row = board_row

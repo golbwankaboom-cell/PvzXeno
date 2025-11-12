@@ -22,6 +22,11 @@ func _ready():
 		##植物场景
 		plant_card_scene =preload("res://Scenes/UI/plant_card.tscn").instantiate()
 		plant_card_scene.plant_name=plant_battle_card_save[i]
+		##绑定点击种植信号
+		var Button_card=plant_card_scene.get_node("Button")
+		Button_card.pressed.connect(func():
+			SetPlantManager.selected_plant=plant_battle_card_save[i])#植物名称
+		
 		##加入到植物卡槽
 		plant_card_array+=[plant_card_scene]
 		%card.add_child(plant_card_scene)

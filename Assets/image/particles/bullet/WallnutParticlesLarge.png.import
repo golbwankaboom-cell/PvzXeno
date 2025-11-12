@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc8p6rbx81rdk"
-path="res://.godot/imported/WallnutParticlesLarge.png-68139cf5b0fe03901c4c7a3fbb4f608b.ctex"
+path="res://.godot/imported/WallnutParticlesLarge.png-5851dbdcbe567e8b71842ea19349962f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/particles/bullet/WallnutParticlesLarge.png"
-dest_files=["res://.godot/imported/WallnutParticlesLarge.png-68139cf5b0fe03901c4c7a3fbb4f608b.ctex"]
+source_file="res://assets/image/particles/bullet/WallnutParticlesLarge.png"
+dest_files=["res://.godot/imported/WallnutParticlesLarge.png-5851dbdcbe567e8b71842ea19349962f.ctex"]
 
 [params]
 

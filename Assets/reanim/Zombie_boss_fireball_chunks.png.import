@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hba7a74smqsb"
-path="res://.godot/imported/Zombie_boss_fireball_chunks.png-5b659a461d8d324eff6fb788c812b2c9.ctex"
+path="res://.godot/imported/Zombie_boss_fireball_chunks.png-109b11803477da94b40daa4837b9fe8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_boss_fireball_chunks.png"
-dest_files=["res://.godot/imported/Zombie_boss_fireball_chunks.png-5b659a461d8d324eff6fb788c812b2c9.ctex"]
+source_file="res://assets/reanim/Zombie_boss_fireball_chunks.png"
+dest_files=["res://.godot/imported/Zombie_boss_fireball_chunks.png-109b11803477da94b40daa4837b9fe8f.ctex"]
 
 [params]
 

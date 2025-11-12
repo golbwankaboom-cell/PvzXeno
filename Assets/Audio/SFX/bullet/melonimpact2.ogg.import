@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://i7nq8hjvycx4"
-path="res://.godot/imported/melonimpact2.ogg-2c9f0d54b1b9afa789b773d0b4391ba3.oggvorbisstr"
+path="res://.godot/imported/melonimpact2.ogg-b4f2b3b399006ab246346ec616522ede.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/bullet/melonimpact2.ogg"
-dest_files=["res://.godot/imported/melonimpact2.ogg-2c9f0d54b1b9afa789b773d0b4391ba3.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/bullet/melonimpact2.ogg"
+dest_files=["res://.godot/imported/melonimpact2.ogg-b4f2b3b399006ab246346ec616522ede.oggvorbisstr"]
 
 [params]
 

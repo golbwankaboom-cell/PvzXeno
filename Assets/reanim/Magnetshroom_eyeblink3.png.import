@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cac85x53tvblx"
-path="res://.godot/imported/Magnetshroom_eyeblink3.png-1255549e7f51e4f52551b66b397a476c.ctex"
+path="res://.godot/imported/Magnetshroom_eyeblink3.png-d747fa14d8c7976fd9064046bfa1e5e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Magnetshroom_eyeblink3.png"
-dest_files=["res://.godot/imported/Magnetshroom_eyeblink3.png-1255549e7f51e4f52551b66b397a476c.ctex"]
+source_file="res://assets/reanim/Magnetshroom_eyeblink3.png"
+dest_files=["res://.godot/imported/Magnetshroom_eyeblink3.png-d747fa14d8c7976fd9064046bfa1e5e8.ctex"]
 
 [params]
 

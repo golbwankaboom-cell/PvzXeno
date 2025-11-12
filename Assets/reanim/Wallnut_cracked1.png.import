@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d06vgaisnbd0n"
-path="res://.godot/imported/Wallnut_cracked1.png-033ffc358e493bbc77fae7ab9060510c.ctex"
+path="res://.godot/imported/Wallnut_cracked1.png-9936910b3334bdeed20bd45841d7bfc1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Wallnut_cracked1.png"
-dest_files=["res://.godot/imported/Wallnut_cracked1.png-033ffc358e493bbc77fae7ab9060510c.ctex"]
+source_file="res://assets/reanim/Wallnut_cracked1.png"
+dest_files=["res://.godot/imported/Wallnut_cracked1.png-9936910b3334bdeed20bd45841d7bfc1.ctex"]
 
 [params]
 

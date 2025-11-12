@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bkbokn4p8on7j"
-path="res://.godot/imported/lowgroan.ogg-3293013a803376058880bc383280adfa.oggvorbisstr"
+path="res://.godot/imported/lowgroan.ogg-0b8f9f927bf45983077a0cf6785f1814.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/sounds/lowgroan.ogg"
-dest_files=["res://.godot/imported/lowgroan.ogg-3293013a803376058880bc383280adfa.oggvorbisstr"]
+source_file="res://assets/Audio/sounds/lowgroan.ogg"
+dest_files=["res://.godot/imported/lowgroan.ogg-0b8f9f927bf45983077a0cf6785f1814.oggvorbisstr"]
 
 [params]
 

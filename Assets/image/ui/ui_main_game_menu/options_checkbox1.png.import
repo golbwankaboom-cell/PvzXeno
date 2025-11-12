@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cw8k7bqxg6s10"
-path="res://.godot/imported/options_checkbox1.png-c16b7c9241ee27286ee7d6d679eb1b41.ctex"
+path="res://.godot/imported/options_checkbox1.png-56a60413c9bab6a4d845b06eb8f6385f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_main_game_menu/options_checkbox1.png"
-dest_files=["res://.godot/imported/options_checkbox1.png-c16b7c9241ee27286ee7d6d679eb1b41.ctex"]
+source_file="res://assets/image/ui/ui_main_game_menu/options_checkbox1.png"
+dest_files=["res://.godot/imported/options_checkbox1.png-56a60413c9bab6a4d845b06eb8f6385f.ctex"]
 
 [params]
 

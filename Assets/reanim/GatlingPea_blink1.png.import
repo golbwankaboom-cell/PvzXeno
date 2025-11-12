@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvjtg07tpqo7p"
-path="res://.godot/imported/GatlingPea_blink1.png-dedc64382804b8baae2fd51d52fd1631.ctex"
+path="res://.godot/imported/GatlingPea_blink1.png-76ac5fe1c4a3572207991ff753bf4164.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/GatlingPea_blink1.png"
-dest_files=["res://.godot/imported/GatlingPea_blink1.png-dedc64382804b8baae2fd51d52fd1631.ctex"]
+source_file="res://assets/reanim/GatlingPea_blink1.png"
+dest_files=["res://.godot/imported/GatlingPea_blink1.png-76ac5fe1c4a3572207991ff753bf4164.ctex"]
 
 [params]
 

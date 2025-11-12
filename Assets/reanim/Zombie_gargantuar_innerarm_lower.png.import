@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://iectl3ry77s6"
-path="res://.godot/imported/Zombie_gargantuar_innerarm_lower.png-2c89d76396ff92b0908986e5261e8866.ctex"
+path="res://.godot/imported/Zombie_gargantuar_innerarm_lower.png-0a4f7c901ac9c2419467583e5988f305.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_gargantuar_innerarm_lower.png"
-dest_files=["res://.godot/imported/Zombie_gargantuar_innerarm_lower.png-2c89d76396ff92b0908986e5261e8866.ctex"]
+source_file="res://assets/reanim/Zombie_gargantuar_innerarm_lower.png"
+dest_files=["res://.godot/imported/Zombie_gargantuar_innerarm_lower.png-0a4f7c901ac9c2419467583e5988f305.ctex"]
 
 [params]
 

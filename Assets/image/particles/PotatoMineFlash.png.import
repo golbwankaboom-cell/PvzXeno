@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doo6s7ib1p01g"
-path="res://.godot/imported/PotatoMineFlash.png-73c3729c9775ab993b5329f16eef4ef6.ctex"
+path="res://.godot/imported/PotatoMineFlash.png-f5f7c1d4cb7b1017dcba4750ae56e588.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/particles/PotatoMineFlash.png"
-dest_files=["res://.godot/imported/PotatoMineFlash.png-73c3729c9775ab993b5329f16eef4ef6.ctex"]
+source_file="res://assets/image/particles/PotatoMineFlash.png"
+dest_files=["res://.godot/imported/PotatoMineFlash.png-f5f7c1d4cb7b1017dcba4750ae56e588.ctex"]
 
 [params]
 

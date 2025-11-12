@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvt25hpdj0fno"
-path="res://.godot/imported/FlagMeterLevelProgress.png-e06c2923cfb2ced393850efcbe678d8a.ctex"
+path="res://.godot/imported/FlagMeterLevelProgress.png-004d8563e25abcb1e7e5e635bc4ea783.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/FlagMeterLevelProgress.png"
-dest_files=["res://.godot/imported/FlagMeterLevelProgress.png-e06c2923cfb2ced393850efcbe678d8a.ctex"]
+source_file="res://assets/Images/UI/FlagMeterLevelProgress.png"
+dest_files=["res://.godot/imported/FlagMeterLevelProgress.png-004d8563e25abcb1e7e5e635bc4ea783.ctex"]
 
 [params]
 

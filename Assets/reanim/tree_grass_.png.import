@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnqbnfm1rikdr"
-path="res://.godot/imported/tree_grass_.png-e53750a7325c4e50e9d00e7ff6868a88.ctex"
+path="res://.godot/imported/tree_grass_.png-6b800b4620ddf9469088682a91d13f8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/tree_grass_.png"
-dest_files=["res://.godot/imported/tree_grass_.png-e53750a7325c4e50e9d00e7ff6868a88.ctex"]
+source_file="res://assets/reanim/tree_grass_.png"
+dest_files=["res://.godot/imported/tree_grass_.png-6b800b4620ddf9469088682a91d13f8e.ctex"]
 
 [params]
 

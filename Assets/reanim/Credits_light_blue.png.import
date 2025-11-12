@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkeia6828fx8q"
-path="res://.godot/imported/Credits_light_blue.png-16c1ad135afdb112a9d87d4dfaf41210.ctex"
+path="res://.godot/imported/Credits_light_blue.png-7b2d89f0114227f37f5ed311a7a1c724.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Credits_light_blue.png"
-dest_files=["res://.godot/imported/Credits_light_blue.png-16c1ad135afdb112a9d87d4dfaf41210.ctex"]
+source_file="res://assets/reanim/Credits_light_blue.png"
+dest_files=["res://.godot/imported/Credits_light_blue.png-7b2d89f0114227f37f5ed311a7a1c724.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwtfl6smh6pyi"
-path="res://.godot/imported/Zombie_disco_outerarm_upper_bone.png-a9bf72b01054b2b08de77e9c0e92f12a.ctex"
+path="res://.godot/imported/Zombie_disco_outerarm_upper_bone.png-f4fd74e9628530640e9e7331a8e6546a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_disco_outerarm_upper_bone.png"
-dest_files=["res://.godot/imported/Zombie_disco_outerarm_upper_bone.png-a9bf72b01054b2b08de77e9c0e92f12a.ctex"]
+source_file="res://assets/reanim/Zombie_disco_outerarm_upper_bone.png"
+dest_files=["res://.godot/imported/Zombie_disco_outerarm_upper_bone.png-f4fd74e9628530640e9e7331a8e6546a.ctex"]
 
 [params]
 

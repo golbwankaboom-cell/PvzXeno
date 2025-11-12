@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://bc7yq02xscrlr"
-path="res://.godot/imported/Almanac_CloseButton_Mask.png-d35f079934652bf6ff15764f96e704df.res"
+path="res://.godot/imported/Almanac_CloseButton_Mask.png-ac62c008002400fff7847703c8172446.res"
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_level/Almanac_CloseButton_Mask.png"
-dest_files=["res://.godot/imported/Almanac_CloseButton_Mask.png-d35f079934652bf6ff15764f96e704df.res"]
+source_file="res://assets/image/ui/ui_level/Almanac_CloseButton_Mask.png"
+dest_files=["res://.godot/imported/Almanac_CloseButton_Mask.png-ac62c008002400fff7847703c8172446.res"]
 
 [params]
 

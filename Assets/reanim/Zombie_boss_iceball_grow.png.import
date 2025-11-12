@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://nmjgbnj4cs0o"
-path="res://.godot/imported/Zombie_boss_iceball_grow.png-5df25e0ae5333253c4e8fea569b3e094.ctex"
+path="res://.godot/imported/Zombie_boss_iceball_grow.png-dbdced681a65ab2cebf98335f503964b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_boss_iceball_grow.png"
-dest_files=["res://.godot/imported/Zombie_boss_iceball_grow.png-5df25e0ae5333253c4e8fea569b3e094.ctex"]
+source_file="res://assets/reanim/Zombie_boss_iceball_grow.png"
+dest_files=["res://.godot/imported/Zombie_boss_iceball_grow.png-dbdced681a65ab2cebf98335f503964b.ctex"]
 
 [params]
 

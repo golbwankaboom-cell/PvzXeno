@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://upktay054wnp"
-path="res://.godot/imported/Coffeebean_eyelid.png-2eff358dfbe726b2aec27ebb6de77468.ctex"
+path="res://.godot/imported/Coffeebean_eyelid.png-5d8e2aae6985da4bbbfbff6e99fdbf6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Coffeebean_eyelid.png"
-dest_files=["res://.godot/imported/Coffeebean_eyelid.png-2eff358dfbe726b2aec27ebb6de77468.ctex"]
+source_file="res://assets/reanim/Coffeebean_eyelid.png"
+dest_files=["res://.godot/imported/Coffeebean_eyelid.png-5d8e2aae6985da4bbbfbff6e99fdbf6d.ctex"]
 
 [params]
 

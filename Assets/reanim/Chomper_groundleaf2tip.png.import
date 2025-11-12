@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dywcasy6pilto"
-path="res://.godot/imported/Chomper_groundleaf2tip.png-3bdfb43098564b261a1ece69328030c0.ctex"
+path="res://.godot/imported/Chomper_groundleaf2tip.png-b0644a5597ee05eb6328c9837601f130.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Chomper_groundleaf2tip.png"
-dest_files=["res://.godot/imported/Chomper_groundleaf2tip.png-3bdfb43098564b261a1ece69328030c0.ctex"]
+source_file="res://assets/reanim/Chomper_groundleaf2tip.png"
+dest_files=["res://.godot/imported/Chomper_groundleaf2tip.png-b0644a5597ee05eb6328c9837601f130.ctex"]
 
 [params]
 

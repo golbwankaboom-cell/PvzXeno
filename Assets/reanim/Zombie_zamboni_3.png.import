@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://daus6gy6m0prq"
-path="res://.godot/imported/Zombie_zamboni_3.png-97fd6bc3ef7ba6266ee3a616473adfbe.ctex"
+path="res://.godot/imported/Zombie_zamboni_3.png-2b6b4ed423072c7fca13289f35a383d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_zamboni_3.png"
-dest_files=["res://.godot/imported/Zombie_zamboni_3.png-97fd6bc3ef7ba6266ee3a616473adfbe.ctex"]
+source_file="res://assets/reanim/Zombie_zamboni_3.png"
+dest_files=["res://.godot/imported/Zombie_zamboni_3.png-2b6b4ed423072c7fca13289f35a383d9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dso348ywf210h"
-path="res://.godot/imported/Zombie_dolphinrider_outerarm_upper.png-a64ebd20c0acfc354587a835b9b951cc.ctex"
+path="res://.godot/imported/Zombie_dolphinrider_outerarm_upper.png-35fd79ca19087de1831b35add25af8fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_dolphinrider_outerarm_upper.png"
-dest_files=["res://.godot/imported/Zombie_dolphinrider_outerarm_upper.png-a64ebd20c0acfc354587a835b9b951cc.ctex"]
+source_file="res://assets/reanim/Zombie_dolphinrider_outerarm_upper.png"
+dest_files=["res://.godot/imported/Zombie_dolphinrider_outerarm_upper.png-35fd79ca19087de1831b35add25af8fa.ctex"]
 
 [params]
 

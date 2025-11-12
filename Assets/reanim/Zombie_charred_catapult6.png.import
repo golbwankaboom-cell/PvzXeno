@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pivawal05s0l"
-path="res://.godot/imported/Zombie_charred_catapult6.png-856f1fb91cba9f9e2a04ece9efdca878.ctex"
+path="res://.godot/imported/Zombie_charred_catapult6.png-0845da70fb600415ae033e1f32762787.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_charred_catapult6.png"
-dest_files=["res://.godot/imported/Zombie_charred_catapult6.png-856f1fb91cba9f9e2a04ece9efdca878.ctex"]
+source_file="res://assets/reanim/Zombie_charred_catapult6.png"
+dest_files=["res://.godot/imported/Zombie_charred_catapult6.png-0845da70fb600415ae033e1f32762787.ctex"]
 
 [params]
 

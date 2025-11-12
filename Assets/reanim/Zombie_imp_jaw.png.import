@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxfjkhuk7tayi"
-path="res://.godot/imported/Zombie_imp_jaw.png-5e28cd1c19f4bebdb53a7d52425ca76e.ctex"
+path="res://.godot/imported/Zombie_imp_jaw.png-994924b5a95107c7fd0bd4e3988fa1fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_imp_jaw.png"
-dest_files=["res://.godot/imported/Zombie_imp_jaw.png-5e28cd1c19f4bebdb53a7d52425ca76e.ctex"]
+source_file="res://assets/reanim/Zombie_imp_jaw.png"
+dest_files=["res://.godot/imported/Zombie_imp_jaw.png-994924b5a95107c7fd0bd4e3988fa1fc.ctex"]
 
 [params]
 

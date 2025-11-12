@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5vh3bkf5ea1w"
-path="res://.godot/imported/icon_rake.png-3b8260654d130d7599645d49cf1d46eb.ctex"
+path="res://.godot/imported/icon_rake.png-dbf0376e914f18e499bfb266ea88bbc7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/main_game_item/icon_rake.png"
-dest_files=["res://.godot/imported/icon_rake.png-3b8260654d130d7599645d49cf1d46eb.ctex"]
+source_file="res://assets/image/main_game_item/icon_rake.png"
+dest_files=["res://.godot/imported/icon_rake.png-dbf0376e914f18e499bfb266ea88bbc7.ctex"]
 
 [params]
 

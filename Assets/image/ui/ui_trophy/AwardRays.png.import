@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yk66wnfu0ye8"
-path="res://.godot/imported/AwardRays.png-add06bfa2203c5c06b5ab87563f53dcb.ctex"
+path="res://.godot/imported/AwardRays.png-6a2ed8e336635bc0f5528a0065f042a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_trophy/AwardRays.png"
-dest_files=["res://.godot/imported/AwardRays.png-add06bfa2203c5c06b5ab87563f53dcb.ctex"]
+source_file="res://assets/image/ui/ui_trophy/AwardRays.png"
+dest_files=["res://.godot/imported/AwardRays.png-6a2ed8e336635bc0f5528a0065f042a5.ctex"]
 
 [params]
 

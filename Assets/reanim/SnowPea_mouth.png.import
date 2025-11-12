@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duih4ey3fvuom"
-path="res://.godot/imported/SnowPea_mouth.png-ba905661f78e03f0634cb54b5a5f0a5b.ctex"
+path="res://.godot/imported/SnowPea_mouth.png-a93547b3e1d19b8966047dccf8815801.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SnowPea_mouth.png"
-dest_files=["res://.godot/imported/SnowPea_mouth.png-ba905661f78e03f0634cb54b5a5f0a5b.ctex"]
+source_file="res://assets/reanim/SnowPea_mouth.png"
+dest_files=["res://.godot/imported/SnowPea_mouth.png-a93547b3e1d19b8966047dccf8815801.ctex"]
 
 [params]
 

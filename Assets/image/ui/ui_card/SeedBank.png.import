@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hvvk2fdgo3pw"
-path="res://.godot/imported/SeedBank.png-2ffc8ff0e466bd9c1870c6ff03ba62fe.ctex"
+path="res://.godot/imported/SeedBank.png-8b1fc08b35747846d5bdeaa94db98ae4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_card/SeedBank.png"
-dest_files=["res://.godot/imported/SeedBank.png-2ffc8ff0e466bd9c1870c6ff03ba62fe.ctex"]
+source_file="res://assets/image/ui/ui_card/SeedBank.png"
+dest_files=["res://.godot/imported/SeedBank.png-8b1fc08b35747846d5bdeaa94db98ae4.ctex"]
 
 [params]
 

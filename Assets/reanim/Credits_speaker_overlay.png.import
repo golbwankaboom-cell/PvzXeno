@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqtwegllvpftm"
-path="res://.godot/imported/Credits_speaker_overlay.png-6919aab913a84f458ab3ffa3549822cf.ctex"
+path="res://.godot/imported/Credits_speaker_overlay.png-240940ee371ffddb16d33980496d47e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Credits_speaker_overlay.png"
-dest_files=["res://.godot/imported/Credits_speaker_overlay.png-6919aab913a84f458ab3ffa3549822cf.ctex"]
+source_file="res://assets/reanim/Credits_speaker_overlay.png"
+dest_files=["res://.godot/imported/Credits_speaker_overlay.png-240940ee371ffddb16d33980496d47e2.ctex"]
 
 [params]
 

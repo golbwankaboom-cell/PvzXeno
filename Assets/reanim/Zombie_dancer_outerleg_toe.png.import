@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2yepdr8jkyvm"
-path="res://.godot/imported/Zombie_dancer_outerleg_toe.png-a40a784f0bcfea0371b8488c45cb1a38.ctex"
+path="res://.godot/imported/Zombie_dancer_outerleg_toe.png-8e2f148e51b7e18697aff1373837ab31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_dancer_outerleg_toe.png"
-dest_files=["res://.godot/imported/Zombie_dancer_outerleg_toe.png-a40a784f0bcfea0371b8488c45cb1a38.ctex"]
+source_file="res://assets/reanim/Zombie_dancer_outerleg_toe.png"
+dest_files=["res://.godot/imported/Zombie_dancer_outerleg_toe.png-8e2f148e51b7e18697aff1373837ab31.ctex"]
 
 [params]
 

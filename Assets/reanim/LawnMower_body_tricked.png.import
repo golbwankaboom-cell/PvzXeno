@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://onq5r68ni75u"
-path="res://.godot/imported/LawnMower_body_tricked.png-5d19423583b0f17caf4e5b6ccdffd103.ctex"
+path="res://.godot/imported/LawnMower_body_tricked.png-f29086490e57de4b98aaf77c077e304c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/LawnMower_body_tricked.png"
-dest_files=["res://.godot/imported/LawnMower_body_tricked.png-5d19423583b0f17caf4e5b6ccdffd103.ctex"]
+source_file="res://assets/reanim/LawnMower_body_tricked.png"
+dest_files=["res://.godot/imported/LawnMower_body_tricked.png-f29086490e57de4b98aaf77c077e304c.ctex"]
 
 [params]
 

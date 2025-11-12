@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bek8y26ispaan"
-path="res://.godot/imported/Zombie_football_helmet.png-988b306bb0698a9ebb616c0344ed8197.ctex"
+path="res://.godot/imported/Zombie_football_helmet.png-f94c2efa00e6839d466076d7b58984d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_football_helmet.png"
-dest_files=["res://.godot/imported/Zombie_football_helmet.png-988b306bb0698a9ebb616c0344ed8197.ctex"]
+source_file="res://assets/reanim/Zombie_football_helmet.png"
+dest_files=["res://.godot/imported/Zombie_football_helmet.png-f94c2efa00e6839d466076d7b58984d6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm64d7w74w4rj"
-path="res://.godot/imported/Zombie_whitewater2.png-90e28c099f3b501037c20830b1502de1.ctex"
+path="res://.godot/imported/Zombie_whitewater2.png-f1a72a4748f43e5413ccbcd2f6a19cc5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_whitewater2.png"
-dest_files=["res://.godot/imported/Zombie_whitewater2.png-90e28c099f3b501037c20830b1502de1.ctex"]
+source_file="res://assets/reanim/Zombie_whitewater2.png"
+dest_files=["res://.godot/imported/Zombie_whitewater2.png-f1a72a4748f43e5413ccbcd2f6a19cc5.ctex"]
 
 [params]
 

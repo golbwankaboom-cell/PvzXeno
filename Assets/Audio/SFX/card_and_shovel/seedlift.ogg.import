@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c620vqqv8870c"
-path="res://.godot/imported/seedlift.ogg-12499760f5112286f8a2be7f3007d501.oggvorbisstr"
+path="res://.godot/imported/seedlift.ogg-71c03607ffcd5311a5ecaf12cd021845.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/card_and_shovel/seedlift.ogg"
-dest_files=["res://.godot/imported/seedlift.ogg-12499760f5112286f8a2be7f3007d501.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/card_and_shovel/seedlift.ogg"
+dest_files=["res://.godot/imported/seedlift.ogg-71c03607ffcd5311a5ecaf12cd021845.oggvorbisstr"]
 
 [params]
 

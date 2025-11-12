@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://confsh2vvg465"
-path="res://.godot/imported/Cornpult_blink2.png-4f7755833c82d332d0a7f8057e3b70fc.ctex"
+path="res://.godot/imported/Cornpult_blink2.png-987bb4c44ac04f96d51f27d5978e0387.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Cornpult_blink2.png"
-dest_files=["res://.godot/imported/Cornpult_blink2.png-4f7755833c82d332d0a7f8057e3b70fc.ctex"]
+source_file="res://assets/reanim/Cornpult_blink2.png"
+dest_files=["res://.godot/imported/Cornpult_blink2.png-987bb4c44ac04f96d51f27d5978e0387.ctex"]
 
 [params]
 

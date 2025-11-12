@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwhpp4e3mm63u"
-path="res://.godot/imported/Torchwood_eyes1.png-0125f9fb13a0b47c29fc31ef252f7d9a.ctex"
+path="res://.godot/imported/Torchwood_eyes1.png-f862b059b14d4c852f7e6b478fa1c01b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Torchwood_eyes1.png"
-dest_files=["res://.godot/imported/Torchwood_eyes1.png-0125f9fb13a0b47c29fc31ef252f7d9a.ctex"]
+source_file="res://assets/reanim/Torchwood_eyes1.png"
+dest_files=["res://.godot/imported/Torchwood_eyes1.png-f862b059b14d4c852f7e6b478fa1c01b.ctex"]
 
 [params]
 

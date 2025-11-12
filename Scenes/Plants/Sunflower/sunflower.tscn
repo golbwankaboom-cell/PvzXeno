@@ -1,25 +1,19 @@
-[gd_scene load_steps=6 format=3 uid="uid://dgsqnoe5atyb4"]
+[gd_scene load_steps=5 format=3 uid="uid://dgsqnoe5atyb4"]
 
-[ext_resource type="Script" uid="uid://bqumn8ymnrklv" path="res://Scripts/Plants/Sunflower/sunflower.gd" id="1_yahmr"]
+[ext_resource type="Script" uid="uid://bot4wbt7422ek" path="res://Scripts/Plants/Sunflower/sunflower.gd" id="1_yahmr"]
 [ext_resource type="PackedScene" uid="uid://cdwcageinhknb" path="res://Scenes/Plants/plant_scene/plant_002_sun_flower.tscn" id="2_an2b3"]
-[ext_resource type="Script" uid="uid://dbob1e8tbbfja" path="res://Scripts/Plants/plant_driver.gd" id="20_3op6a"]
 [ext_resource type="PackedScene" uid="uid://cu038f2q2tgf7" path="res://Scenes/Bullet/bullet_sun.tscn" id="21_crrwv"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_roby2"]
 size = Vector2(80, 100)
 
-[node name="Sunflower" type="Area2D" node_paths=PackedStringArray("driver")]
+[node name="Sunflower" type="Area2D"]
 script = ExtResource("1_yahmr")
-driver = NodePath("PlantDriver")
+bullet_type = ExtResource("21_crrwv")
+attack_timer = 25.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_roby2")
 
 [node name="Plant002SunFlower" parent="." instance=ExtResource("2_an2b3")]
 position = Vector2(1, 24)
-
-[node name="PlantDriver" type="Node" parent="."]
-script = ExtResource("20_3op6a")
-attack_timer = 20.0
-bullet_type = ExtResource("21_crrwv")
-metadata/_custom_type_script = "uid://dbob1e8tbbfja"

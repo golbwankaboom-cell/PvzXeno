@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bxhh4s0xuecov"
-path="res://.godot/imported/Night.mp3-715a41fff4a6027d86ec69901d34b569.mp3str"
+path="res://.godot/imported/Night.mp3-948db6a7082eda71f4b43395c6381e03.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/Music/Night.mp3"
-dest_files=["res://.godot/imported/Night.mp3-715a41fff4a6027d86ec69901d34b569.mp3str"]
+source_file="res://assets/Audio/Music/Night.mp3"
+dest_files=["res://.godot/imported/Night.mp3-948db6a7082eda71f4b43395c6381e03.mp3str"]
 
 [params]
 

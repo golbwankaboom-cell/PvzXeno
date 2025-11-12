@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://bfavwrykaa6kh"
-path="res://.godot/imported/SelectorScreen_Survival_button_Mask.png-e257f3cc863133fd0561b75c8ebf2546.res"
+path="res://.godot/imported/SelectorScreen_Survival_button_Mask.png-08cd4a481874a1872b9e83938cef02fe.res"
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_Survival_button_Mask.png"
-dest_files=["res://.godot/imported/SelectorScreen_Survival_button_Mask.png-e257f3cc863133fd0561b75c8ebf2546.res"]
+source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_Survival_button_Mask.png"
+dest_files=["res://.godot/imported/SelectorScreen_Survival_button_Mask.png-08cd4a481874a1872b9e83938cef02fe.res"]
 
 [params]
 

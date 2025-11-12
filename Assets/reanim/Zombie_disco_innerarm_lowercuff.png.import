@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chbcy1xtc378y"
-path="res://.godot/imported/Zombie_disco_innerarm_lowercuff.png-36bfc1745acc9fa6c406d39578d413a3.ctex"
+path="res://.godot/imported/Zombie_disco_innerarm_lowercuff.png-adfa657b3146cc482b97f4e17f856ead.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_disco_innerarm_lowercuff.png"
-dest_files=["res://.godot/imported/Zombie_disco_innerarm_lowercuff.png-36bfc1745acc9fa6c406d39578d413a3.ctex"]
+source_file="res://assets/reanim/Zombie_disco_innerarm_lowercuff.png"
+dest_files=["res://.godot/imported/Zombie_disco_innerarm_lowercuff.png-adfa657b3146cc482b97f4e17f856ead.ctex"]
 
 [params]
 

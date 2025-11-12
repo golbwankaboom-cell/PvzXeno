@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://w2jtfego7tpg"
-path="res://.godot/imported/SelectorScreen_Flower3_Mask.png-997016b82db5090415568f024d1d614d.res"
+path="res://.godot/imported/SelectorScreen_Flower3_Mask.png-4d1208b072b6e997fff7e7becdae19b5.res"
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_Flower3_Mask.png"
-dest_files=["res://.godot/imported/SelectorScreen_Flower3_Mask.png-997016b82db5090415568f024d1d614d.res"]
+source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_Flower3_Mask.png"
+dest_files=["res://.godot/imported/SelectorScreen_Flower3_Mask.png-4d1208b072b6e997fff7e7becdae19b5.res"]
 
 [params]
 

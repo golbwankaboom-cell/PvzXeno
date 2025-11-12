@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh04xwsq0kueb"
-path="res://.godot/imported/SplitPeaBlade.png-6e990c28b5a2e5f89939d730752bba08.ctex"
+path="res://.godot/imported/SplitPeaBlade.png-c812ef1e77c2ff188a7a97daf7e92f74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Blade/SplitPeaBlade.png"
-dest_files=["res://.godot/imported/SplitPeaBlade.png-6e990c28b5a2e5f89939d730752bba08.ctex"]
+source_file="res://assets/Images/Blade/SplitPeaBlade.png"
+dest_files=["res://.godot/imported/SplitPeaBlade.png-c812ef1e77c2ff188a7a97daf7e92f74.ctex"]
 
 [params]
 

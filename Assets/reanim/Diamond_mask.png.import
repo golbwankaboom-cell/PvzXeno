@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://bfd7eqrrbiib5"
-path="res://.godot/imported/Diamond_mask.png-808f574793d0eda36772023858f65030.res"
+path="res://.godot/imported/Diamond_mask.png-6540bbc26c70bc9acbe2e2ab6e819f96.res"
 
 [deps]
 
-source_file="res://Assets/reanim/Diamond_mask.png"
-dest_files=["res://.godot/imported/Diamond_mask.png-808f574793d0eda36772023858f65030.res"]
+source_file="res://assets/reanim/Diamond_mask.png"
+dest_files=["res://.godot/imported/Diamond_mask.png-6540bbc26c70bc9acbe2e2ab6e819f96.res"]
 
 [params]
 

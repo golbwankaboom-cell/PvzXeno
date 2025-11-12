@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dnxc6i3koo6fi"
-path="res://.godot/imported/Wallnut_cracked2_13.png-afe0a8e330e0055969b4307e56bbef57.ctex"
+path="res://.godot/imported/Wallnut_cracked2_13.png-132071d2c0e9f662d0ea4a9a36cc6570.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/Plants/WallNut/Wallnut_cracked2_13.png"
-dest_files=["res://.godot/imported/Wallnut_cracked2_13.png-afe0a8e330e0055969b4307e56bbef57.ctex"]
+source_file="res://assets/Images/Plants/WallNut/Wallnut_cracked2_13.png"
+dest_files=["res://.godot/imported/Wallnut_cracked2_13.png-132071d2c0e9f662d0ea4a9a36cc6570.ctex"]
 
 [params]
 

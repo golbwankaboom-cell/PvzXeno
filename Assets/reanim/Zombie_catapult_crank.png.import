@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbgta7mnwqmxv"
-path="res://.godot/imported/Zombie_catapult_crank.png-07911ed779d141aa3eeda49bebf74f2c.ctex"
+path="res://.godot/imported/Zombie_catapult_crank.png-cdae63737ad002b2184ed92ff3a4dc4a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_catapult_crank.png"
-dest_files=["res://.godot/imported/Zombie_catapult_crank.png-07911ed779d141aa3eeda49bebf74f2c.ctex"]
+source_file="res://assets/reanim/Zombie_catapult_crank.png"
+dest_files=["res://.godot/imported/Zombie_catapult_crank.png-cdae63737ad002b2184ed92ff3a4dc4a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5ad5trpxrwni"
-path="res://.godot/imported/GloomShroom_face2.png-268f5b251400f5ef40a5aa8e47dc1116.ctex"
+path="res://.godot/imported/GloomShroom_face2.png-f756c9939c56be0e64eb5643a53b1d76.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/GloomShroom_face2.png"
-dest_files=["res://.godot/imported/GloomShroom_face2.png-268f5b251400f5ef40a5aa8e47dc1116.ctex"]
+source_file="res://assets/reanim/GloomShroom_face2.png"
+dest_files=["res://.godot/imported/GloomShroom_face2.png-f756c9939c56be0e64eb5643a53b1d76.ctex"]
 
 [params]
 

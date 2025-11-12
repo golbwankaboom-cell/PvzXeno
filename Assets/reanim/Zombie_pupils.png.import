@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpveg1jg8eiy"
-path="res://.godot/imported/Zombie_pupils.png-d6389f0768dbb289a5d47b972657107f.ctex"
+path="res://.godot/imported/Zombie_pupils.png-35f91695518dc29590459e072ab67100.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_pupils.png"
-dest_files=["res://.godot/imported/Zombie_pupils.png-d6389f0768dbb289a5d47b972657107f.ctex"]
+source_file="res://assets/reanim/Zombie_pupils.png"
+dest_files=["res://.godot/imported/Zombie_pupils.png-35f91695518dc29590459e072ab67100.ctex"]
 
 [params]
 

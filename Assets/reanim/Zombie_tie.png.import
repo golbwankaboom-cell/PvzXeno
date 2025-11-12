@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1s76ywqgwjdg"
-path="res://.godot/imported/Zombie_tie.png-67ffd986ada976106fcff0a751bda1e1.ctex"
+path="res://.godot/imported/Zombie_tie.png-f104c13738094f2b9a045d361347dcbf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_tie.png"
-dest_files=["res://.godot/imported/Zombie_tie.png-67ffd986ada976106fcff0a751bda1e1.ctex"]
+source_file="res://assets/reanim/Zombie_tie.png"
+dest_files=["res://.godot/imported/Zombie_tie.png-f104c13738094f2b9a045d361347dcbf.ctex"]
 
 [params]
 

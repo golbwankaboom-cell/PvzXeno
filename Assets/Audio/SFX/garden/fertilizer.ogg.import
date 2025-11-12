@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://c5iurkxa8ncje"
-path="res://.godot/imported/fertilizer.ogg-13e1fe40880e986428cb35a747ff4fee.oggvorbisstr"
+path="res://.godot/imported/fertilizer.ogg-3cf7345fdcfde0c26ea920e47503ce32.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/garden/fertilizer.ogg"
-dest_files=["res://.godot/imported/fertilizer.ogg-13e1fe40880e986428cb35a747ff4fee.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/garden/fertilizer.ogg"
+dest_files=["res://.godot/imported/fertilizer.ogg-3cf7345fdcfde0c26ea920e47503ce32.oggvorbisstr"]
 
 [params]
 

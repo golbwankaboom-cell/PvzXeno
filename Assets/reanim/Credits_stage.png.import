@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4joivbaq7ri4"
-path="res://.godot/imported/Credits_stage.png-33863d9a99ac64e80cd2d3c85d329c3c.ctex"
+path="res://.godot/imported/Credits_stage.png-ae9d67b584ab2a18ec8c80b3aa55425c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Credits_stage.png"
-dest_files=["res://.godot/imported/Credits_stage.png-33863d9a99ac64e80cd2d3c85d329c3c.ctex"]
+source_file="res://assets/reanim/Credits_stage.png"
+dest_files=["res://.godot/imported/Credits_stage.png-ae9d67b584ab2a18ec8c80b3aa55425c.ctex"]
 
 [params]
 

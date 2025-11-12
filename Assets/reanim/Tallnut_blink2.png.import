@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx41doer20tqv"
-path="res://.godot/imported/Tallnut_blink2.png-1f12f1feba79c7dde4b7bc388d117b52.ctex"
+path="res://.godot/imported/Tallnut_blink2.png-d21effaab89442ebffae959428b1e57b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Tallnut_blink2.png"
-dest_files=["res://.godot/imported/Tallnut_blink2.png-1f12f1feba79c7dde4b7bc388d117b52.ctex"]
+source_file="res://assets/reanim/Tallnut_blink2.png"
+dest_files=["res://.godot/imported/Tallnut_blink2.png-d21effaab89442ebffae959428b1e57b.ctex"]
 
 [params]
 

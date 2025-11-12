@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://72dwq6gmdyw0"
-path="res://.godot/imported/PoolSparkly.png-99a612fec0074f4a589777ded3aa777d.ctex"
+path="res://.godot/imported/PoolSparkly.png-a922ca84c4093208a1fe486dc36ca46d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/particles/PoolSparkly.png"
-dest_files=["res://.godot/imported/PoolSparkly.png-99a612fec0074f4a589777ded3aa777d.ctex"]
+source_file="res://assets/image/particles/PoolSparkly.png"
+dest_files=["res://.godot/imported/PoolSparkly.png-a922ca84c4093208a1fe486dc36ca46d.ctex"]
 
 [params]
 

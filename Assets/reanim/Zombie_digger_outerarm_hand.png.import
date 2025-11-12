@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://05ppaidhrv55"
-path="res://.godot/imported/Zombie_digger_outerarm_hand.png-d10ae8a960326c0de65deded810e6ccb.ctex"
+path="res://.godot/imported/Zombie_digger_outerarm_hand.png-3f5c077dea428acad3e4931bc83bf78d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_digger_outerarm_hand.png"
-dest_files=["res://.godot/imported/Zombie_digger_outerarm_hand.png-d10ae8a960326c0de65deded810e6ccb.ctex"]
+source_file="res://assets/reanim/Zombie_digger_outerarm_hand.png"
+dest_files=["res://.godot/imported/Zombie_digger_outerarm_hand.png-3f5c077dea428acad3e4931bc83bf78d.ctex"]
 
 [params]
 

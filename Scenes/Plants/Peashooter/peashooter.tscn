@@ -10,14 +10,15 @@
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_aq0sf"]
 size = Vector2(80, 100)
 
-[node name="Peashooter" type="Area2D" node_paths=PackedStringArray("driver") groups=["Plant"]]
+[node name="Peashooter" type="Area2D" groups=["Plant"]]
 script = ExtResource("1_g6t5a")
-driver = NodePath("PeashooterDriver")
+bullet_type = ExtResource("3_tp4p6")
+operating_speed = 2.0
 
 [node name="PeashooterDriver" type="Node2D" parent="."]
 script = ExtResource("2_rou6s")
-attack_timer = 1.4
 bullet_type = ExtResource("3_tp4p6")
+attack_timer = 1.4
 attack_damage = 20
 
 [node name="PeashooterBlade" parent="PeashooterDriver" instance=ExtResource("4_migyk")]

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pk1kj7t44va0"
-path="res://.godot/imported/pumpkin_damage1.png-32c49452da4f361aa5d90ec582e8adda.ctex"
+path="res://.godot/imported/pumpkin_damage1.png-8377d60052063f0bb64c7ac07c589fb9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/pumpkin_damage1.png"
-dest_files=["res://.godot/imported/pumpkin_damage1.png-32c49452da4f361aa5d90ec582e8adda.ctex"]
+source_file="res://assets/reanim/pumpkin_damage1.png"
+dest_files=["res://.godot/imported/pumpkin_damage1.png-8377d60052063f0bb64c7ac07c589fb9.ctex"]
 
 [params]
 

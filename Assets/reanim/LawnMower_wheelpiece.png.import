@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de8gk86hm1rty"
-path="res://.godot/imported/LawnMower_wheelpiece.png-5a07185ca31cfcbc95cbd6669e0b405d.ctex"
+path="res://.godot/imported/LawnMower_wheelpiece.png-14553538dc235f1d7d4fd87a0cba06bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/LawnMower_wheelpiece.png"
-dest_files=["res://.godot/imported/LawnMower_wheelpiece.png-5a07185ca31cfcbc95cbd6669e0b405d.ctex"]
+source_file="res://assets/reanim/LawnMower_wheelpiece.png"
+dest_files=["res://.godot/imported/LawnMower_wheelpiece.png-14553538dc235f1d7d4fd87a0cba06bc.ctex"]
 
 [params]
 

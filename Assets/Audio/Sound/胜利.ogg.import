@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://io855b5vgk0f"
-path="res://.godot/imported/胜利.ogg-c5c98213530e9e040565fd286be1a914.oggvorbisstr"
+path="res://.godot/imported/胜利.ogg-7b64e296fc2a8b4301b00d3790e14033.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/Sound/胜利.ogg"
-dest_files=["res://.godot/imported/胜利.ogg-c5c98213530e9e040565fd286be1a914.oggvorbisstr"]
+source_file="res://assets/Audio/Sound/胜利.ogg"
+dest_files=["res://.godot/imported/胜利.ogg-7b64e296fc2a8b4301b00d3790e14033.oggvorbisstr"]
 
 [params]
 
