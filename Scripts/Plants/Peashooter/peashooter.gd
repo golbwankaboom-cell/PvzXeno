@@ -42,6 +42,9 @@ func _process(delta):
 	if driver.health <= 0:
 		die()
 		
+		
+	
+	
 func attack():
 	rdmnum = randi_range(0, 1)
 	emit_signal("attack_signal")

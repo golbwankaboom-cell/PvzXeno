@@ -6,7 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://cbmfasdu30tu0" path="res://Scenes/Plants/Peashooter/peashooter_blade.tscn" id="4_migyk"]
 [ext_resource type="PackedScene" uid="uid://cag2f5d37fnk5" path="res://Scenes/Plants/SplitPea/split_pea_blade.tscn" id="5_g6t5a"]
 [ext_resource type="PackedScene" uid="uid://cmehk0owod8xe" path="res://Scenes/Plants/Wallnut/wallnut_blade.tscn" id="6_rou6s"]
-[ext_resource type="PackedScene" uid="uid://debbfhh4pdixj" path="res://Scenes/Plants/ZWCG/plant_001_pea_shooter_single.tscn" id="7_vjhea"]
+[ext_resource type="PackedScene" uid="uid://debbfhh4pdixj" path="res://Scenes/Plants/plant_scene/plant_001_pea_shooter_single.tscn" id="7_vjhea"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_aq0sf"]
 size = Vector2(80, 100)

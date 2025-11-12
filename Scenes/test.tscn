@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://ceqrujbwehcf7"]
 
 [ext_resource type="PackedScene" uid="uid://bar1ch6p12tkx" path="res://Scenes/Plants/Peashooter/peashooter.tscn" id="1_8od7v"]
-[ext_resource type="PackedScene" uid="uid://bjygmoijyvs88" path="res://Scenes/Zombies/basic_zombie.tscn" id="2_qc4db"]
+[ext_resource type="PackedScene" uid="uid://bjygmoijyvs88" path="res://Scenes/Zombies/BasicZombie/basic_zombie.tscn" id="2_qc4db"]
 
 [node name="Test" type="Node2D"]
 

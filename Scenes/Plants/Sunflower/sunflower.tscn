@@ -1,7 +1,7 @@
 [gd_scene load_steps=6 format=3 uid="uid://dgsqnoe5atyb4"]
 
 [ext_resource type="Script" uid="uid://bqumn8ymnrklv" path="res://Scripts/Plants/Sunflower/sunflower.gd" id="1_yahmr"]
-[ext_resource type="PackedScene" uid="uid://cdwcageinhknb" path="res://Scenes/Plants/ZWCG/plant_002_sun_flower.tscn" id="2_an2b3"]
+[ext_resource type="PackedScene" uid="uid://cdwcageinhknb" path="res://Scenes/Plants/plant_scene/plant_002_sun_flower.tscn" id="2_an2b3"]
 [ext_resource type="Script" uid="uid://dbob1e8tbbfja" path="res://Scripts/Plants/plant_driver.gd" id="20_3op6a"]
 [ext_resource type="PackedScene" uid="uid://cu038f2q2tgf7" path="res://Scenes/Bullet/bullet_sun.tscn" id="21_crrwv"]
 
