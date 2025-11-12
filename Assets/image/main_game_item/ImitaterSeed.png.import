@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvyys24w636sx"
-path="res://.godot/imported/ImitaterSeed.png-61bf195269cc5fbbcdd930fce9739b06.ctex"
+path="res://.godot/imported/ImitaterSeed.png-8b0ad76634df2035f91a7acb41bd1e38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/main_game_item/ImitaterSeed.png"
-dest_files=["res://.godot/imported/ImitaterSeed.png-61bf195269cc5fbbcdd930fce9739b06.ctex"]
+source_file="res://Assets/image/main_game_item/ImitaterSeed.png"
+dest_files=["res://.godot/imported/ImitaterSeed.png-8b0ad76634df2035f91a7acb41bd1e38.ctex"]
 
 [params]
 

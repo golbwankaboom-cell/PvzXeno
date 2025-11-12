@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu1wigyla5jri"
-path="res://.godot/imported/ZenGarden_bugspray_spray2.png-65394c23b2a230fdc9a084b16d13801c.ctex"
+path="res://.godot/imported/ZenGarden_bugspray_spray2.png-aca43bf1016e7f59a25d16ca876b43c0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/ZenGarden_bugspray_spray2.png"
-dest_files=["res://.godot/imported/ZenGarden_bugspray_spray2.png-65394c23b2a230fdc9a084b16d13801c.ctex"]
+source_file="res://Assets/reanim/ZenGarden_bugspray_spray2.png"
+dest_files=["res://.godot/imported/ZenGarden_bugspray_spray2.png-aca43bf1016e7f59a25d16ca876b43c0.ctex"]
 
 [params]
 

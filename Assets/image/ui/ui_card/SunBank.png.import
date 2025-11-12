@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsu2i8ruusklq"
-path="res://.godot/imported/SunBank.png-18a1456b899c2c6b8824c29362acb2d5.ctex"
+path="res://.godot/imported/SunBank.png-c7f99f236502396e7860492ef51ecfbd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/ui/ui_card/SunBank.png"
-dest_files=["res://.godot/imported/SunBank.png-18a1456b899c2c6b8824c29362acb2d5.ctex"]
+source_file="res://Assets/image/ui/ui_card/SunBank.png"
+dest_files=["res://.godot/imported/SunBank.png-c7f99f236502396e7860492ef51ecfbd.ctex"]
 
 [params]
 

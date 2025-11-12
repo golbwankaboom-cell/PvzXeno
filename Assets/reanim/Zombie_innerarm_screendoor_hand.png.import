@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5h0qjv40byky"
-path="res://.godot/imported/Zombie_innerarm_screendoor_hand.png-aa87b32195c97e0a6afb8cc4bf394eec.ctex"
+path="res://.godot/imported/Zombie_innerarm_screendoor_hand.png-f7124e56aec19afd619067f3c17865c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_innerarm_screendoor_hand.png"
-dest_files=["res://.godot/imported/Zombie_innerarm_screendoor_hand.png-aa87b32195c97e0a6afb8cc4bf394eec.ctex"]
+source_file="res://Assets/reanim/Zombie_innerarm_screendoor_hand.png"
+dest_files=["res://.godot/imported/Zombie_innerarm_screendoor_hand.png-f7124e56aec19afd619067f3c17865c7.ctex"]
 
 [params]
 

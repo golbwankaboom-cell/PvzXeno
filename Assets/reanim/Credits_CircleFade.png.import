@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bo8qvrsuq67lx"
-path="res://.godot/imported/Credits_CircleFade.png-016f1f9c0347e0cb1bae337f1a944630.ctex"
+path="res://.godot/imported/Credits_CircleFade.png-d5519b428493e1bd08f62cdf3e0d8b8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Credits_CircleFade.png"
-dest_files=["res://.godot/imported/Credits_CircleFade.png-016f1f9c0347e0cb1bae337f1a944630.ctex"]
+source_file="res://Assets/reanim/Credits_CircleFade.png"
+dest_files=["res://.godot/imported/Credits_CircleFade.png-d5519b428493e1bd08f62cdf3e0d8b8c.ctex"]
 
 [params]
 

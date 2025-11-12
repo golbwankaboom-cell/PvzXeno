@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwve7jn8g2ab0"
-path="res://.godot/imported/Chomper_stem2.png-f88e8fa3e489dc57d98fc0f140bd880c.ctex"
+path="res://.godot/imported/Chomper_stem2.png-d7cfab999193b58485430c662a52b118.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Chomper_stem2.png"
-dest_files=["res://.godot/imported/Chomper_stem2.png-f88e8fa3e489dc57d98fc0f140bd880c.ctex"]
+source_file="res://Assets/reanim/Chomper_stem2.png"
+dest_files=["res://.godot/imported/Chomper_stem2.png-d7cfab999193b58485430c662a52b118.ctex"]
 
 [params]
 

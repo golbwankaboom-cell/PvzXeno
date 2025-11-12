@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dllwwpi2v1blu"
-path="res://.godot/imported/CrazyDave_blink2.png-70a795d182661f49a6fc14b992d34213.ctex"
+path="res://.godot/imported/CrazyDave_blink2.png-0c3f6cf0201cb3f0e64da856f5f2bf3c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CrazyDave_blink2.png"
-dest_files=["res://.godot/imported/CrazyDave_blink2.png-70a795d182661f49a6fc14b992d34213.ctex"]
+source_file="res://Assets/reanim/CrazyDave_blink2.png"
+dest_files=["res://.godot/imported/CrazyDave_blink2.png-0c3f6cf0201cb3f0e64da856f5f2bf3c.ctex"]
 
 [params]
 

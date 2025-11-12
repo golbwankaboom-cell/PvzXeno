@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://breddbtgkk5oc"
-path="res://.godot/imported/BossExplosion1.png-a3bd423425600f6b3dc8568b4ae9e369.ctex"
+path="res://.godot/imported/BossExplosion1.png-89436233958ca91d0dd4a8d040c17d69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/particles/BossExplosion1.png"
-dest_files=["res://.godot/imported/BossExplosion1.png-a3bd423425600f6b3dc8568b4ae9e369.ctex"]
+source_file="res://Assets/image/particles/BossExplosion1.png"
+dest_files=["res://.godot/imported/BossExplosion1.png-89436233958ca91d0dd4a8d040c17d69.ctex"]
 
 [params]
 

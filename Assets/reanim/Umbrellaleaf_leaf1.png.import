@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://elsoyk2l1qy"
-path="res://.godot/imported/Umbrellaleaf_leaf1.png-cfe02c04f9f23fb38baff5cc1bcf9877.ctex"
+path="res://.godot/imported/Umbrellaleaf_leaf1.png-9406dcbc0becdb2340be7ab3997a0e65.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Umbrellaleaf_leaf1.png"
-dest_files=["res://.godot/imported/Umbrellaleaf_leaf1.png-cfe02c04f9f23fb38baff5cc1bcf9877.ctex"]
+source_file="res://Assets/reanim/Umbrellaleaf_leaf1.png"
+dest_files=["res://.godot/imported/Umbrellaleaf_leaf1.png-9406dcbc0becdb2340be7ab3997a0e65.ctex"]
 
 [params]
 

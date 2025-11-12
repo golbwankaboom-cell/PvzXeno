@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db2piucw744ly"
-path="res://.godot/imported/Cactus_blink2.png-b4c02eadb27a96f5158c4ef2224d0d70.ctex"
+path="res://.godot/imported/Cactus_blink2.png-0f87e48e15bf93f118ce65b37c6c0842.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Cactus_blink2.png"
-dest_files=["res://.godot/imported/Cactus_blink2.png-b4c02eadb27a96f5158c4ef2224d0d70.ctex"]
+source_file="res://Assets/reanim/Cactus_blink2.png"
+dest_files=["res://.godot/imported/Cactus_blink2.png-0f87e48e15bf93f118ce65b37c6c0842.ctex"]
 
 [params]
 

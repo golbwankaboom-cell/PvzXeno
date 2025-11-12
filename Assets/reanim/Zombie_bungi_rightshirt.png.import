@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b30lm4ay2qo8d"
-path="res://.godot/imported/Zombie_bungi_rightshirt.png-0a20e106803bde47ca20c92717c476c4.ctex"
+path="res://.godot/imported/Zombie_bungi_rightshirt.png-9bf786b269f5b26a80c862c760949b5b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_bungi_rightshirt.png"
-dest_files=["res://.godot/imported/Zombie_bungi_rightshirt.png-0a20e106803bde47ca20c92717c476c4.ctex"]
+source_file="res://Assets/reanim/Zombie_bungi_rightshirt.png"
+dest_files=["res://.godot/imported/Zombie_bungi_rightshirt.png-9bf786b269f5b26a80c862c760949b5b.ctex"]
 
 [params]
 

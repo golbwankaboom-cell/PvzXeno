@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6sig2vr6hn5j"
-path="res://.godot/imported/SunFlower_blink2.png-807336c04db28c94c5f29c38d4295973.ctex"
+path="res://.godot/imported/SunFlower_blink2.png-b8a37c653aacfa522739965e120934b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SunFlower_blink2.png"
-dest_files=["res://.godot/imported/SunFlower_blink2.png-807336c04db28c94c5f29c38d4295973.ctex"]
+source_file="res://Assets/reanim/SunFlower_blink2.png"
+dest_files=["res://.godot/imported/SunFlower_blink2.png-b8a37c653aacfa522739965e120934b1.ctex"]
 
 [params]
 

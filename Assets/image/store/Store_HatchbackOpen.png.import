@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://umyqotkyrx6w"
-path="res://.godot/imported/Store_HatchbackOpen.png-34c701d37422453c4078b5203f07e052.ctex"
+path="res://.godot/imported/Store_HatchbackOpen.png-1db15b238d47e9a3a7d278fa4f85895c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/store/Store_HatchbackOpen.png"
-dest_files=["res://.godot/imported/Store_HatchbackOpen.png-34c701d37422453c4078b5203f07e052.ctex"]
+source_file="res://Assets/image/store/Store_HatchbackOpen.png"
+dest_files=["res://.godot/imported/Store_HatchbackOpen.png-1db15b238d47e9a3a7d278fa4f85895c.ctex"]
 
 [params]
 

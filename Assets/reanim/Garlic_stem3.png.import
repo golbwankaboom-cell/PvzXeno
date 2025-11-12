@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://njrw363r8de5"
-path="res://.godot/imported/Garlic_stem3.png-3bd3f4946066f43a3b53cbbe9c52a27b.ctex"
+path="res://.godot/imported/Garlic_stem3.png-142e6a6975976212c4507da0af78fb04.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Garlic_stem3.png"
-dest_files=["res://.godot/imported/Garlic_stem3.png-3bd3f4946066f43a3b53cbbe9c52a27b.ctex"]
+source_file="res://Assets/reanim/Garlic_stem3.png"
+dest_files=["res://.godot/imported/Garlic_stem3.png-142e6a6975976212c4507da0af78fb04.ctex"]
 
 [params]
 

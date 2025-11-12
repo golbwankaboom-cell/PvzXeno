@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wox6kcig3h35"
-path="res://.godot/imported/Imitater_body.png-295bc23655c5b45831efd8cfbff25422.ctex"
+path="res://.godot/imported/Imitater_body.png-438c7bbf6d9e653958aaf2a87d7ec663.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Imitater_body.png"
-dest_files=["res://.godot/imported/Imitater_body.png-295bc23655c5b45831efd8cfbff25422.ctex"]
+source_file="res://Assets/reanim/Imitater_body.png"
+dest_files=["res://.godot/imported/Imitater_body.png-438c7bbf6d9e653958aaf2a87d7ec663.ctex"]
 
 [params]
 

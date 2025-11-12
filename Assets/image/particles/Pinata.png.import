@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwlq5ki80jqyj"
-path="res://.godot/imported/Pinata.png-b02a9bc6760da3252d2badb225e95551.ctex"
+path="res://.godot/imported/Pinata.png-20504738eee26c359c2fcbd3ce39b5e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/particles/Pinata.png"
-dest_files=["res://.godot/imported/Pinata.png-b02a9bc6760da3252d2badb225e95551.ctex"]
+source_file="res://Assets/image/particles/Pinata.png"
+dest_files=["res://.godot/imported/Pinata.png-20504738eee26c359c2fcbd3ce39b5e1.ctex"]
 
 [params]
 

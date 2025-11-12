@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qkm6isknt63q"
-path="res://.godot/imported/bowling.ogg-66ec2a860e9632e077d619a9466cf1a0.oggvorbisstr"
+path="res://.godot/imported/bowling.ogg-5f98a615f1a0f423b4320798c000282d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/plant/bowling.ogg"
-dest_files=["res://.godot/imported/bowling.ogg-66ec2a860e9632e077d619a9466cf1a0.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/plant/bowling.ogg"
+dest_files=["res://.godot/imported/bowling.ogg-5f98a615f1a0f423b4320798c000282d.oggvorbisstr"]
 
 [params]
 

@@ -18,12 +18,9 @@ operating_speed = 2.0
 [node name="PeashooterDriver" type="Node2D" parent="."]
 script = ExtResource("2_rou6s")
 bullet_type = ExtResource("3_tp4p6")
-attack_timer = 1.4
 attack_damage = 20
 
 [node name="PeashooterBlade" parent="PeashooterDriver" instance=ExtResource("4_migyk")]
-
-[node name="PeashooterBlade2" parent="PeashooterDriver" instance=ExtResource("4_migyk")]
 
 [node name="WallnutBlade" parent="PeashooterDriver" instance=ExtResource("6_rou6s")]
 

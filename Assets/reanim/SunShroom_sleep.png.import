@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2kxhbashy85l"
-path="res://.godot/imported/SunShroom_sleep.png-0e407d013e3667261760e7722593d52a.ctex"
+path="res://.godot/imported/SunShroom_sleep.png-25eb556f759c7ccc5145d9f95524bef8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SunShroom_sleep.png"
-dest_files=["res://.godot/imported/SunShroom_sleep.png-0e407d013e3667261760e7722593d52a.ctex"]
+source_file="res://Assets/reanim/SunShroom_sleep.png"
+dest_files=["res://.godot/imported/SunShroom_sleep.png-25eb556f759c7ccc5145d9f95524bef8.ctex"]
 
 [params]
 

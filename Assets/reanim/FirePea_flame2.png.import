@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hjflenrbxiee"
-path="res://.godot/imported/FirePea_flame2.png-fd311e9d8309854be2bbe5b5704f1cc2.ctex"
+path="res://.godot/imported/FirePea_flame2.png-45cf2a57ab8a1004e4356455dbadac59.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/FirePea_flame2.png"
-dest_files=["res://.godot/imported/FirePea_flame2.png-fd311e9d8309854be2bbe5b5704f1cc2.ctex"]
+source_file="res://Assets/reanim/FirePea_flame2.png"
+dest_files=["res://.godot/imported/FirePea_flame2.png-45cf2a57ab8a1004e4356455dbadac59.ctex"]
 
 [params]
 

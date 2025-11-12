@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://dgld37ej3ea7p"
-path="res://.godot/imported/Pool.mp3-a69f25dc8e7e0c2eed4a0e9ed99c956b.mp3str"
+path="res://.godot/imported/Pool.mp3-9205ec1ddd72a92cad5c8cae4c1c260b.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/Music/Pool.mp3"
-dest_files=["res://.godot/imported/Pool.mp3-a69f25dc8e7e0c2eed4a0e9ed99c956b.mp3str"]
+source_file="res://Assets/Audio/Music/Pool.mp3"
+dest_files=["res://.godot/imported/Pool.mp3-9205ec1ddd72a92cad5c8cae4c1c260b.mp3str"]
 
 [params]
 

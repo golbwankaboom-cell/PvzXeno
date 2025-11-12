@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yfrsdofbotos"
-path="res://.godot/imported/fire2.png-52b5be9269d1a8fa85eb176ca17e8800.ctex"
+path="res://.godot/imported/fire2.png-c0eaf1990fbb598d750f4b57f34c2081.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/fire2.png"
-dest_files=["res://.godot/imported/fire2.png-52b5be9269d1a8fa85eb176ca17e8800.ctex"]
+source_file="res://Assets/reanim/fire2.png"
+dest_files=["res://.godot/imported/fire2.png-c0eaf1990fbb598d750f4b57f34c2081.ctex"]
 
 [params]
 

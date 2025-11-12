@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://31dd0gjuua82"
-path="res://.godot/imported/Zombie_gargantuar_outerarm_hand.png-082f3fb7a672b107ceb0a0307b9137e9.ctex"
+path="res://.godot/imported/Zombie_gargantuar_outerarm_hand.png-36aa0249d99a1dcaa615e0c271750ed2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_gargantuar_outerarm_hand.png"
-dest_files=["res://.godot/imported/Zombie_gargantuar_outerarm_hand.png-082f3fb7a672b107ceb0a0307b9137e9.ctex"]
+source_file="res://Assets/reanim/Zombie_gargantuar_outerarm_hand.png"
+dest_files=["res://.godot/imported/Zombie_gargantuar_outerarm_hand.png-36aa0249d99a1dcaa615e0c271750ed2.ctex"]
 
 [params]
 

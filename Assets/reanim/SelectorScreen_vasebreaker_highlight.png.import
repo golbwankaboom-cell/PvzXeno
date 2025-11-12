@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6jnfwk7dpk51"
-path="res://.godot/imported/SelectorScreen_vasebreaker_highlight.png-da88fadb5905725830c0c934e93a2539.ctex"
+path="res://.godot/imported/SelectorScreen_vasebreaker_highlight.png-c468b5f5a36746833dd0a698c3eeef0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SelectorScreen_vasebreaker_highlight.png"
-dest_files=["res://.godot/imported/SelectorScreen_vasebreaker_highlight.png-da88fadb5905725830c0c934e93a2539.ctex"]
+source_file="res://Assets/reanim/SelectorScreen_vasebreaker_highlight.png"
+dest_files=["res://.godot/imported/SelectorScreen_vasebreaker_highlight.png-c468b5f5a36746833dd0a698c3eeef0b.ctex"]
 
 [params]
 

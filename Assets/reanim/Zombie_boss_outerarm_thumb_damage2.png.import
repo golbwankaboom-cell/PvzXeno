@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf3cc6qiw7tcu"
-path="res://.godot/imported/Zombie_boss_outerarm_thumb_damage2.png-46dcb700833242fddd9bdaf801c734b3.ctex"
+path="res://.godot/imported/Zombie_boss_outerarm_thumb_damage2.png-b894e0d2a4f3444c14d426388013dd40.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_boss_outerarm_thumb_damage2.png"
-dest_files=["res://.godot/imported/Zombie_boss_outerarm_thumb_damage2.png-46dcb700833242fddd9bdaf801c734b3.ctex"]
+source_file="res://Assets/reanim/Zombie_boss_outerarm_thumb_damage2.png"
+dest_files=["res://.godot/imported/Zombie_boss_outerarm_thumb_damage2.png-b894e0d2a4f3444c14d426388013dd40.ctex"]
 
 [params]
 

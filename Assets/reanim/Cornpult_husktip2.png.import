@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4np7ydpdsxtv"
-path="res://.godot/imported/Cornpult_husktip2.png-fac0fb456f715fd7669e40275ca0da77.ctex"
+path="res://.godot/imported/Cornpult_husktip2.png-1a817871dd0620f77dc777c5476b1dce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Cornpult_husktip2.png"
-dest_files=["res://.godot/imported/Cornpult_husktip2.png-fac0fb456f715fd7669e40275ca0da77.ctex"]
+source_file="res://Assets/reanim/Cornpult_husktip2.png"
+dest_files=["res://.godot/imported/Cornpult_husktip2.png-1a817871dd0620f77dc777c5476b1dce.ctex"]
 
 [params]
 

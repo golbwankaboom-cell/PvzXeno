@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs6ghx1mr0wig"
-path="res://.godot/imported/sod3row_.png-c8196c27b80fa9d47a71e322c162ec94.ctex"
+path="res://.godot/imported/sod3row_.png-cbe58efda1e6bf82077960148a54620c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/background/sod3row_.png"
-dest_files=["res://.godot/imported/sod3row_.png-c8196c27b80fa9d47a71e322c162ec94.ctex"]
+source_file="res://Assets/image/background/sod3row_.png"
+dest_files=["res://.godot/imported/sod3row_.png-cbe58efda1e6bf82077960148a54620c.ctex"]
 
 [params]
 

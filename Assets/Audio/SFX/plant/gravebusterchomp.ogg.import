@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://byp7j3rg12vt4"
-path="res://.godot/imported/gravebusterchomp.ogg-d912cfa803f9fbcc2ee61fa1f5ade3bc.oggvorbisstr"
+path="res://.godot/imported/gravebusterchomp.ogg-317113f09bce0c0cb3fb3c230a585e09.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/plant/gravebusterchomp.ogg"
-dest_files=["res://.godot/imported/gravebusterchomp.ogg-d912cfa803f9fbcc2ee61fa1f5ade3bc.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/plant/gravebusterchomp.ogg"
+dest_files=["res://.godot/imported/gravebusterchomp.ogg-317113f09bce0c0cb3fb3c230a585e09.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cjcfmkkumvowa"
-path="res://.godot/imported/splat3.ogg-99e30f60c0af22a140759cd02b9b3f5e.oggvorbisstr"
+path="res://.godot/imported/splat3.ogg-8d11186834a01439371abf2fa1c9831d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/bullet/splat3.ogg"
-dest_files=["res://.godot/imported/splat3.ogg-99e30f60c0af22a140759cd02b9b3f5e.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/bullet/splat3.ogg"
+dest_files=["res://.godot/imported/splat3.ogg-8d11186834a01439371abf2fa1c9831d.oggvorbisstr"]
 
 [params]
 

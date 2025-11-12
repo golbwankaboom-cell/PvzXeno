@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://da1kdbpmmcxtq"
-path="res://.godot/imported/zamboni.ogg-2cfa02d9879033d69d82ee67af4f30d4.oggvorbisstr"
+path="res://.godot/imported/zamboni.ogg-4155e93fda5315f42d03b47a2bf3ece0.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/zamboni.ogg"
-dest_files=["res://.godot/imported/zamboni.ogg-2cfa02d9879033d69d82ee67af4f30d4.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/zamboni.ogg"
+dest_files=["res://.godot/imported/zamboni.ogg-4155e93fda5315f42d03b47a2bf3ece0.oggvorbisstr"]
 
 [params]
 

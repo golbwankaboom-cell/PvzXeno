@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://g4wl1of4q8sx"
-path="res://.godot/imported/SelectorScreen_Vasebreaker_button_Mask.png-f95ea72a6698427b3100749240d966ee.res"
+path="res://.godot/imported/SelectorScreen_Vasebreaker_button_Mask.png-4efa22a23ba41e47ce7f05a8312dc211.res"
 
 [deps]
 
-source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_Vasebreaker_button_Mask.png"
-dest_files=["res://.godot/imported/SelectorScreen_Vasebreaker_button_Mask.png-f95ea72a6698427b3100749240d966ee.res"]
+source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_Vasebreaker_button_Mask.png"
+dest_files=["res://.godot/imported/SelectorScreen_Vasebreaker_button_Mask.png-4efa22a23ba41e47ce7f05a8312dc211.res"]
 
 [params]
 

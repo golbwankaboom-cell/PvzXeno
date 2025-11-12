@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://npovq3jcwj6m"
-path="res://.godot/imported/Blover_head2.png-99ca47d58de6e0b32add7e914e7bccb9.ctex"
+path="res://.godot/imported/Blover_head2.png-c583566993be038c9edf1de4a7d4ef8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Blover_head2.png"
-dest_files=["res://.godot/imported/Blover_head2.png-99ca47d58de6e0b32add7e914e7bccb9.ctex"]
+source_file="res://Assets/reanim/Blover_head2.png"
+dest_files=["res://.godot/imported/Blover_head2.png-c583566993be038c9edf1de4a7d4ef8f.ctex"]
 
 [params]
 

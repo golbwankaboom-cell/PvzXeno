@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2gt74fhfr7kv"
-path="res://.godot/imported/WallnutBlade.png-f57407f28125970c7f115b849ac7beb0.ctex"
+path="res://.godot/imported/WallnutBlade.png-08b56ad5ed52cbc67ddde90f0189de6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/Blade/WallnutBlade.png"
-dest_files=["res://.godot/imported/WallnutBlade.png-f57407f28125970c7f115b849ac7beb0.ctex"]
+source_file="res://Assets/Images/Blade/WallnutBlade.png"
+dest_files=["res://.godot/imported/WallnutBlade.png-08b56ad5ed52cbc67ddde90f0189de6d.ctex"]
 
 [params]
 

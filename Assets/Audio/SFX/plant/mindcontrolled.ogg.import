@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://27ixpiivbgde"
-path="res://.godot/imported/mindcontrolled.ogg-c8637808d51c411aa19566e8426d7caa.oggvorbisstr"
+path="res://.godot/imported/mindcontrolled.ogg-70d43517bb924b94bb19a0a0f86bf72d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/plant/mindcontrolled.ogg"
-dest_files=["res://.godot/imported/mindcontrolled.ogg-c8637808d51c411aa19566e8426d7caa.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/plant/mindcontrolled.ogg"
+dest_files=["res://.godot/imported/mindcontrolled.ogg-70d43517bb924b94bb19a0a0f86bf72d.oggvorbisstr"]
 
 [params]
 

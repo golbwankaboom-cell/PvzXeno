@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d788ejmo3055"
-path="res://.godot/imported/Zombie_disco_outerhand_point.png-860b59a8ff61044d6288740a1f09f9d6.ctex"
+path="res://.godot/imported/Zombie_disco_outerhand_point.png-5ceadf07e0cff023ac46ed01ea8bb247.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_disco_outerhand_point.png"
-dest_files=["res://.godot/imported/Zombie_disco_outerhand_point.png-860b59a8ff61044d6288740a1f09f9d6.ctex"]
+source_file="res://Assets/reanim/Zombie_disco_outerhand_point.png"
+dest_files=["res://.godot/imported/Zombie_disco_outerhand_point.png-5ceadf07e0cff023ac46ed01ea8bb247.ctex"]
 
 [params]
 

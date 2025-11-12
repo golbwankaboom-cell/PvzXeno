@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqp2pmget8dbo"
-path="res://.godot/imported/Zombie_disco_chops.png-cf1aebc5970a5996daa0e289f05ad82e.ctex"
+path="res://.godot/imported/Zombie_disco_chops.png-ec832d2639a8453d38278640712d116c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_disco_chops.png"
-dest_files=["res://.godot/imported/Zombie_disco_chops.png-cf1aebc5970a5996daa0e289f05ad82e.ctex"]
+source_file="res://Assets/reanim/Zombie_disco_chops.png"
+dest_files=["res://.godot/imported/Zombie_disco_chops.png-ec832d2639a8453d38278640712d116c.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cen767dg5fuva"
-path="res://.godot/imported/dirt_rise.ogg-20e2694cff25d599de0fb548afdfda4b.oggvorbisstr"
+path="res://.godot/imported/dirt_rise.ogg-5b024c851603ae2f1d12471907731291.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/dirt_rise.ogg"
-dest_files=["res://.godot/imported/dirt_rise.ogg-20e2694cff25d599de0fb548afdfda4b.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/dirt_rise.ogg"
+dest_files=["res://.godot/imported/dirt_rise.ogg-5b024c851603ae2f1d12471907731291.oggvorbisstr"]
 
 [params]
 

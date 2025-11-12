@@ -4,11 +4,11 @@ class_name PlantDriver
 ##子弹场景
 @export var bullet_type			: PackedScene
 ##攻击计时
-@export var attack_timer		: float=1
+@export var attack_timer		: float=1.4
 ##子弹创建偏移
 @export var bullet_position		: Vector2 = Vector2.ZERO 
 ##子弹初始动量
-@export var bullet_velocity		: Vector2 = Vector2(600,0)
+@export var bullet_velocity		: Vector2 = Vector2(0,0)
 ##子弹运行速度
 @export var bullet_operating_speed : float = 1.0      
 ##子弹可穿透次数
@@ -19,6 +19,8 @@ class_name PlantDriver
 var board_row = 1
 #棋盘列数（初始值为 1）
 var board_column = 1
+#原始子弹动量
+var original_bullet_velocity
 #当前速度（向量类型，未初始化）
 var current_velocity
 #当前刀片数量（初始值为 0）
@@ -31,11 +33,13 @@ signal attack_signal
 var attack_timer_delta=attack_timer
 func _ready():
 	current_velocity = bullet_velocity
+	original_bullet_velocity = bullet_velocity
 func _process(delta):
 	attack_timer_delta -= delta * operating_speed
 	if attack_timer_delta <= 0:
-		attack_timer_delta += attack_timer#更精确
+		attack_timer_delta = attack_timer#更精确
 		attack()
+		print("attack_timer",str(attack_timer))
 		
 	#处理死亡
 	if health <= 0:
@@ -48,9 +52,10 @@ func attack():
 	var bullet = bullet_type.instantiate()
 	bullet.position = Vector2(0,0) + bullet_position
 	bullet.bullet_operating_speed = bullet_operating_speed
+	current_velocity = bullet_velocity
+	print()
 	bullet.bullet_velocity = Vector2(600, 0) + current_velocity
-	#if face_foward == false:
-		#bullet.bullet_velocity = -bullet.bullet_velocity
+	print("current_velocity",str(current_velocity))
 	bullet.bullet_damage = attack_damage
 	bullet.bullet_durable = bullet_durable
 	add_child(bullet)
@@ -59,7 +64,7 @@ func attack():
 func 攻击回调():
 	pass#子类覆写
 func bullet_velocity_reset():
-	bullet_velocity = bullet_velocity
+	bullet_velocity = original_bullet_velocity
 	pass
 func die():
 	deadrattle()

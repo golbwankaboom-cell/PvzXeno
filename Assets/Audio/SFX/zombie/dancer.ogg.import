@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dv63axlftklwv"
-path="res://.godot/imported/dancer.ogg-ef5581fafe26ea787a79190f5f33dc1c.oggvorbisstr"
+path="res://.godot/imported/dancer.ogg-899f4f74eff2df72f04b69c6ba1ffeb6.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/zombie/dancer.ogg"
-dest_files=["res://.godot/imported/dancer.ogg-ef5581fafe26ea787a79190f5f33dc1c.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/zombie/dancer.ogg"
+dest_files=["res://.godot/imported/dancer.ogg-899f4f74eff2df72f04b69c6ba1ffeb6.oggvorbisstr"]
 
 [params]
 

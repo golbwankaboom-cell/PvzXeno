@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://boh05go0jrax1"
-path="res://.godot/imported/SunShroom_blink2.png-70e01c3a667af5706ac015478c906161.ctex"
+path="res://.godot/imported/SunShroom_blink2.png-9b68ee6aea40a5252bacaffdc3d02a38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SunShroom_blink2.png"
-dest_files=["res://.godot/imported/SunShroom_blink2.png-70e01c3a667af5706ac015478c906161.ctex"]
+source_file="res://Assets/reanim/SunShroom_blink2.png"
+dest_files=["res://.godot/imported/SunShroom_blink2.png-9b68ee6aea40a5252bacaffdc3d02a38.ctex"]
 
 [params]
 

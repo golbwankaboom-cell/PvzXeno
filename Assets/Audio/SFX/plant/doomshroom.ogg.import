@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://vbi0w1o1pusl"
-path="res://.godot/imported/doomshroom.ogg-13189d86f837320b6f61763948869ad3.oggvorbisstr"
+path="res://.godot/imported/doomshroom.ogg-ec61c14507c2befc47e3ac390ed83fe7.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/plant/doomshroom.ogg"
-dest_files=["res://.godot/imported/doomshroom.ogg-13189d86f837320b6f61763948869ad3.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/plant/doomshroom.ogg"
+dest_files=["res://.godot/imported/doomshroom.ogg-ec61c14507c2befc47e3ac390ed83fe7.oggvorbisstr"]
 
 [params]
 

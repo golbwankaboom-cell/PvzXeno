@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bghbnbh6ri7ep"
-path="res://.godot/imported/Coffeebean_head4.png-ade4030771dd3bb1b7e31802f4aeb5af.ctex"
+path="res://.godot/imported/Coffeebean_head4.png-59b192f6ee62e6239d476e21375b9957.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Coffeebean_head4.png"
-dest_files=["res://.godot/imported/Coffeebean_head4.png-ade4030771dd3bb1b7e31802f4aeb5af.ctex"]
+source_file="res://Assets/reanim/Coffeebean_head4.png"
+dest_files=["res://.godot/imported/Coffeebean_head4.png-59b192f6ee62e6239d476e21375b9957.ctex"]
 
 [params]
 

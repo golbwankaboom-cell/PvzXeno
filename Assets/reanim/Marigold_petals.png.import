@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2ofqcoy13rub"
-path="res://.godot/imported/Marigold_petals.png-a90a6d08a86a44e8043030fa71156399.ctex"
+path="res://.godot/imported/Marigold_petals.png-e1955970988646777738ed99b8087713.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Marigold_petals.png"
-dest_files=["res://.godot/imported/Marigold_petals.png-a90a6d08a86a44e8043030fa71156399.ctex"]
+source_file="res://Assets/reanim/Marigold_petals.png"
+dest_files=["res://.godot/imported/Marigold_petals.png-e1955970988646777738ed99b8087713.ctex"]
 
 [params]
 

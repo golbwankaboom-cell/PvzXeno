@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b618sbh3i83iq"
-path="res://.godot/imported/Zombie_catapult_driver_outerarm_hand.png-29d8e1dc78266969b2278fadb6b4a181.ctex"
+path="res://.godot/imported/Zombie_catapult_driver_outerarm_hand.png-2d7fd6a5e098f6158d5bc33ce37ef86d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_catapult_driver_outerarm_hand.png"
-dest_files=["res://.godot/imported/Zombie_catapult_driver_outerarm_hand.png-29d8e1dc78266969b2278fadb6b4a181.ctex"]
+source_file="res://Assets/reanim/Zombie_catapult_driver_outerarm_hand.png"
+dest_files=["res://.godot/imported/Zombie_catapult_driver_outerarm_hand.png-2d7fd6a5e098f6158d5bc33ce37ef86d.ctex"]
 
 [params]
 

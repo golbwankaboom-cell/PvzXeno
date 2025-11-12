@@ -1,7 +1,7 @@
 extends BulletBase
 
 func _ready():
-	pass
+	print(bullet_velocity)
 
 #实现移动
 func _process(delta):

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b2obgjfqgjshc"
-path="res://.godot/imported/coblaunch.ogg-ba947bf81394cb48c4baeb71cb8daceb.oggvorbisstr"
+path="res://.godot/imported/coblaunch.ogg-156d5b3db66c8a3a55b3f5891685a97d.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/coblaunch.ogg"
-dest_files=["res://.godot/imported/coblaunch.ogg-ba947bf81394cb48c4baeb71cb8daceb.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/coblaunch.ogg"
+dest_files=["res://.godot/imported/coblaunch.ogg-156d5b3db66c8a3a55b3f5891685a97d.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://66geu2ekrjy"
-path="res://.godot/imported/fog.mp3-881a7b46039a7864bfeb9ea36e617ac9.mp3str"
+path="res://.godot/imported/fog.mp3-c9af9377b76556b24da664b78caa33d0.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/BGM/fog.mp3"
-dest_files=["res://.godot/imported/fog.mp3-881a7b46039a7864bfeb9ea36e617ac9.mp3str"]
+source_file="res://Assets/Audio/BGM/fog.mp3"
+dest_files=["res://.godot/imported/fog.mp3-c9af9377b76556b24da664b78caa33d0.mp3str"]
 
 [params]
 

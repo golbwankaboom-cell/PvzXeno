@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cktibggsi1jj"
-path="res://.godot/imported/Jalapeno_stem.png-e72b4194bd6df08ebec1a4be72f33ae2.ctex"
+path="res://.godot/imported/Jalapeno_stem.png-52f49952798ac846d41648c957ebe103.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Jalapeno_stem.png"
-dest_files=["res://.godot/imported/Jalapeno_stem.png-e72b4194bd6df08ebec1a4be72f33ae2.ctex"]
+source_file="res://Assets/reanim/Jalapeno_stem.png"
+dest_files=["res://.godot/imported/Jalapeno_stem.png-52f49952798ac846d41648c957ebe103.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu640o8l16stq"
-path="res://.godot/imported/tree_overlay6.png-654fd479a9f244669e47b611b741c2cd.ctex"
+path="res://.godot/imported/tree_overlay6.png-26fe11b33c58f18025f353df03ad5a81.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/tree_overlay6.png"
-dest_files=["res://.godot/imported/tree_overlay6.png-654fd479a9f244669e47b611b741c2cd.ctex"]
+source_file="res://Assets/reanim/tree_overlay6.png"
+dest_files=["res://.godot/imported/tree_overlay6.png-26fe11b33c58f18025f353df03ad5a81.ctex"]
 
 [params]
 

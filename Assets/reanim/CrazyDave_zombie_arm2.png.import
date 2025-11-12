@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mshs1xnxhmtd"
-path="res://.godot/imported/CrazyDave_zombie_arm2.png-e9249fc96f96b3c783b508a289ca283d.ctex"
+path="res://.godot/imported/CrazyDave_zombie_arm2.png-caabeebce4bf9bf65aeb21a8cfdab618.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/CrazyDave_zombie_arm2.png"
-dest_files=["res://.godot/imported/CrazyDave_zombie_arm2.png-e9249fc96f96b3c783b508a289ca283d.ctex"]
+source_file="res://Assets/reanim/CrazyDave_zombie_arm2.png"
+dest_files=["res://.godot/imported/CrazyDave_zombie_arm2.png-caabeebce4bf9bf65aeb21a8cfdab618.ctex"]
 
 [params]
 

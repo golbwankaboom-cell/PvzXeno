@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt53nuxmtpju1"
-path="res://.godot/imported/Credits_DiscoLights.png-e10c1ef533e574347da161748eb66c51.ctex"
+path="res://.godot/imported/Credits_DiscoLights.png-5c86c2aece7cf280c20224f36221e10d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Credits_DiscoLights.png"
-dest_files=["res://.godot/imported/Credits_DiscoLights.png-e10c1ef533e574347da161748eb66c51.ctex"]
+source_file="res://Assets/reanim/Credits_DiscoLights.png"
+dest_files=["res://.godot/imported/Credits_DiscoLights.png-5c86c2aece7cf280c20224f36221e10d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqo76m4v800ch"
-path="res://.godot/imported/SelectorScreen_WoodSign1_32.png-339cb09b37979f1729c7febe90d91686.ctex"
+path="res://.godot/imported/SelectorScreen_WoodSign1_32.png-966082ab9e825ab4fe15b2c9f0e15a12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/UI/SelectorScreen_WoodSign1_32.png"
-dest_files=["res://.godot/imported/SelectorScreen_WoodSign1_32.png-339cb09b37979f1729c7febe90d91686.ctex"]
+source_file="res://Assets/Images/UI/SelectorScreen_WoodSign1_32.png"
+dest_files=["res://.godot/imported/SelectorScreen_WoodSign1_32.png-966082ab9e825ab4fe15b2c9f0e15a12.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdxru0taei1fn"
-path="res://.godot/imported/Chomper_topjaw.png-219d003b1e05543a783ca1835c372449.ctex"
+path="res://.godot/imported/Chomper_topjaw.png-b8dc3dc8e753abea0beb44393c57b9f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Chomper_topjaw.png"
-dest_files=["res://.godot/imported/Chomper_topjaw.png-219d003b1e05543a783ca1835c372449.ctex"]
+source_file="res://Assets/reanim/Chomper_topjaw.png"
+dest_files=["res://.godot/imported/Chomper_topjaw.png-b8dc3dc8e753abea0beb44393c57b9f1.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://cra43htuprgvi"
-path="res://.godot/imported/SelectorScreen_Store_Mask.png-0762347924e95db7f74b5272c1f84e63.res"
+path="res://.godot/imported/SelectorScreen_Store_Mask.png-c364f57ce631793ce174fe22903660fa.res"
 
 [deps]
 
-source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_Store_Mask.png"
-dest_files=["res://.godot/imported/SelectorScreen_Store_Mask.png-0762347924e95db7f74b5272c1f84e63.res"]
+source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_Store_Mask.png"
+dest_files=["res://.godot/imported/SelectorScreen_Store_Mask.png-c364f57ce631793ce174fe22903660fa.res"]
 
 [params]
 

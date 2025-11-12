@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8vx2ofdkuiyn"
-path="res://.godot/imported/pool_night.jpg-e565bb109c4ced4311f3f8825b171ca3.ctex"
+path="res://.godot/imported/pool_night.jpg-08b50ad1c1241053c62fc80874f5ae7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/image/background/pool_night.jpg"
-dest_files=["res://.godot/imported/pool_night.jpg-e565bb109c4ced4311f3f8825b171ca3.ctex"]
+source_file="res://Assets/image/background/pool_night.jpg"
+dest_files=["res://.godot/imported/pool_night.jpg-08b50ad1c1241053c62fc80874f5ae7f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqgpbjg4rxrav"
-path="res://.godot/imported/Zombie_snorkle_body2.png-d5b4ad94ea68ecaa7cc75ef3e1a0fb72.ctex"
+path="res://.godot/imported/Zombie_snorkle_body2.png-076dea25b77ed4112a00128dc2084cf2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_snorkle_body2.png"
-dest_files=["res://.godot/imported/Zombie_snorkle_body2.png-d5b4ad94ea68ecaa7cc75ef3e1a0fb72.ctex"]
+source_file="res://Assets/reanim/Zombie_snorkle_body2.png"
+dest_files=["res://.godot/imported/Zombie_snorkle_body2.png-076dea25b77ed4112a00128dc2084cf2.ctex"]
 
 [params]
 

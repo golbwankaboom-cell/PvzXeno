@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du7oo4nli6r46"
-path="res://.godot/imported/Zombie_digger_innerarm_lower.png-685a5fc494736a3c8d4e5cec1b0e5728.ctex"
+path="res://.godot/imported/Zombie_digger_innerarm_lower.png-04f30243f848f174942a82462d984cf5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/Zombie_digger_innerarm_lower.png"
-dest_files=["res://.godot/imported/Zombie_digger_innerarm_lower.png-685a5fc494736a3c8d4e5cec1b0e5728.ctex"]
+source_file="res://Assets/reanim/Zombie_digger_innerarm_lower.png"
+dest_files=["res://.godot/imported/Zombie_digger_innerarm_lower.png-04f30243f848f174942a82462d984cf5.ctex"]
 
 [params]
 

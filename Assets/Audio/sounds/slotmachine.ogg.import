@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://qonqicqwoxps"
-path="res://.godot/imported/slotmachine.ogg-fdd2dd5ea5f37a1e3411ab4cc99d018b.oggvorbisstr"
+path="res://.godot/imported/slotmachine.ogg-82713424479e560f6b21437b8077dc29.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/sounds/slotmachine.ogg"
-dest_files=["res://.godot/imported/slotmachine.ogg-fdd2dd5ea5f37a1e3411ab4cc99d018b.oggvorbisstr"]
+source_file="res://Assets/Audio/sounds/slotmachine.ogg"
+dest_files=["res://.godot/imported/slotmachine.ogg-82713424479e560f6b21437b8077dc29.oggvorbisstr"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://b2a3jlb50wle3"
-path="res://.godot/imported/UltimateBattle1.mp3-af4d9cad7c9d634bc666c7501ab21055.mp3str"
+path="res://.godot/imported/UltimateBattle1.mp3-fa8a83653ae27c0f6e87f960d48ef5f6.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/Music/UltimateBattle1.mp3"
-dest_files=["res://.godot/imported/UltimateBattle1.mp3-af4d9cad7c9d634bc666c7501ab21055.mp3str"]
+source_file="res://Assets/Audio/Music/UltimateBattle1.mp3"
+dest_files=["res://.godot/imported/UltimateBattle1.mp3-fa8a83653ae27c0f6e87f960d48ef5f6.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://c8jj1n3uhr2ky"
-path="res://.godot/imported/BranicManic.mp3-e56301cf6cf605ab991fce9eae8183eb.mp3str"
+path="res://.godot/imported/BranicManic.mp3-16a584a6f112e081599fb39ad225e724.mp3str"
 
 [deps]
 
-source_file="res://assets/Audio/Music/BranicManic.mp3"
-dest_files=["res://.godot/imported/BranicManic.mp3-e56301cf6cf605ab991fce9eae8183eb.mp3str"]
+source_file="res://Assets/Audio/Music/BranicManic.mp3"
+dest_files=["res://.godot/imported/BranicManic.mp3-16a584a6f112e081599fb39ad225e724.mp3str"]
 
 [params]
 

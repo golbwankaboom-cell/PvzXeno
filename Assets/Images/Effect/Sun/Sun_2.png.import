@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://j7whaockjvcw"
-path="res://.godot/imported/Sun_2.png-f05ae35a266230dfcb768bce559f91fb.ctex"
+path="res://.godot/imported/Sun_2.png-4bf1ae36c57af0459b34a3921def6828.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/Effect/Sun/Sun_2.png"
-dest_files=["res://.godot/imported/Sun_2.png-f05ae35a266230dfcb768bce559f91fb.ctex"]
+source_file="res://Assets/Images/Effect/Sun/Sun_2.png"
+dest_files=["res://.godot/imported/Sun_2.png-4bf1ae36c57af0459b34a3921def6828.ctex"]
 
 [params]
 

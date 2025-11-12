@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d1c5c5a361hmo"
-path="res://.godot/imported/bleep.ogg-9a34652a8a74153bb105fc29256455e0.oggvorbisstr"
+path="res://.godot/imported/bleep.ogg-3bc6221b2e05407b6fa065216fafc0e5.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Audio/SFX/button/bleep.ogg"
-dest_files=["res://.godot/imported/bleep.ogg-9a34652a8a74153bb105fc29256455e0.oggvorbisstr"]
+source_file="res://Assets/Audio/SFX/button/bleep.ogg"
+dest_files=["res://.godot/imported/bleep.ogg-3bc6221b2e05407b6fa065216fafc0e5.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djckbtre6csg1"
-path="res://.godot/imported/SnowPea_crystals3.png-49c22c1894a68e76870df206eba03544.ctex"
+path="res://.godot/imported/SnowPea_crystals3.png-afa3ca7b1bcfcf90c4af99091cef136b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SnowPea_crystals3.png"
-dest_files=["res://.godot/imported/SnowPea_crystals3.png-49c22c1894a68e76870df206eba03544.ctex"]
+source_file="res://Assets/reanim/SnowPea_crystals3.png"
+dest_files=["res://.godot/imported/SnowPea_crystals3.png-afa3ca7b1bcfcf90c4af99091cef136b.ctex"]
 
 [params]
 

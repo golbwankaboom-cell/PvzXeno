@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://beb7vufa7nuw"
-path="res://.godot/imported/SlotMachine_shaft.png-5035e58a11f787993956257705f52317.ctex"
+path="res://.godot/imported/SlotMachine_shaft.png-a72628755e24bfb49b8207608be4cf3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/SlotMachine_shaft.png"
-dest_files=["res://.godot/imported/SlotMachine_shaft.png-5035e58a11f787993956257705f52317.ctex"]
+source_file="res://Assets/reanim/SlotMachine_shaft.png"
+dest_files=["res://.godot/imported/SlotMachine_shaft.png-a72628755e24bfb49b8207608be4cf3b.ctex"]
 
 [params]
 

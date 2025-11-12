@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btpk6d2tn2ros"
-path="res://.godot/imported/FlagZombieLostHeadAttack_1.png-5ae7fc26aa712136fbf3339df7eedd35.ctex"
+path="res://.godot/imported/FlagZombieLostHeadAttack_1.png-3fd074c019ab5567ff9dcad484ab90b7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/Zombies/FlagZombie/FlagZombieLostHeadAttack_1.png"
-dest_files=["res://.godot/imported/FlagZombieLostHeadAttack_1.png-5ae7fc26aa712136fbf3339df7eedd35.ctex"]
+source_file="res://Assets/Images/Zombies/FlagZombie/FlagZombieLostHeadAttack_1.png"
+dest_files=["res://.godot/imported/FlagZombieLostHeadAttack_1.png-3fd074c019ab5567ff9dcad484ab90b7.ctex"]
 
 [params]
 

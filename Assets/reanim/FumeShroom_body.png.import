@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5v5vannbipgc"
-path="res://.godot/imported/FumeShroom_body.png-5a4a209ba25a506f92d220efc9f2ada6.ctex"
+path="res://.godot/imported/FumeShroom_body.png-c851ead17b06788459102c69bcc90080.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/reanim/FumeShroom_body.png"
-dest_files=["res://.godot/imported/FumeShroom_body.png-5a4a209ba25a506f92d220efc9f2ada6.ctex"]
+source_file="res://Assets/reanim/FumeShroom_body.png"
+dest_files=["res://.godot/imported/FumeShroom_body.png-c851ead17b06788459102c69bcc90080.ctex"]
 
 [params]
 
