@@ -26,10 +26,11 @@ var current_blade_amount = 0
 #攻击信号（可用于触发攻击相关逻辑）
 signal attack_signal
 
-var attack_timer_delta=attack_timer
+var attack_timer_delta : float
 func _ready():
 	#current_velocity = bullet_velocity
 	original_bullet_velocity = bullet_velocity
+	attack_timer_delta = attack_timer
 func _process(delta):
 	attack_timer_delta -= delta * operating_speed
 	if attack_timer_delta <= 0:
