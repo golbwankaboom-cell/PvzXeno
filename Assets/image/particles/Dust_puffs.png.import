@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c04kqfnpty5wx"
-path="res://.godot/imported/Dust_puffs.png-98c0b17a42aff8aeebefb644c6cdf848.ctex"
+path="res://.godot/imported/Dust_puffs.png-131cc33389450047d9a36a8c1b34698e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/particles/Dust_puffs.png"
-dest_files=["res://.godot/imported/Dust_puffs.png-98c0b17a42aff8aeebefb644c6cdf848.ctex"]
+source_file="res://assets/image/particles/Dust_puffs.png"
+dest_files=["res://.godot/imported/Dust_puffs.png-131cc33389450047d9a36a8c1b34698e.ctex"]
 
 [params]
 

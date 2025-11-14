@@ -6,12 +6,7 @@ var plant_card_scene:plant_card## 变量用于内部加载
 ## 植物插件：为植物基类提供额外能力的组件,后续开发
 #var plant_blade_scene
 
-##暂时先存内部后续可以放到固定位置
-var 文件路径="res://Scenes/Plants/plant_scene/"
-var 植物场景={
-	"peashooter":"plant_001_pea_shooter_single.tscn",#豌豆射手
-	"sunflower":"plant_002_sun_flower.tscn"#向日葵
-	}
+
 ## 植物卡片数组
 var plant_card_array: Array[plant_card]
 ## 植物出战卡片存档(传入)

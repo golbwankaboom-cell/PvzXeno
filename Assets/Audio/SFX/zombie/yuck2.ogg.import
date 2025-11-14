@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://0uhmv6sqghkr"
-path="res://.godot/imported/yuck2.ogg-a5330f6c5a54d83806f33c4df62e720c.oggvorbisstr"
+path="res://.godot/imported/yuck2.ogg-93bd4f4577ac8b4ea36ea5b49ff9ea2f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/zombie/yuck2.ogg"
-dest_files=["res://.godot/imported/yuck2.ogg-a5330f6c5a54d83806f33c4df62e720c.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/zombie/yuck2.ogg"
+dest_files=["res://.godot/imported/yuck2.ogg-93bd4f4577ac8b4ea36ea5b49ff9ea2f.oggvorbisstr"]
 
 [params]
 

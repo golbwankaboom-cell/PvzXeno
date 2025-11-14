@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqmowk1vsaav4"
-path="res://.godot/imported/options_sliderslot.png-a8be9e57dc2b8305a72240b576616ff5.ctex"
+path="res://.godot/imported/options_sliderslot.png-576c78f6e739054c36b955e9e4bfba41.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/options_sliderslot.png"
-dest_files=["res://.godot/imported/options_sliderslot.png-a8be9e57dc2b8305a72240b576616ff5.ctex"]
+source_file="res://assets/Images/UI/options_sliderslot.png"
+dest_files=["res://.godot/imported/options_sliderslot.png-576c78f6e739054c36b955e9e4bfba41.ctex"]
 
 [params]
 

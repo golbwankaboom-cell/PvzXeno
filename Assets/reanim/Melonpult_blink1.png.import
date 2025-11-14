@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b545xxdmuws6t"
-path="res://.godot/imported/Melonpult_blink1.png-93dc1aa6fbf2bdf5adb126b2f080160c.ctex"
+path="res://.godot/imported/Melonpult_blink1.png-715bc146ac57059be58d66236a195a1d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Melonpult_blink1.png"
-dest_files=["res://.godot/imported/Melonpult_blink1.png-93dc1aa6fbf2bdf5adb126b2f080160c.ctex"]
+source_file="res://assets/reanim/Melonpult_blink1.png"
+dest_files=["res://.godot/imported/Melonpult_blink1.png-715bc146ac57059be58d66236a195a1d.ctex"]
 
 [params]
 

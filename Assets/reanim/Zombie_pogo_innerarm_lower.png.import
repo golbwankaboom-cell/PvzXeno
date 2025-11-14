@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4vbh746dhyol"
-path="res://.godot/imported/Zombie_pogo_innerarm_lower.png-0457388cfa001a065727619cd7178cf5.ctex"
+path="res://.godot/imported/Zombie_pogo_innerarm_lower.png-e577aa97913f395c94c5d9be93d9243e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_pogo_innerarm_lower.png"
-dest_files=["res://.godot/imported/Zombie_pogo_innerarm_lower.png-0457388cfa001a065727619cd7178cf5.ctex"]
+source_file="res://assets/reanim/Zombie_pogo_innerarm_lower.png"
+dest_files=["res://.godot/imported/Zombie_pogo_innerarm_lower.png-e577aa97913f395c94c5d9be93d9243e.ctex"]
 
 [params]
 

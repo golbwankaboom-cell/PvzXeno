@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://83oaguyx40ml"
-path="res://.godot/imported/APPROACHING.png-e264e6d095cfd7ae2e4fcf2d62ca78b9.ctex"
+path="res://.godot/imported/APPROACHING.png-9bdeab0034cd836efd78d9159d24e1e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/APPROACHING.png"
-dest_files=["res://.godot/imported/APPROACHING.png-e264e6d095cfd7ae2e4fcf2d62ca78b9.ctex"]
+source_file="res://assets/reanim/APPROACHING.png"
+dest_files=["res://.godot/imported/APPROACHING.png-9bdeab0034cd836efd78d9159d24e1e0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2snv65tl4xk6"
-path="res://.godot/imported/Magnetshroom_stemcap_overlay.png-5b3c8921a23de613ef0c7022571ece89.ctex"
+path="res://.godot/imported/Magnetshroom_stemcap_overlay.png-631bfff3a5bf00847e8eea584bd73129.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Magnetshroom_stemcap_overlay.png"
-dest_files=["res://.godot/imported/Magnetshroom_stemcap_overlay.png-5b3c8921a23de613ef0c7022571ece89.ctex"]
+source_file="res://assets/reanim/Magnetshroom_stemcap_overlay.png"
+dest_files=["res://.godot/imported/Magnetshroom_stemcap_overlay.png-631bfff3a5bf00847e8eea584bd73129.ctex"]
 
 [params]
 

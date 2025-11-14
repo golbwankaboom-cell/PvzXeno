@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kbdtee3eownm"
-path="res://.godot/imported/RoofCleaner_wheel.png-ff012f818f8eb9686a381b05a2d6033a.ctex"
+path="res://.godot/imported/RoofCleaner_wheel.png-925902204906f4cf7057b45783281070.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/RoofCleaner_wheel.png"
-dest_files=["res://.godot/imported/RoofCleaner_wheel.png-ff012f818f8eb9686a381b05a2d6033a.ctex"]
+source_file="res://assets/reanim/RoofCleaner_wheel.png"
+dest_files=["res://.godot/imported/RoofCleaner_wheel.png-925902204906f4cf7057b45783281070.ctex"]
 
 [params]
 

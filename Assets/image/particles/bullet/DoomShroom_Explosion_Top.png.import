@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lr726nfj8o4l"
-path="res://.godot/imported/DoomShroom_Explosion_Top.png-eb4fd91e943fd2fa67395287a4590829.ctex"
+path="res://.godot/imported/DoomShroom_Explosion_Top.png-b73f105c4ca72b1c063c36c5f9ffa16c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/particles/bullet/DoomShroom_Explosion_Top.png"
-dest_files=["res://.godot/imported/DoomShroom_Explosion_Top.png-eb4fd91e943fd2fa67395287a4590829.ctex"]
+source_file="res://assets/image/particles/bullet/DoomShroom_Explosion_Top.png"
+dest_files=["res://.godot/imported/DoomShroom_Explosion_Top.png-b73f105c4ca72b1c063c36c5f9ffa16c.ctex"]
 
 [params]
 

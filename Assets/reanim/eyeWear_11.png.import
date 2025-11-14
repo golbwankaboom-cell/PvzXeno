@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gg7cjncxai8o"
-path="res://.godot/imported/eyeWear_11.png-cda9189326a78e43da65b34f629ac918.ctex"
+path="res://.godot/imported/eyeWear_11.png-2dbcd9cfa7102a55286b0e659be83613.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/eyeWear_11.png"
-dest_files=["res://.godot/imported/eyeWear_11.png-cda9189326a78e43da65b34f629ac918.ctex"]
+source_file="res://assets/reanim/eyeWear_11.png"
+dest_files=["res://.godot/imported/eyeWear_11.png-2dbcd9cfa7102a55286b0e659be83613.ctex"]
 
 [params]
 

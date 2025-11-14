@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chjakwpcvn1n4"
-path="res://.godot/imported/Zombie_catapult_basket.png-565a749cef6669ea02af13375f0e810c.ctex"
+path="res://.godot/imported/Zombie_catapult_basket.png-cd0d343ada76ee7d77b782d894eda43c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_catapult_basket.png"
-dest_files=["res://.godot/imported/Zombie_catapult_basket.png-565a749cef6669ea02af13375f0e810c.ctex"]
+source_file="res://assets/reanim/Zombie_catapult_basket.png"
+dest_files=["res://.godot/imported/Zombie_catapult_basket.png-cd0d343ada76ee7d77b782d894eda43c.ctex"]
 
 [params]
 

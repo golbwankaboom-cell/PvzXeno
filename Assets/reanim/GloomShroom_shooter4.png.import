@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crtc0e5ars06p"
-path="res://.godot/imported/GloomShroom_shooter4.png-1fc6dd8e1c19f2aec7468a8006655190.ctex"
+path="res://.godot/imported/GloomShroom_shooter4.png-b406bce86b7e0defda4526bc95c35de8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/GloomShroom_shooter4.png"
-dest_files=["res://.godot/imported/GloomShroom_shooter4.png-1fc6dd8e1c19f2aec7468a8006655190.ctex"]
+source_file="res://assets/reanim/GloomShroom_shooter4.png"
+dest_files=["res://.godot/imported/GloomShroom_shooter4.png-b406bce86b7e0defda4526bc95c35de8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://r82fyw3sptg"
-path="res://.godot/imported/Pumpkin_back.png-0a2184434a3ad13ff8cbd61a248a05d5.ctex"
+path="res://.godot/imported/Pumpkin_back.png-1ffebb32ae2c99a9b5e0f29b9ca27937.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Pumpkin_back.png"
-dest_files=["res://.godot/imported/Pumpkin_back.png-0a2184434a3ad13ff8cbd61a248a05d5.ctex"]
+source_file="res://assets/reanim/Pumpkin_back.png"
+dest_files=["res://.godot/imported/Pumpkin_back.png-1ffebb32ae2c99a9b5e0f29b9ca27937.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b28mg0k3ysxpf"
-path="res://.godot/imported/tree8.jpg-bee090e74552a4bc149b75671433de23.ctex"
+path="res://.godot/imported/tree8.jpg-bc6e5a537a490febe0bfe858d41f353e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/tree8.jpg"
-dest_files=["res://.godot/imported/tree8.jpg-bee090e74552a4bc149b75671433de23.ctex"]
+source_file="res://assets/reanim/tree8.jpg"
+dest_files=["res://.godot/imported/tree8.jpg-bc6e5a537a490febe0bfe858d41f353e.ctex"]
 
 [params]
 

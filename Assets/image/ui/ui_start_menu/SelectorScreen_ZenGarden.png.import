@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ccx3fdicdur3a"
-path="res://.godot/imported/SelectorScreen_ZenGarden.png-600a1992b811de7f5d6029363ffac77f.ctex"
+path="res://.godot/imported/SelectorScreen_ZenGarden.png-4a3ed1dd244b1ad3cebafd09fa4cc16a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_ZenGarden.png"
-dest_files=["res://.godot/imported/SelectorScreen_ZenGarden.png-600a1992b811de7f5d6029363ffac77f.ctex"]
+source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_ZenGarden.png"
+dest_files=["res://.godot/imported/SelectorScreen_ZenGarden.png-4a3ed1dd244b1ad3cebafd09fa4cc16a.ctex"]
 
 [params]
 

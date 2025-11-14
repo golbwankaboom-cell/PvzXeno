@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jqmhr5l4eymh"
-path="res://.godot/imported/SelectorScreenChallenges_32.png-acac22d08eb6b2f553376452e2859b0d.ctex"
+path="res://.godot/imported/SelectorScreenChallenges_32.png-652614daf83fcb9325addd3a7b8c54e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Images/UI/SelectorScreenChallenges_32.png"
-dest_files=["res://.godot/imported/SelectorScreenChallenges_32.png-acac22d08eb6b2f553376452e2859b0d.ctex"]
+source_file="res://assets/Images/UI/SelectorScreenChallenges_32.png"
+dest_files=["res://.godot/imported/SelectorScreenChallenges_32.png-652614daf83fcb9325addd3a7b8c54e7.ctex"]
 
 [params]
 

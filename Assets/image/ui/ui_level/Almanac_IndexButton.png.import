@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfpyrdrhiace5"
-path="res://.godot/imported/Almanac_IndexButton.png-9fb56e51860260a15e0f0c5e5aa737d6.ctex"
+path="res://.godot/imported/Almanac_IndexButton.png-f7d7c4ab6dbb00f9eca87bf23fe32df7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_level/Almanac_IndexButton.png"
-dest_files=["res://.godot/imported/Almanac_IndexButton.png-9fb56e51860260a15e0f0c5e5aa737d6.ctex"]
+source_file="res://assets/image/ui/ui_level/Almanac_IndexButton.png"
+dest_files=["res://.godot/imported/Almanac_IndexButton.png-f7d7c4ab6dbb00f9eca87bf23fe32df7.ctex"]
 
 [params]
 

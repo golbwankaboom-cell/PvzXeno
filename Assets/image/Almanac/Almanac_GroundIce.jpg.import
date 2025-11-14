@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vl4pcvtx0fe2"
-path="res://.godot/imported/Almanac_GroundIce.jpg-e580a19dab7774a73a0542eb4712c4be.ctex"
+path="res://.godot/imported/Almanac_GroundIce.jpg-0524aef2f1d591347ff0ec1383d19f93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/Almanac/Almanac_GroundIce.jpg"
-dest_files=["res://.godot/imported/Almanac_GroundIce.jpg-e580a19dab7774a73a0542eb4712c4be.ctex"]
+source_file="res://assets/image/Almanac/Almanac_GroundIce.jpg"
+dest_files=["res://.godot/imported/Almanac_GroundIce.jpg-0524aef2f1d591347ff0ec1383d19f93.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpyjy2uwlppeh"
-path="res://.godot/imported/CobCannon_blink2.png-5ba9c46aba7919f8aee825ddbd8bfc85.ctex"
+path="res://.godot/imported/CobCannon_blink2.png-0d56a6015784bbfa09994c197feae693.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CobCannon_blink2.png"
-dest_files=["res://.godot/imported/CobCannon_blink2.png-5ba9c46aba7919f8aee825ddbd8bfc85.ctex"]
+source_file="res://assets/reanim/CobCannon_blink2.png"
+dest_files=["res://.godot/imported/CobCannon_blink2.png-0d56a6015784bbfa09994c197feae693.ctex"]
 
 [params]
 

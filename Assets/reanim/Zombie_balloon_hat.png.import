@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://47l5l3b3e50s"
-path="res://.godot/imported/Zombie_balloon_hat.png-8931364f876d63cd1c89c600fe10960c.ctex"
+path="res://.godot/imported/Zombie_balloon_hat.png-869f71d40ad0ce9b69b50b74d48f451e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_balloon_hat.png"
-dest_files=["res://.godot/imported/Zombie_balloon_hat.png-8931364f876d63cd1c89c600fe10960c.ctex"]
+source_file="res://assets/reanim/Zombie_balloon_hat.png"
+dest_files=["res://.godot/imported/Zombie_balloon_hat.png-869f71d40ad0ce9b69b50b74d48f451e.ctex"]
 
 [params]
 

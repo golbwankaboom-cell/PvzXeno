@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://db5qju8swnl8"
-path="res://.godot/imported/Zombie_bobsled_newhead.png-3e6f7851c3444d2a064c746d850f5bfa.ctex"
+path="res://.godot/imported/Zombie_bobsled_newhead.png-40c15d15bd0f4784baca2e4ef71d7c74.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_bobsled_newhead.png"
-dest_files=["res://.godot/imported/Zombie_bobsled_newhead.png-3e6f7851c3444d2a064c746d850f5bfa.ctex"]
+source_file="res://assets/reanim/Zombie_bobsled_newhead.png"
+dest_files=["res://.godot/imported/Zombie_bobsled_newhead.png-40c15d15bd0f4784baca2e4ef71d7c74.ctex"]
 
 [params]
 

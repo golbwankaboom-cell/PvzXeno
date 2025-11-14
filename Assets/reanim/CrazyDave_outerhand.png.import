@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4i3pgitwuu4h"
-path="res://.godot/imported/CrazyDave_outerhand.png-1de2de2ccb2980215178ac8ab275b8a4.ctex"
+path="res://.godot/imported/CrazyDave_outerhand.png-6cae185eebcafb6fd07577e26bafbba3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CrazyDave_outerhand.png"
-dest_files=["res://.godot/imported/CrazyDave_outerhand.png-1de2de2ccb2980215178ac8ab275b8a4.ctex"]
+source_file="res://assets/reanim/CrazyDave_outerhand.png"
+dest_files=["res://.godot/imported/CrazyDave_outerhand.png-6cae185eebcafb6fd07577e26bafbba3.ctex"]
 
 [params]
 

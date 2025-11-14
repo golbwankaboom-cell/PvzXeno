@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnwwtx66naab1"
-path="res://.godot/imported/Challenge_Window.png-8d1897854fca3388b95fd351fa77afc0.ctex"
+path="res://.godot/imported/Challenge_Window.png-62f6292ef1ee020c563374222bf3574a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_challenge/Challenge_Window.png"
-dest_files=["res://.godot/imported/Challenge_Window.png-8d1897854fca3388b95fd351fa77afc0.ctex"]
+source_file="res://assets/image/ui/ui_challenge/Challenge_Window.png"
+dest_files=["res://.godot/imported/Challenge_Window.png-62f6292ef1ee020c563374222bf3574a.ctex"]
 
 [params]
 

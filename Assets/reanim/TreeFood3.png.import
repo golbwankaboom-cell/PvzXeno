@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtag1ml8g8rhq"
-path="res://.godot/imported/TreeFood3.png-b7d98714d760a0794426c0fdbe5753aa.ctex"
+path="res://.godot/imported/TreeFood3.png-7a94a8548370fbee67e33fbe574d7c0f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/TreeFood3.png"
-dest_files=["res://.godot/imported/TreeFood3.png-b7d98714d760a0794426c0fdbe5753aa.ctex"]
+source_file="res://assets/reanim/TreeFood3.png"
+dest_files=["res://.godot/imported/TreeFood3.png-7a94a8548370fbee67e33fbe574d7c0f.ctex"]
 
 [params]
 

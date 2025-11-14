@@ -1,3 +1,4 @@
+##子弹管理器 BulletManager
 extends Node
 var bullet_pea = preload("res://Scenes/Bullet/bullet_pea.tscn")
 var bullet_sun = preload("res://Scenes/Bullet/bullet_sun.tscn")

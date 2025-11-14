@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://duxyx8im0b4ol"
-path="res://.godot/imported/ZenGarden.mp3-a77b473e1d55fdb8b47c98f848ec752b.mp3str"
+path="res://.godot/imported/ZenGarden.mp3-8cef9fcf149dc9ec176dbea6c60be1a3.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/Music/ZenGarden.mp3"
-dest_files=["res://.godot/imported/ZenGarden.mp3-a77b473e1d55fdb8b47c98f848ec752b.mp3str"]
+source_file="res://assets/Audio/Music/ZenGarden.mp3"
+dest_files=["res://.godot/imported/ZenGarden.mp3-8cef9fcf149dc9ec176dbea6c60be1a3.mp3str"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://b8qhg0rrmy4tn"
-path="res://.godot/imported/firepea.ogg-51bba41cc3ea8d9c70ea05ad46681085.oggvorbisstr"
+path="res://.godot/imported/firepea.ogg-ad7d005148b4c94197ca942fb12ccc89.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/bullet/firepea.ogg"
-dest_files=["res://.godot/imported/firepea.ogg-51bba41cc3ea8d9c70ea05ad46681085.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/bullet/firepea.ogg"
+dest_files=["res://.godot/imported/firepea.ogg-ad7d005148b4c94197ca942fb12ccc89.oggvorbisstr"]
 
 [params]
 

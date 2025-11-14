@@ -3,12 +3,12 @@
 importer="bitmap"
 type="BitMap"
 uid="uid://dwmqa1jat0u0y"
-path="res://.godot/imported/coin_silver_dollar_mask.png-d98483f12f161244b322b0c11c0c57c6.res"
+path="res://.godot/imported/coin_silver_dollar_mask.png-478a4006a17be7692bd0ad650c749bdc.res"
 
 [deps]
 
-source_file="res://Assets/reanim/coin_silver_dollar_mask.png"
-dest_files=["res://.godot/imported/coin_silver_dollar_mask.png-d98483f12f161244b322b0c11c0c57c6.res"]
+source_file="res://assets/reanim/coin_silver_dollar_mask.png"
+dest_files=["res://.godot/imported/coin_silver_dollar_mask.png-478a4006a17be7692bd0ad650c749bdc.res"]
 
 [params]
 

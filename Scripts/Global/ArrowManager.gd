@@ -1,3 +1,4 @@
+##光标管理器ArrowManager
 extends Node
 var current_board_position = Vector2(100,100)
 #var control_type = "controller"#"mouse"#取消输入控制限制

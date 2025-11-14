@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5071vbmt6fel"
-path="res://.godot/imported/Credits_plate.png-eeaf40ca67557295375e335ad7452220.ctex"
+path="res://.godot/imported/Credits_plate.png-7615f58a3d95b873662fe30f3b02a766.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Credits_plate.png"
-dest_files=["res://.godot/imported/Credits_plate.png-eeaf40ca67557295375e335ad7452220.ctex"]
+source_file="res://assets/reanim/Credits_plate.png"
+dest_files=["res://.godot/imported/Credits_plate.png-7615f58a3d95b873662fe30f3b02a766.ctex"]
 
 [params]
 

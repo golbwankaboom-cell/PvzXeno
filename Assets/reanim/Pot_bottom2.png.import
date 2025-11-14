@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f685m8vronks"
-path="res://.godot/imported/Pot_bottom2.png-5d870001dca1411a512cdf7b92988eb1.ctex"
+path="res://.godot/imported/Pot_bottom2.png-c96dad95b42fe2bbd8f936603d27e30e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Pot_bottom2.png"
-dest_files=["res://.godot/imported/Pot_bottom2.png-5d870001dca1411a512cdf7b92988eb1.ctex"]
+source_file="res://assets/reanim/Pot_bottom2.png"
+dest_files=["res://.godot/imported/Pot_bottom2.png-c96dad95b42fe2bbd8f936603d27e30e.ctex"]
 
 [params]
 

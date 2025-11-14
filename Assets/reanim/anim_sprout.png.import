@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyyk1hmvx7u05"
-path="res://.godot/imported/anim_sprout.png-7d107b36755dc3c759da23d81c6ad35a.ctex"
+path="res://.godot/imported/anim_sprout.png-6873605e3fee58c81d383bb3a67be183.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/anim_sprout.png"
-dest_files=["res://.godot/imported/anim_sprout.png-7d107b36755dc3c759da23d81c6ad35a.ctex"]
+source_file="res://assets/reanim/anim_sprout.png"
+dest_files=["res://.godot/imported/anim_sprout.png-6873605e3fee58c81d383bb3a67be183.ctex"]
 
 [params]
 

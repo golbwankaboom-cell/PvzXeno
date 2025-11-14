@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gtu25aecitou"
-path="res://.godot/imported/Cactus_body2.png-a984789a5fcf020ca652180b4ac770bb.ctex"
+path="res://.godot/imported/Cactus_body2.png-b3d8902da2fcfae5d6a564aecac269d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Cactus_body2.png"
-dest_files=["res://.godot/imported/Cactus_body2.png-a984789a5fcf020ca652180b4ac770bb.ctex"]
+source_file="res://assets/reanim/Cactus_body2.png"
+dest_files=["res://.godot/imported/Cactus_body2.png-b3d8902da2fcfae5d6a564aecac269d4.ctex"]
 
 [params]
 

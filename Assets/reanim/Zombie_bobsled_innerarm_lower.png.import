@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6e7inu4hdwtl"
-path="res://.godot/imported/Zombie_bobsled_innerarm_lower.png-af743b29293448ce0e95f737684f9d8e.ctex"
+path="res://.godot/imported/Zombie_bobsled_innerarm_lower.png-551195df36a81feee636bcc1c4fce482.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_bobsled_innerarm_lower.png"
-dest_files=["res://.godot/imported/Zombie_bobsled_innerarm_lower.png-af743b29293448ce0e95f737684f9d8e.ctex"]
+source_file="res://assets/reanim/Zombie_bobsled_innerarm_lower.png"
+dest_files=["res://.godot/imported/Zombie_bobsled_innerarm_lower.png-551195df36a81feee636bcc1c4fce482.ctex"]
 
 [params]
 

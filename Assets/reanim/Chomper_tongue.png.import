@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ch8qytdyotlrl"
-path="res://.godot/imported/Chomper_tongue.png-507a9e22e800e53c9bb5de9822046a3d.ctex"
+path="res://.godot/imported/Chomper_tongue.png-65498a1e5626e4d8c2775ee5a47b111d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Chomper_tongue.png"
-dest_files=["res://.godot/imported/Chomper_tongue.png-507a9e22e800e53c9bb5de9822046a3d.ctex"]
+source_file="res://assets/reanim/Chomper_tongue.png"
+dest_files=["res://.godot/imported/Chomper_tongue.png-65498a1e5626e4d8c2775ee5a47b111d.ctex"]
 
 [params]
 

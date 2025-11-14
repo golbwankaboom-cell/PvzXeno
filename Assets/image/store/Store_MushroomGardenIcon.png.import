@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xuwee8l8koxe"
-path="res://.godot/imported/Store_MushroomGardenIcon.png-dc832d9b7244719b40d5b075ab327138.ctex"
+path="res://.godot/imported/Store_MushroomGardenIcon.png-0f4e4155cbe0633540ec5bc21a0793e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/store/Store_MushroomGardenIcon.png"
-dest_files=["res://.godot/imported/Store_MushroomGardenIcon.png-dc832d9b7244719b40d5b075ab327138.ctex"]
+source_file="res://assets/image/store/Store_MushroomGardenIcon.png"
+dest_files=["res://.godot/imported/Store_MushroomGardenIcon.png-0f4e4155cbe0633540ec5bc21a0793e3.ctex"]
 
 [params]
 

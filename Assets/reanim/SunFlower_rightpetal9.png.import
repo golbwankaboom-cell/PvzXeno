@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl82be6txvuxn"
-path="res://.godot/imported/SunFlower_rightpetal9.png-21b33237688b1f76342eaa8578ce0bfe.ctex"
+path="res://.godot/imported/SunFlower_rightpetal9.png-4d1b45e01e5b140db094c11654a5d576.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SunFlower_rightpetal9.png"
-dest_files=["res://.godot/imported/SunFlower_rightpetal9.png-21b33237688b1f76342eaa8578ce0bfe.ctex"]
+source_file="res://assets/reanim/SunFlower_rightpetal9.png"
+dest_files=["res://.godot/imported/SunFlower_rightpetal9.png-4d1b45e01e5b140db094c11654a5d576.ctex"]
 
 [params]
 

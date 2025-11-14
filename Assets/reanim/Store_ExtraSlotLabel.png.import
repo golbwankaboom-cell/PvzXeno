@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c681rp5cf7bsk"
-path="res://.godot/imported/Store_ExtraSlotLabel.png-6c0e8ad744eb6ff7c2b33f66714c1349.ctex"
+path="res://.godot/imported/Store_ExtraSlotLabel.png-85a7aff942e11302d7b71abd32e641b1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Store_ExtraSlotLabel.png"
-dest_files=["res://.godot/imported/Store_ExtraSlotLabel.png-6c0e8ad744eb6ff7c2b33f66714c1349.ctex"]
+source_file="res://assets/reanim/Store_ExtraSlotLabel.png"
+dest_files=["res://.godot/imported/Store_ExtraSlotLabel.png-85a7aff942e11302d7b71abd32e641b1.ctex"]
 
 [params]
 

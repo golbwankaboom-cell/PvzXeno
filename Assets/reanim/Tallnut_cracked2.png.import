@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6a2y7jjdxove"
-path="res://.godot/imported/Tallnut_cracked2.png-7bab51e2fb4473981245563b42682df6.ctex"
+path="res://.godot/imported/Tallnut_cracked2.png-72ada33759f52f308974fa4b4dbc7802.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Tallnut_cracked2.png"
-dest_files=["res://.godot/imported/Tallnut_cracked2.png-7bab51e2fb4473981245563b42682df6.ctex"]
+source_file="res://assets/reanim/Tallnut_cracked2.png"
+dest_files=["res://.godot/imported/Tallnut_cracked2.png-72ada33759f52f308974fa4b4dbc7802.ctex"]
 
 [params]
 

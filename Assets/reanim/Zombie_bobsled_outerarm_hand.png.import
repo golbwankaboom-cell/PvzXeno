@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsmqlevppxh3t"
-path="res://.godot/imported/Zombie_bobsled_outerarm_hand.png-943c87cb5f65d2399a2e67f3d63b7f78.ctex"
+path="res://.godot/imported/Zombie_bobsled_outerarm_hand.png-80ca0f1a189aa50d801d219eb0e761d1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Zombie_bobsled_outerarm_hand.png"
-dest_files=["res://.godot/imported/Zombie_bobsled_outerarm_hand.png-943c87cb5f65d2399a2e67f3d63b7f78.ctex"]
+source_file="res://assets/reanim/Zombie_bobsled_outerarm_hand.png"
+dest_files=["res://.godot/imported/Zombie_bobsled_outerarm_hand.png-80ca0f1a189aa50d801d219eb0e761d1.ctex"]
 
 [params]
 

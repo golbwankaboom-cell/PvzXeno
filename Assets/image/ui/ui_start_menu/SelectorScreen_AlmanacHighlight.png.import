@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2fq50reclr1l"
-path="res://.godot/imported/SelectorScreen_AlmanacHighlight.png-dad0e2ce711f9b4a0210bc628a0050c3.ctex"
+path="res://.godot/imported/SelectorScreen_AlmanacHighlight.png-4326892cacaf9a61989888c946584d8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/ui/ui_start_menu/SelectorScreen_AlmanacHighlight.png"
-dest_files=["res://.godot/imported/SelectorScreen_AlmanacHighlight.png-dad0e2ce711f9b4a0210bc628a0050c3.ctex"]
+source_file="res://assets/image/ui/ui_start_menu/SelectorScreen_AlmanacHighlight.png"
+dest_files=["res://.godot/imported/SelectorScreen_AlmanacHighlight.png-4326892cacaf9a61989888c946584d8d.ctex"]
 
 [params]
 

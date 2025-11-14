@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4utk40vdr681"
-path="res://.godot/imported/CoinGlow.png-2fc01586e6ccdec9460733651910532e.ctex"
+path="res://.godot/imported/CoinGlow.png-b63a0ef7bb1e80bbb8c2c0f3c65f28ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CoinGlow.png"
-dest_files=["res://.godot/imported/CoinGlow.png-2fc01586e6ccdec9460733651910532e.ctex"]
+source_file="res://assets/reanim/CoinGlow.png"
+dest_files=["res://.godot/imported/CoinGlow.png-b63a0ef7bb1e80bbb8c2c0f3c65f28ed.ctex"]
 
 [params]
 

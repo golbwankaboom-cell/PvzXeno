@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btg5xblar4uhd"
-path="res://.godot/imported/LawnMower_wheel2.png-73a7feca4a4467235253aaec4d098920.ctex"
+path="res://.godot/imported/LawnMower_wheel2.png-22dc141400ccb37c31b11e76826016cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/LawnMower_wheel2.png"
-dest_files=["res://.godot/imported/LawnMower_wheel2.png-73a7feca4a4467235253aaec4d098920.ctex"]
+source_file="res://assets/reanim/LawnMower_wheel2.png"
+dest_files=["res://.godot/imported/LawnMower_wheel2.png-22dc141400ccb37c31b11e76826016cf.ctex"]
 
 [params]
 

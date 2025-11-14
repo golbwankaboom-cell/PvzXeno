@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q5wujowspg8i"
-path="res://.godot/imported/SeaShroom_mouth.png-53eddf08eda2a1ae541135be6ff00474.ctex"
+path="res://.godot/imported/SeaShroom_mouth.png-72fa610bd1079fb61054b66c74f59267.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SeaShroom_mouth.png"
-dest_files=["res://.godot/imported/SeaShroom_mouth.png-53eddf08eda2a1ae541135be6ff00474.ctex"]
+source_file="res://assets/reanim/SeaShroom_mouth.png"
+dest_files=["res://.godot/imported/SeaShroom_mouth.png-72fa610bd1079fb61054b66c74f59267.ctex"]
 
 [params]
 

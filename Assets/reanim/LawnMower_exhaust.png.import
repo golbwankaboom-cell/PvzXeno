@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8x8a2do7pbn4"
-path="res://.godot/imported/LawnMower_exhaust.png-e991750447df6c67d19196d882777465.ctex"
+path="res://.godot/imported/LawnMower_exhaust.png-108b923a28581e81f826710e1d0b2011.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/LawnMower_exhaust.png"
-dest_files=["res://.godot/imported/LawnMower_exhaust.png-e991750447df6c67d19196d882777465.ctex"]
+source_file="res://assets/reanim/LawnMower_exhaust.png"
+dest_files=["res://.godot/imported/LawnMower_exhaust.png-108b923a28581e81f826710e1d0b2011.ctex"]
 
 [params]
 

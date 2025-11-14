@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://bhwjr5o1d2cb8"
-path="res://.godot/imported/start_menu_bgm.mp3-72592839402a367f4a0cf89ec6327099.mp3str"
+path="res://.godot/imported/start_menu_bgm.mp3-7178c479905ebb0a030d07e4518d13cd.mp3str"
 
 [deps]
 
-source_file="res://Assets/Audio/BGM/start_menu_bgm.mp3"
-dest_files=["res://.godot/imported/start_menu_bgm.mp3-72592839402a367f4a0cf89ec6327099.mp3str"]
+source_file="res://assets/Audio/BGM/start_menu_bgm.mp3"
+dest_files=["res://.godot/imported/start_menu_bgm.mp3-7178c479905ebb0a030d07e4518d13cd.mp3str"]
 
 [params]
 

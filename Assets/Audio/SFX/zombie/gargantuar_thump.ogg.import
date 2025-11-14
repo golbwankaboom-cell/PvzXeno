@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bgccvfnbfyxv0"
-path="res://.godot/imported/gargantuar_thump.ogg-ce6207a823d53bbc4074113b075e2957.oggvorbisstr"
+path="res://.godot/imported/gargantuar_thump.ogg-c0d33242555896c30a4f95a8a0255cd6.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/SFX/zombie/gargantuar_thump.ogg"
-dest_files=["res://.godot/imported/gargantuar_thump.ogg-ce6207a823d53bbc4074113b075e2957.oggvorbisstr"]
+source_file="res://assets/Audio/SFX/zombie/gargantuar_thump.ogg"
+dest_files=["res://.godot/imported/gargantuar_thump.ogg-c0d33242555896c30a4f95a8a0255cd6.oggvorbisstr"]
 
 [params]
 

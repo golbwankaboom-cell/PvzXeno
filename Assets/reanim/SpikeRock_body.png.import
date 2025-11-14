@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bliq00g5404oc"
-path="res://.godot/imported/SpikeRock_body.png-6f032270911117528a17d82329ef0139.ctex"
+path="res://.godot/imported/SpikeRock_body.png-6b332a7ecc97bac607446656cda9ee95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SpikeRock_body.png"
-dest_files=["res://.godot/imported/SpikeRock_body.png-6f032270911117528a17d82329ef0139.ctex"]
+source_file="res://assets/reanim/SpikeRock_body.png"
+dest_files=["res://.godot/imported/SpikeRock_body.png-6b332a7ecc97bac607446656cda9ee95.ctex"]
 
 [params]
 

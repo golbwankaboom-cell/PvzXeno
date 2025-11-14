@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4apqn7hyt36w"
-path="res://.godot/imported/Magnetshroom_shock1.png-94e097fd5a41813b88e123d98b3e6508.ctex"
+path="res://.godot/imported/Magnetshroom_shock1.png-72aecae95cdbab88907ab3741843172c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/Magnetshroom_shock1.png"
-dest_files=["res://.godot/imported/Magnetshroom_shock1.png-94e097fd5a41813b88e123d98b3e6508.ctex"]
+source_file="res://assets/reanim/Magnetshroom_shock1.png"
+dest_files=["res://.godot/imported/Magnetshroom_shock1.png-72aecae95cdbab88907ab3741843172c.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://228ctb003lc0"
-path="res://.godot/imported/fire7b.png-4a497f963ba6c97e53ecdd321329aed6.ctex"
+path="res://.godot/imported/fire7b.png-1819c3b9462d6057a20be47961a3e0f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/fire7b.png"
-dest_files=["res://.godot/imported/fire7b.png-4a497f963ba6c97e53ecdd321329aed6.ctex"]
+source_file="res://assets/reanim/fire7b.png"
+dest_files=["res://.godot/imported/fire7b.png-1819c3b9462d6057a20be47961a3e0f0.ctex"]
 
 [params]
 

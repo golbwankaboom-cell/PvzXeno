@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4lqo87x72hwx"
-path="res://.godot/imported/Zen_GardenGlove.png-9aad2bfd4dd088d82edf0bb0b8c47019.ctex"
+path="res://.godot/imported/Zen_GardenGlove.png-6f7a4104558574946746fcf2f2f9f5e7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/garden/Zen_GardenGlove.png"
-dest_files=["res://.godot/imported/Zen_GardenGlove.png-9aad2bfd4dd088d82edf0bb0b8c47019.ctex"]
+source_file="res://assets/image/garden/Zen_GardenGlove.png"
+dest_files=["res://.godot/imported/Zen_GardenGlove.png-6f7a4104558574946746fcf2f2f9f5e7.ctex"]
 
 [params]
 

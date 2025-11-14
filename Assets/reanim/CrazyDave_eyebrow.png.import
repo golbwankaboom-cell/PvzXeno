@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wnskai2dy0p"
-path="res://.godot/imported/CrazyDave_eyebrow.png-31e87cc89afe0f1e34c8470fa6b35eb7.ctex"
+path="res://.godot/imported/CrazyDave_eyebrow.png-4868b7954c2daf826a823c49b3b65270.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/CrazyDave_eyebrow.png"
-dest_files=["res://.godot/imported/CrazyDave_eyebrow.png-31e87cc89afe0f1e34c8470fa6b35eb7.ctex"]
+source_file="res://assets/reanim/CrazyDave_eyebrow.png"
+dest_files=["res://.godot/imported/CrazyDave_eyebrow.png-4868b7954c2daf826a823c49b3b65270.ctex"]
 
 [params]
 

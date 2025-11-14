@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4n2vbif57tbw"
-path="res://.godot/imported/BungeeTarget.png-602f5eeabce387980188b97d3ae50418.ctex"
+path="res://.godot/imported/BungeeTarget.png-b0693ba59a912c83853fe9a3776d3dab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/main_game_item/zombie_items/BungeeTarget.png"
-dest_files=["res://.godot/imported/BungeeTarget.png-602f5eeabce387980188b97d3ae50418.ctex"]
+source_file="res://assets/image/main_game_item/zombie_items/BungeeTarget.png"
+dest_files=["res://.godot/imported/BungeeTarget.png-b0693ba59a912c83853fe9a3776d3dab.ctex"]
 
 [params]
 

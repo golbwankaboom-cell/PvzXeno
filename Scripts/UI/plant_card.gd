@@ -8,8 +8,8 @@ var plant_name=""
 ## 植物场景路径：植物场景文件所在的路径标识
 var plant_scene_path:String
 func _ready():
-	if plant_name in code.植物场景:
-		plant_scene_path=code.文件路径+code.植物场景[plant_name]
+	if plant_name in PlantManager.plant_anim:
+		plant_scene_path=PlantManager.anim+PlantManager.plant_anim[plant_name]
 	else :
 		print("报错:缺失植物名称或植物场景不存在:",plant_name)
 	var plant_scene = load(plant_scene_path).instantiate()

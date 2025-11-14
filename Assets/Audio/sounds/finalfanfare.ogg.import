@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dkbbcd2ql6n10"
-path="res://.godot/imported/finalfanfare.ogg-dde16c998d1f60c6e872ba30d6c43a86.oggvorbisstr"
+path="res://.godot/imported/finalfanfare.ogg-327272cc8b385d51de918b17239be27f.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/sounds/finalfanfare.ogg"
-dest_files=["res://.godot/imported/finalfanfare.ogg-dde16c998d1f60c6e872ba30d6c43a86.oggvorbisstr"]
+source_file="res://assets/Audio/sounds/finalfanfare.ogg"
+dest_files=["res://.godot/imported/finalfanfare.ogg-327272cc8b385d51de918b17239be27f.oggvorbisstr"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cnljp6a47ipaf"
-path="res://.godot/imported/SelectorScreen_almanac_key_shadow.png-d06189186fddb3789f2db5dc94b2d472.ctex"
+path="res://.godot/imported/SelectorScreen_almanac_key_shadow.png-67d9f826a667533317d8304e9181d3f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/reanim/SelectorScreen_almanac_key_shadow.png"
-dest_files=["res://.godot/imported/SelectorScreen_almanac_key_shadow.png-d06189186fddb3789f2db5dc94b2d472.ctex"]
+source_file="res://assets/reanim/SelectorScreen_almanac_key_shadow.png"
+dest_files=["res://.godot/imported/SelectorScreen_almanac_key_shadow.png-67d9f826a667533317d8304e9181d3f9.ctex"]
 
 [params]
 

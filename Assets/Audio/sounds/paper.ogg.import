@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://dndhtvbaa6a6q"
-path="res://.godot/imported/paper.ogg-23be0511c61aa120831b062442c45a59.oggvorbisstr"
+path="res://.godot/imported/paper.ogg-32a003b21dcbd39896dd87c1d4d55ccc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Assets/Audio/sounds/paper.ogg"
-dest_files=["res://.godot/imported/paper.ogg-23be0511c61aa120831b062442c45a59.oggvorbisstr"]
+source_file="res://assets/Audio/sounds/paper.ogg"
+dest_files=["res://.godot/imported/paper.ogg-32a003b21dcbd39896dd87c1d4d55ccc.oggvorbisstr"]
 
 [params]
 

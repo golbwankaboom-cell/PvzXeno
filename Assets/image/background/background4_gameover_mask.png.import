@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfpr4h80b1qyx"
-path="res://.godot/imported/background4_gameover_mask.png-a8e45df8a4e208d2763043124d2b4105.ctex"
+path="res://.godot/imported/background4_gameover_mask.png-262ce07d9fa44e9291793fe7d2948b1f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/image/background/background4_gameover_mask.png"
-dest_files=["res://.godot/imported/background4_gameover_mask.png-a8e45df8a4e208d2763043124d2b4105.ctex"]
+source_file="res://assets/image/background/background4_gameover_mask.png"
+dest_files=["res://.godot/imported/background4_gameover_mask.png-262ce07d9fa44e9291793fe7d2948b1f.ctex"]
 
 [params]
 
