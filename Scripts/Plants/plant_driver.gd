@@ -22,11 +22,10 @@ var board_column = 1
 #原始子弹动量
 var original_bullet_velocity
 #当前速度（向量类型，未初始化）
-var current_velocity
+#var current_velocity
 #当前刀片数量（初始值为 0）
 var current_blade_amount = 0
-#随机数（未初始化）
-var rdmnum
+
 #攻击信号（可用于触发攻击相关逻辑）
 signal attack_signal
 
@@ -46,16 +45,15 @@ func _process(delta):
 		die()
 		
 func attack():
-	rdmnum = randi_range(0, 1)
 	emit_signal("attack_signal")
 	#var bullet_position = position
-	var bullet = bullet_type.instantiate()
-	bullet.position = Vector2(0,0) + bullet_position
+	var bullet : BulletBase = bullet_type.instantiate()
+	bullet.position = bullet_position
 	bullet.bullet_operating_speed = bullet_operating_speed
-	current_velocity = bullet_velocity
-	print()
-	bullet.bullet_velocity = Vector2(600, 0) + current_velocity
-	print("current_velocity",str(current_velocity))
+	#current_velocity = bullet_velocity
+	#print()
+	bullet.bullet_velocity = Vector2(600, 0) + bullet_velocity
+	print("current_velocity",str(bullet_velocity))
 	bullet.bullet_damage = attack_damage
 	bullet.bullet_durable = bullet_durable
 	add_child(bullet)

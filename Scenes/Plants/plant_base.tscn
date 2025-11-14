@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://bogt33n2qc3tv"]
+
+[ext_resource type="Script" uid="uid://dbob1e8tbbfja" path="res://Scripts/Plants/plant_driver.gd" id="1_ecqw6"]
+[ext_resource type="Shape2D" uid="uid://dys5g7j4j1rc6" path="res://Scenes/Plants/plant_collision_box.tres" id="2_mmwj3"]
+
+[node name="PlantBase" type="CanvasGroup" groups=["Plant"]]
+
+[node name="PlantDriver" type="Node2D" parent="."]
+script = ExtResource("1_ecqw6")
+metadata/_custom_type_script = "uid://dbob1e8tbbfja"
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = ExtResource("2_mmwj3")

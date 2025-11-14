@@ -2,18 +2,15 @@
 
 [ext_resource type="Script" uid="uid://bot4wbt7422ek" path="res://Scripts/Plants/Sunflower/sunflower.gd" id="1_yahmr"]
 [ext_resource type="PackedScene" uid="uid://cdwcageinhknb" path="res://Scenes/Plants/plant_scene/plant_002_sun_flower.tscn" id="2_an2b3"]
-[ext_resource type="PackedScene" uid="uid://cu038f2q2tgf7" path="res://Scenes/Bullet/bullet_sun.tscn" id="21_crrwv"]
+[ext_resource type="PackedScene" uid="uid://cu038f2q2tgf7" path="res://Scenes/Bullet/bullet_sun.tscn" id="3_crrwv"]
+[ext_resource type="PackedScene" uid="uid://bogt33n2qc3tv" path="res://Scenes/Plants/plant_base.tscn" id="8_vna3r"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_roby2"]
-size = Vector2(80, 100)
-
-[node name="Sunflower" type="Area2D"]
+[node name="Sunflower" instance=ExtResource("8_vna3r")]
 script = ExtResource("1_yahmr")
-bullet_type = ExtResource("21_crrwv")
-attack_timer = 25.0
+bullet_type = ExtResource("3_crrwv")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("RectangleShape2D_roby2")
+[node name="PlantDriver" parent="." index="0"]
+bullet_type = ExtResource("3_crrwv")
 
-[node name="Plant002SunFlower" parent="." instance=ExtResource("2_an2b3")]
+[node name="Plant002SunFlower" parent="." index="2" instance=ExtResource("2_an2b3")]
 position = Vector2(1, 24)
