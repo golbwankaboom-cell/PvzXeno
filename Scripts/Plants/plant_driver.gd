@@ -36,7 +36,7 @@ func _ready():
 	blades.resize(blade_amount)
 	for i in blade_amount:
 		blades[i] = PlantBlade.new()
-	$Plantblade.set_texture(blades)
+	set_texture()
 	#print(blades)
 	#current_velocity = bullet_velocity
 	original_bullet_velocity = bullet_velocity
@@ -46,11 +46,13 @@ func _process(delta):
 	if attack_timer_delta <= 0:
 		attack_timer_delta = attack_timer
 		attack()
-		print("attack_timer",str(attack_timer))
+		#print("attack_timer",str(attack_timer))
 	#处理死亡
 	if health <= 0:
 		die()
-		
+func set_texture():
+	$Plantblade.set_texture(blades)
+##攻击方法
 func attack():
 	emit_signal("attack_signal")
 	#var bullet_position = position
@@ -60,7 +62,7 @@ func attack():
 	#current_velocity = bullet_velocity
 	#print()
 	bullet.bullet_velocity = bullet_velocity
-	print("current_velocity",str(bullet_velocity))
+	#print("current_velocity",str(bullet_velocity))
 	bullet.bullet_damage = attack_damage
 	bullet.bullet_durable = bullet_durable
 	add_child(bullet)

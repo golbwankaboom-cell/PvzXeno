@@ -14,8 +14,14 @@ func _ready():
 	anim.speed_scale = driver.operating_speed
 	if driver.face_foward == false:
 		scale.x = -abs(scale.x)
-func install_blade_plugin():
+func install_blade_plugin(bladeNames)->bool:
 	var 序号=0
 	for blade in %PlantDriver.blades:
 		if blade.addonsNames=="blankPlant":
-			pass
+			%PlantDriver.blades[序号]=PlantManager.get_plant(bladeNames).new()
+			print("序号",序号,%PlantDriver.blades,%PlantDriver.blades[序号])
+			%PlantDriver.blades[序号].effect(driver)##准备效果
+			%PlantDriver.set_texture()##更新显示
+			return true
+		序号+=1
+	return false

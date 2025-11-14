@@ -27,6 +27,20 @@ func get_plant_image(plant_name: String) -> Texture2D:
 	else:
 		# 找不到时返回第一个元素（blankPlant）
 		return plant_Blade.values()[0]
+##植物插件方法
+var Blade = {
+	"blankPlant":PlantBlade,#空白植物
+	"peashooter":Blade_peashooter,#豌豆射手
+	"sunflower":Blade_sunflower,#向日葵
+	}
+## 查询植物插件的函数
+func get_plant(plant_name: String):
+	# 检查字典中是否存在该植物名称
+	if Blade.has(plant_name):
+		return Blade[plant_name]
+	else:
+		# 找不到时返回第一个元素（blankPlant）
+		return Blade.values()[0]
 ##目录用于快速定义关联文件,不在代码内使用
 @warning_ignore("shadowed_global_identifier")
 ##植物卡片

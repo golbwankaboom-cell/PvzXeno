@@ -10,7 +10,8 @@ var board_row : int = 1
 var board_col : int = 1
 
 var current_plant = null 
-var plant=null
+##当前格子的主植物,不是南瓜头这些
+var plant:PlantBase=null
 signal plant_planted(plant_instance, board_position)
 
 func _ready():
@@ -65,12 +66,12 @@ func try_set_plant():#种植条件检查
 func set_plant():
 		var plant_name = SetPlantManager.selected_plant
 		#print("种植",plant_name)
-		var plant : PlantBase = PlantManager.plant_scene[plant_name].instantiate()
-		plant.position = position
+		var _plant : PlantBase = PlantManager.plant_scene[plant_name].instantiate()
+		plant=_plant
+		plant.position = Vector2(0,0)
 		plant.board_row = board_row
 		plant.board_col = board_col
 		$plant.add_child(plant)
-		plant = $plant
 		#current_plant = plant
 		
 		plant_planted.emit(plant, Vector2(board_row, board_col))
@@ -79,7 +80,8 @@ func set_plant():
 		
 		#print(current_plant)
 		#print(PlantManager.selected_plant)
-
-			
+##种植植物插件
 func set_plant_failed():
+	var plant_name = SetPlantManager.selected_plant
+	plant.install_blade_plugin(plant_name)
 	pass

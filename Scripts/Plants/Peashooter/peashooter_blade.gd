@@ -1,8 +1,10 @@
 extends PlantBlade
+##插件豌豆射手
+class_name Blade_peashooter
 func _init() -> void:
 	addonsNames="peashooter"
 func effect(plant):
-	plant.operating_speed = plant.operating_speed * 2
+	plant.operating_speed = plant.operating_speed * 1.5
 
 
 # var parent
